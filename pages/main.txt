@@ -1,0 +1,37 @@
+== Puzzles and Challenges ==
+Here are three Fuji-san puzzles of increasing difficulty. Instead of shuffling the coins, lay them out as shown in one of the puzzles. Play according to the regular rules and try to get all four priests to the summit. To really show your expertise, count your moves and check that the length of your solution is as short as the solution posted here.
+
+If you can't solve the puzzle or your solution isn't quite short enough, read the complete solution. There are many possible solutions to each puzzle, but none shorter than the ones posted here.
+
+=== Puzzle One - Easy ===
+: 554344221335
+: 311400512200
+
+Check the /LengthOfSolutionOne or see the complete /SolutionOne.
+
+=== Puzzle Two - Medium ===
+: 444520240311
+: 125335325100
+
+Check the /LengthOfSolutionTwo or see the complete /SolutionTwo.
+
+=== Puzzle Three - Hard ===
+: 523043220545
+: 301111542403
+
+Check the /LengthOfSolutionThree or see the complete /SolutionThree.
+
+=== Puzzle Four - Expert ===
+: 551102224335
+: 244331001054
+
+Check the /LengthOfSolutionFour or see the complete /SolutionFour.
+
+
+If you think you have found a shorter solution, first check that you've followed all the rules. If you still think you have a shorter solution, send it to DonKirkby.
+
+=== Challenge One ===
+Find a puzzle harder than any of these. Specifically, its shortest solution should be longer than any of the solutions posted here. Such a puzzle does exist. If you find one, send it to DonKirkby and he'll post the current record holder's name at the /ChallengeOne page.
+
+=== Challenge Two ===
+Find an upper limit for the length of optimal solutions. Each solvable puzzle has one or more solutions that use the fewest moves. These solutions are called "optimal solutions". In other words, imagine you were to analyse all possible layouts and find an optimal solution to each solvable layout. What can you prove about the length of the longest optimal solutions? The lowest upper limit along with a proof will be posted on the /ChallengeTwo page. Send your proof to DonKirkby or just post it on the /ChallengeTwo page.

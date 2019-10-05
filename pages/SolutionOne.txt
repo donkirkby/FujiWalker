@@ -1,0 +1,8 @@
+Here is one possible solution. You may want to read about the /SolutionNotation.
+
+: A554344221335M
+: C311400512200S
+
+12 moves
+
+CR4, CL3, CU, AR3(+1), CR4(+1), CD, ML3, MD, SL5(+1), MU, ML4, AR2(+1)

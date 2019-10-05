@@ -1,0 +1,44 @@
+67191897600 total unique boards.
+
+Mon Jun 13 17:45:18 PDT 2005
+A554344221335M
+C311400512200S
+CR4, CL3, CU, AR3(+1), CR4(+1), CD, ML3, MD, SL5(+1), MU, ML4, AR2(+1)
+previous solution is 12 - 0 moves (checked)
+
+Tue Jun 14 10:12:44 PDT 2005
+A444520240311M
+C125335325100S
+CR1, CR3, CR5, CR1, CU, CR1, CD, ML1, MD, SL1(+2), CL2(+1), CL3, CU, CL4, MU
+ML4, SU, SL5(+1), ML4(+1), AR2(+3), CD, CR5, CU, SD, SR3, MR2(+2), AL4, AD
+AR5
+previous solution is 29 - 0 moves (checked)
+
+Mon Jun 13 17:47:53 PDT 2005
+A523043220545M
+C301111542403S
+AR3, AD, AR1, AR1, AU, AR5, AD, SL4(+1), SR3(+1), SL2(+1), SU, AU, AL4(+1)
+AD, AL1, AU, AL2, AD, SL4, SD, SL3(+1), CR1(+2), SR1(+2), AR4(+2), CR1(+1)
+SR4(+2), AR3(+1), AL2(+1), AU, SU, CU, CR4(+2), ML2(+3), MD, CL2(+2), CD, AL2
+ML1(+1), SL3(+1)
+previous solution is 39 - 0 moves (checked) groovy bouncing when Suns enters.
+
+Tue Jun 14 20:12:57 PDT 2005
+A551102224335M
+C244331001054S
+ML3, ML2, MD, ML3, MU, ML1, ML1, MD, CR3(+1), ML2, MR3(+1), MU, CU, CR4(+1)
+CD, MD, MR5(+1), CU, MU, ML2(+1), MD, CD, CL3(+1), CU, CL1, CL1, MU, ML5(+1)
+CD, CL2, CU, AR1(+2), AR1, MD, CD, CR3(+1), CU, AR4(+1), AD, MR3, MR5(+1), AU
+MU, ML2(+1), CR3(+2), MD, AD, AL3(+1), MR4, CD, AR5(+1), SL1(+3), SU, AU, CU
+MU, ML2(+3), AL2(+3), AD, CL2(+2), MD, SL2
+previous solution is 62 - 0 moves
+
+Tue Jun 14 13:08:37 PDT 2005
+A244331001055M
+C551102224334S
+SL3, SL2, SU, SL3, SD, SL1, SL1, SU, AR3(+1), SL2, SR3(+1), SD, AD, AR4(+1)
+AU, SU, SR5(+1), AD, SD, SL2(+1), SU, AU, AL3(+1), AD, AL1, AL1, SD, SL5(+1)
+AU, AL2, AD, CR1(+2), CR1, SU, AU, AR3(+1), AD, CR4(+1), CU, SR3, SR5(+1), CD
+SD, SL2(+1), AR3(+2), AU, SU, CU, CL3(+1), CR5(+2), SL3, SR5(+1), ML1(+3), MD
+AD, SD, CD, CL2(+3), SL2(+3), SU, CU, AL2(+1), ML2(+1)
+previous solution is 63 - 0 moves

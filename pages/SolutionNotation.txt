@@ -1,0 +1,16 @@
+The solution always starts with the coin layout and the starting positions of the four priests. Next comes the length of the solution, and finally a list of the moves. The moves are separated by commas, and each move has the following parts:
+* Priest - A=Arms, C=Crowns, M=Moons, S=Suns
+* Direction - L=Left, R=Right, U=Up, D=Down (Note that "up" and "down" mean up and down the page, not up and down the mountain.)
+* Steps - only for left or right moves. This is the number of steps on unoccupied spaces.
+* (+Jumps) - only for left or right moves that include jumps over other priests.
+
+Example:
+A151223343151M
+C542002455003S
+
+The first few moves on this board might go as follows:
+* AR1 - The Arms priest moves one space to the right.
+* AD - The Arms priest moves one space down to the 5 coin.
+* CR2(+1) - The Crowns priest moves two unoccupied spaces to the right plus a jump over the Arms priest.
+
+>>>Link to all solutions or pages that link here.

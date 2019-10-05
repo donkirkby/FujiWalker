@@ -1,0 +1,12 @@
+Find an upper limit for the length of optimal solutions.
+
+The lowest upper limit found so far is 20474. This was found on 15 Jun 2005 by DonKirkby. This is a lot longer than the longest solution found so far, so there's plenty of room to improve on challenge one or two.
+
+One upper limit can be found by realizing that the same position of priests cannot be repeated in an optimal solution. If a position were repeated, then all the moves between the two ocurrences could be removed to make a shorter solution, but an optimal solution is the shortest solution possible.
+
+If a position cannot be repeated, then the longest optimal solution cannot be longer than one that contains every possible position. The number of possible positions can be calculated as follows:
+* There are 28 positions possible for a single priest: 24 coins plus 4 starting positions.
+* The priests are identical, so swapping two priests recreates the same position.
+* The number of possible positions is therefore the number of combinations of 4 items (the position of each priest) from a set of 28 (the number of positions possible for a priest. There is a standard formula for this: 28! / 4!(28 - 4)! = 20475.
+
+Therefore, the longest optimal solution cannot be longer than 20474 moves. (Each move goes from one state to the next, so the number of moves is one less than the number of states.)

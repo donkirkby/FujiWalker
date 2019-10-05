@@ -1,0 +1,1060 @@
+All boards: 10000, unique boards: 10000. Mon Jul 05 18:06:03 PDT 2004
+null, null, 5, 4, 5, 4, 5, 4, 0, 4, 3, 2, 3, 2, 1, 3, 2, 3, 1, 0, 1, 0, 0, 2, 1, 5, null, null
+All boards: 20000, unique boards: 20000. Mon Jul 05 18:06:03 PDT 2004
+null, null, 5, 4, 5, 4, 5, 3, 1, 2, 3, 2, 3, 2, 4, 1, 4, 5, 1, 0, 1, 0, 0, 2, 0, 3, null, null
+All boards: 30000, unique boards: 30000. Mon Jul 05 18:06:03 PDT 2004
+null, null, 5, 4, 5, 4, 5, 3, 2, 0, 3, 2, 3, 2, 1, 0, 1, 3, 1, 0, 1, 0, 2, 4, 4, 5, null, null
+All boards: 40000, unique boards: 40000. Mon Jul 05 18:06:04 PDT 2004
+null, null, 5, 4, 5, 4, 5, 2, 2, 4, 3, 2, 3, 2, 3, 4, 1, 3, 1, 0, 1, 0, 0, 1, 0, 5, null, null
+All boards: 50000, unique boards: 50000. Mon Jul 05 18:06:04 PDT 2004
+null, null, 5, 4, 5, 4, 5, 2, 3, 1, 3, 2, 3, 2, 0, 3, 4, 5, 1, 0, 1, 0, 1, 4, 0, 2, null, null
+All boards: 60000, unique boards: 60000. Mon Jul 05 18:06:04 PDT 2004
+null, null, 5, 4, 5, 4, 5, 1, 4, 0, 3, 2, 3, 2, 3, 0, 1, 2, 1, 0, 1, 0, 2, 4, 3, 5, null, null
+All boards: 70000, unique boards: 70000. Mon Jul 05 18:06:04 PDT 2004
+null, null, 5, 4, 5, 4, 5, 0, 4, 3, 3, 2, 3, 2, 4, 3, 1, 2, 1, 0, 1, 0, 1, 2, 0, 5, null, null
+All boards: 80000, unique boards: 80000. Mon Jul 05 18:06:04 PDT 2004
+null, null, 5, 4, 5, 4, 5, 0, 5, 1, 3, 2, 3, 2, 2, 3, 3, 4, 1, 0, 1, 0, 1, 4, 0, 2, null, null
+All boards: 90000, unique boards: 90000. Mon Jul 05 18:06:05 PDT 2004
+null, null, 5, 4, 5, 4, 4, 5, 0, 1, 3, 2, 3, 2, 3, 0, 2, 3, 1, 0, 1, 0, 2, 1, 4, 5, null, null
+All boards: 100000, unique boards: 100000. Mon Jul 05 18:06:05 PDT 2004
+null, null, 5, 4, 5, 4, 4, 5, 0, 4, 3, 2, 3, 2, 0, 3, 2, 3, 1, 0, 1, 0, 2, 1, 1, 5, null, null
+All boards: 200000, unique boards: 200000. Mon Jul 05 18:06:06 PDT 2004
+null, null, 5, 4, 5, 4, 3, 4, 1, 2, 3, 2, 3, 2, 1, 5, 4, 5, 1, 0, 1, 0, 0, 2, 0, 3, null, null
+All boards: 300000, unique boards: 300000. Mon Jul 05 18:06:07 PDT 2004
+null, null, 5, 4, 5, 4, 2, 3, 2, 0, 3, 2, 3, 2, 4, 1, 1, 3, 1, 0, 1, 0, 5, 0, 4, 5, null, null
+All boards: 400000, unique boards: 399628. Mon Jul 05 18:06:09 PDT 2004
+null, null, 5, 4, 5, 4, 1, 2, 2, 4, 3, 2, 3, 2, 5, 3, 1, 3, 1, 0, 1, 0, 0, 4, 0, 5, null, null
+All boards: 500000, unique boards: 497042. Mon Jul 05 18:06:10 PDT 2004
+null, null, 5, 4, 5, 4, 0, 2, 3, 1, 3, 2, 3, 2, 1, 3, 4, 5, 1, 0, 1, 0, 5, 4, 0, 2, null, null
+All boards: 600000, unique boards: 596184. Mon Jul 05 18:06:11 PDT 2004
+null, null, 5, 4, 5, 4, 5, 0, 4, 0, 3, 2, 3, 2, 2, 1, 1, 2, 1, 0, 0, 1, 3, 4, 3, 5, null, null
+All boards: 700000, unique boards: 696184. Mon Jul 05 18:06:12 PDT 2004
+null, null, 5, 4, 5, 4, 3, 5, 4, 3, 3, 2, 3, 2, 1, 4, 1, 2, 1, 0, 0, 1, 2, 0, 0, 5, null, null
+All boards: 800000, unique boards: 796184. Mon Jul 05 18:06:13 PDT 2004
+null, null, 5, 4, 5, 4, 2, 4, 5, 1, 3, 2, 3, 2, 3, 5, 3, 4, 1, 0, 0, 1, 0, 1, 0, 2, null, null
+All boards: 900000, unique boards: 896148. Mon Jul 05 18:06:15 PDT 2004
+null, null, 5, 4, 5, 4, 1, 3, 0, 1, 3, 2, 3, 2, 5, 4, 2, 3, 1, 0, 0, 1, 0, 2, 4, 5, null, null
+All boards: 1000000, unique boards: 994483. Mon Jul 05 18:06:16 PDT 2004
+null, null, 5, 4, 5, 4, 0, 3, 0, 4, 3, 2, 3, 2, 1, 4, 2, 3, 1, 0, 0, 1, 5, 2, 1, 5, null, null
+All boards: 2000000, unique boards: 1982612. Mon Jul 05 18:06:28 PDT 2004
+null, null, 5, 4, 5, 4, 0, 5, 1, 2, 3, 2, 3, 1, 2, 1, 4, 5, 1, 0, 0, 2, 3, 4, 0, 3, null, null
+All boards: 3000000, unique boards: 2967096. Mon Jul 05 18:06:41 PDT 2004
+null, null, 5, 4, 5, 4, 1, 2, 2, 0, 3, 2, 3, 0, 3, 4, 1, 3, 1, 0, 1, 2, 5, 0, 4, 5, null, null
+All boards: 4000000, unique boards: 3955930. Mon Jul 05 18:06:53 PDT 2004
+null, null, 5, 4, 5, 4, 1, 4, 2, 4, 3, 2, 2, 3, 3, 0, 1, 3, 1, 0, 0, 1, 2, 5, 0, 5, null, null
+All boards: 5000000, unique boards: 4940096. Mon Jul 05 18:07:06 PDT 2004
+null, null, 5, 4, 5, 4, 2, 0, 3, 1, 3, 2, 2, 1, 4, 3, 4, 5, 1, 0, 0, 3, 5, 1, 0, 2, null, null
+All boards: 6000000, unique boards: 5919432. Mon Jul 05 18:07:19 PDT 2004
+null, null, 5, 4, 5, 4, 2, 3, 4, 0, 3, 2, 2, 0, 5, 0, 1, 2, 1, 0, 1, 3, 1, 4, 3, 5, null, null
+All boards: 7000000, unique boards: 6901036. Mon Jul 05 18:07:30 PDT 2004
+null, null, 5, 4, 5, 4, 2, 5, 4, 3, 3, 2, 1, 3, 4, 1, 1, 2, 1, 0, 0, 2, 3, 0, 0, 5, null, null
+All boards: 8000000, unique boards: 7884458. Mon Jul 05 18:07:43 PDT 2004
+null, null, 5, 4, 5, 4, 3, 2, 5, 1, 3, 2, 1, 2, 0, 1, 3, 4, 1, 0, 0, 3, 4, 5, 0, 2, null, null
+All boards: 9000000, unique boards: 8859456. Mon Jul 05 18:07:55 PDT 2004
+null, null, 5, 4, 5, 4, 3, 5, 0, 1, 3, 2, 1, 0, 0, 4, 2, 3, 1, 0, 2, 3, 1, 2, 4, 5, null, null
+All boards: 10000000, unique boards: 9834328. Mon Jul 05 18:08:09 PDT 2004
+null, null, 5, 4, 5, 4, 4, 1, 0, 4, 3, 2, 0, 3, 2, 0, 2, 3, 1, 0, 1, 2, 5, 3, 1, 5, null, null
+All boards: 20000000, unique boards: 19647080. Mon Jul 05 18:10:11 PDT 2004
+null, null, 5, 4, 5, 3, 2, 3, 1, 2, 3, 2, 1, 2, 4, 1, 4, 5, 1, 0, 4, 0, 0, 5, 0, 3, null, null
+All boards: 30000000, unique boards: 29422668. Mon Jul 05 18:12:12 PDT 2004
+null, null, 5, 4, 5, 2, 0, 4, 2, 0, 3, 2, 3, 1, 5, 2, 1, 3, 1, 0, 0, 4, 3, 1, 4, 5, null, null
+All boards: 40000000, unique boards: 39155440. Mon Jul 05 18:14:19 PDT 2004
+null, null, 5, 4, 5, 1, 5, 0, 2, 4, 3, 2, 4, 0, 1, 4, 1, 3, 1, 0, 2, 3, 2, 3, 0, 5, null, null
+All boards: 50000000, unique boards: 48869024. Mon Jul 05 18:16:38 PDT 2004
+null, null, 5, 4, 5, 0, 3, 1, 3, 1, 3, 2, 4, 3, 2, 5, 4, 5, 1, 0, 2, 1, 4, 0, 0, 2, null, null
+All boards: 60000000, unique boards: 58589952. Mon Jul 05 18:18:41 PDT 2004
+null, null, 5, 4, 5, 0, 1, 3, 4, 0, 3, 2, 1, 4, 5, 0, 1, 2, 1, 0, 2, 3, 2, 4, 3, 5, null, null
+All boards: 70000000, unique boards: 67953508. Mon Jul 05 18:20:45 PDT 2004
+null, null, 5, 4, 4, 5, 5, 4, 4, 3, 3, 2, 1, 2, 0, 1, 1, 2, 1, 0, 0, 3, 3, 2, 0, 5, null, null
+All boards: 80000000, unique boards: 77212028. Mon Jul 05 18:22:45 PDT 2004
+null, null, 5, 4, 4, 3, 4, 0, 5, 1, 3, 2, 2, 0, 2, 3, 3, 4, 1, 0, 5, 1, 1, 5, 0, 2, null, null
+All boards: 90000000, unique boards: 86422224. Mon Jul 05 18:24:52 PDT 2004
+null, null, 5, 4, 4, 2, 2, 1, 0, 1, 3, 2, 5, 0, 4, 5, 2, 3, 1, 0, 1, 3, 0, 3, 4, 5, null, null
+All boards: 100000000, unique boards: 95601484. Mon Jul 05 18:26:58 PDT 2004
+null, null, 5, 4, 4, 1, 0, 3, 0, 4, 3, 2, 5, 3, 5, 4, 2, 3, 1, 0, 2, 0, 2, 1, 1, 5, null, null
+All boards: 200000000, unique boards: 182674466. Mon Jul 05 18:47:39 PDT 2004
+null, null, 5, 4, 2, 4, 1, 0, 1, 2, 3, 2, 5, 3, 5, 4, 4, 5, 1, 0, 0, 1, 2, 3, 0, 3, null, null
+All boards: 300000000, unique boards: 260747880. Mon Jul 05 19:08:26 PDT 2004
+null, null, 5, 4, 1, 0, 1, 4, 2, 0, 3, 2, 5, 3, 5, 2, 1, 3, 1, 0, 4, 2, 3, 0, 4, 5, null, null
+All boards: 400000000, unique boards: 338649376. Mon Jul 05 19:30:32 PDT 2004
+null, null, 5, 4, 5, 2, 2, 1, 2, 4, 3, 2, 4, 1, 5, 3, 1, 3, 0, 1, 0, 3, 0, 4, 0, 5, null, null
+All boards: 500000000, unique boards: 432437210. Mon Jul 05 19:52:24 PDT 2004
+null, null, 5, 4, 3, 5, 2, 5, 3, 1, 3, 2, 4, 0, 4, 0, 4, 5, 0, 1, 2, 1, 3, 1, 0, 2, null, null
+All boards: 600000000, unique boards: 516774744. Mon Jul 05 20:14:15 PDT 2004
+null, null, 5, 4, 2, 1, 3, 2, 4, 0, 3, 2, 5, 0, 5, 0, 1, 2, 0, 1, 3, 4, 1, 4, 3, 5, null, null
+All boards: 700000000, unique boards: 592477498. Mon Jul 05 20:36:15 PDT 2004
+null, null, 5, 4, 0, 4, 4, 0, 4, 3, 3, 2, 3, 5, 3, 5, 1, 2, 0, 1, 2, 1, 2, 1, 0, 5, null, null
+All boards: 800000000, unique boards: 677057336. Mon Jul 05 20:58:04 PDT 2004
+null, null, 5, 4, 5, 0, 4, 3, 5, 1, 3, 1, 3, 4, 2, 5, 3, 4, 2, 0, 1, 2, 0, 1, 0, 2, null, null
+All boards: 900000000, unique boards: 767921580. Mon Jul 05 21:19:59 PDT 2004
+null, null, 5, 4, 3, 2, 5, 1, 0, 1, 3, 1, 4, 1, 3, 4, 2, 3, 2, 0, 5, 0, 0, 2, 4, 5, null, null
+All boards: 1000000000, unique boards: 850222753. Mon Jul 05 21:41:55 PDT 2004
+null, null, 5, 4, 1, 5, 5, 4, 0, 4, 3, 1, 3, 2, 2, 1, 2, 3, 2, 0, 0, 4, 3, 0, 1, 5, null, null
+All boards: 2000000000, unique boards: 1686225872. Tue Jul 06 01:20:04 PDT 2004
+null, null, 5, 4, 3, 5, 5, 4, 1, 2, 3, 0, 0, 4, 1, 0, 4, 5, 1, 2, 2, 1, 2, 3, 0, 3, null, null
+All boards: 3000000000, unique boards: 2510142384. Tue Jul 06 05:00:01 PDT 2004
+null, null, 5, 4, 5, 3, 5, 3, 2, 0, 2, 1, 4, 1, 4, 1, 1, 3, 3, 0, 0, 2, 2, 0, 4, 5, null, null
+All boards: 4000000000, unique boards: 3354704437. Tue Jul 06 08:40:56 PDT 2004
+null, null, 5, 4, 1, 4, 5, 3, 2, 4, 2, 0, 2, 5, 2, 0, 1, 3, 3, 1, 3, 0, 1, 4, 0, 5, null, null
+All boards: 5000000000, unique boards: 4191184388. Tue Jul 06 12:19:56 PDT 2004
+null, null, 
+
+5, 4, 
+3, 4, 
+5, 3, 
+3, 1, 
+
+1, 3, 
+0, 2, 
+0, 2, 
+4, 5, 
+
+0, 2, 
+1, 5, 
+4, 1, 
+0, 2, 
+
+null, null
+All boards: 6000000000, unique boards: 5014766256. Tue Jul 06 15:59:52 PDT 2004
+null, null, 
+
+5, 4, 
+5, 2, 
+5, 2, 
+4, 0, 
+
+1, 0, 
+3, 4, 
+4, 0, 
+1, 2, 
+
+3, 2, 
+1, 0, 
+1, 3, 
+3, 5, 
+
+null, null
+All boards: 7000000000, unique boards: 5854474525. Tue Jul 06 19:50:28 PDT 2004
+null, null, 5, 4, 1, 3, 5, 2, 4, 3, 0, 3, 2, 4, 1, 3, 1, 2, 2, 1, 0, 5, 4, 0, 0, 5, null, null
+All boards: 8000000000, unique boards: 6691283912. Tue Jul 06 23:42:46 PDT 2004
+null, null, 5, 4, 3, 1, 5, 2, 5, 1, 0, 2, 5, 4, 0, 1, 3, 4, 1, 3, 2, 0, 3, 4, 0, 2, null, null
+All boards: 9000000000, unique boards: 7514232732. Wed Jul 07 03:35:35 PDT 2004
+null, null, 5, 3, 5, 1, 5, 1, 0, 1, 4, 2, 3, 2, 3, 4, 2, 3, 1, 0, 0, 4, 0, 2, 4, 5, null, null
+All boards: 10000000000, unique boards: 8355544906. Wed Jul 07 07:26:32 PDT 2004
+null, null, 
+5, 3, 1, 2, 5, 1, 0, 4, 
+4, 1, 0, 5, 2, 0, 2, 3, 
+2, 0, 4, 3, 4, 3, 1, 5, 
+null, null
+All boards: 10500000000, unique boards: 8770579560. Thu Jul 08 18:47:56 PDT 2004
+null, null, 5, 3, 5, 1, 2, 1, 4, 0, 4, 0, 0, 2, 0, 4, 1, 2, 2, 1, 4, 3, 3, 5, 3, 5, null, null
+All boards: 11000000000, unique boards: 9196685696. Thu Jul 08 19:36:02 PDT 2004
+null, null, 5, 3, 3, 0, 5, 0, 1, 2, 4, 0, 5, 2, 4, 3, 4, 5, 1, 2, 1, 4, 1, 2, 0, 3, null, null
+All boards: 11500000000, unique boards: 9608795674. Thu Jul 08 20:24:47 PDT 2004
+null, null, 5, 3, 1, 0, 2, 0, 4, 3, 2, 4, 4, 5, 4, 5, 1, 2, 1, 0, 2, 3, 3, 1, 0, 5, null, null
+All boards: 12000000000, unique boards: 10025268672. Thu Jul 08 21:13:49 PDT 2004
+null, null, 5, 3, 5, 0, 5, 0, 2, 0, 2, 1, 2, 4, 3, 1, 1, 3, 4, 0, 3, 1, 4, 2, 4, 5, null, null
+All boards: 12500000000, unique boards: 10449624848. Thu Jul 08 22:03:01 PDT 2004
+null, null, 5, 3, 3, 0, 2, 0, 5, 1, 2, 1, 2, 1, 3, 4, 3, 4, 0, 4, 5, 4, 1, 5, 0, 2, null, null
+All boards: 13000000000, unique boards: 10859270530. Thu Jul 08 22:51:54 PDT 2004
+null, null, 5, 3, 1, 0, 5, 0, 2, 4, 2, 0, 2, 4, 1, 4, 1, 3, 4, 1, 3, 5, 2, 3, 0, 5, null, null
+All boards: 13500000000, unique boards: 11275533576. Thu Jul 08 23:40:48 PDT 2004
+null, null, 5, 3, 4, 5, 2, 0, 0, 1, 1, 4, 3, 2, 1, 3, 2, 3, 2, 0, 0, 1, 4, 5, 4, 5, null, null
+All boards: 14000000000, unique boards: 11699840336. Fri Jul 09 00:29:50 PDT 2004
+null, null, 5, 3, 2, 5, 4, 5, 3, 1, 1, 4, 3, 4, 3, 0, 4, 5, 0, 2, 1, 0, 2, 1, 0, 2, null, null
+All boards: 14500000000, unique boards: 12109101334. Fri Jul 09 01:18:41 PDT 2004
+null, null, 5, 3, 0, 5, 1, 5, 0, 4, 1, 2, 3, 1, 3, 2, 2, 3, 4, 0, 4, 2, 4, 0, 1, 5, null, null
+All boards: 15000000000, unique boards: 12526831428. Fri Jul 09 02:07:29 PDT 2004
+null, null, 5, 3, 4, 5, 4, 5, 4, 0, 1, 0, 1, 2, 1, 3, 1, 2, 4, 2, 0, 3, 0, 2, 3, 5, null, null
+All boards: 15500000000, unique boards: 12948260204. Fri Jul 09 02:56:38 PDT 2004
+null, null, 5, 3, 2, 5, 1, 5, 1, 2, 1, 0, 0, 4, 2, 0, 4, 5, 2, 4, 1, 3, 3, 4, 0, 3, null, null
+All boards: 16000000000, unique boards: 13356227290. Fri Jul 09 03:45:36 PDT 2004
+null, null, 5, 3, 0, 4, 4, 5, 4, 3, 0, 4, 5, 3, 0, 1, 1, 2, 2, 1, 2, 1, 3, 2, 0, 5, null, null
+All boards: 16500000000, unique boards: 13775913444. Fri Jul 09 04:34:31 PDT 2004
+null, null, 5, 3, 4, 3, 1, 4, 2, 0, 0, 2, 5, 0, 5, 2, 1, 3, 4, 1, 2, 1, 3, 0, 4, 5, null, null
+All boards: 17000000000, unique boards: 14196854144. Fri Jul 09 05:23:23 PDT 2004
+null, null, 5, 3, 2, 4, 4, 3, 5, 1, 0, 2, 3, 1, 2, 5, 3, 4, 1, 4, 0, 5, 0, 1, 0, 2, null, null
+All boards: 17500000000, unique boards: 14603071258. Fri Jul 09 06:12:23 PDT 2004
+null, null, 5, 3, 0, 4, 1, 4, 2, 4, 0, 1, 2, 5, 3, 0, 1, 3, 4, 2, 1, 3, 2, 5, 0, 5, null, null
+All boards: 18000000000, unique boards: 15023384784. Fri Jul 09 07:01:20 PDT 2004
+null, null, 5, 2, 4, 3, 4, 3, 0, 1, 4, 3, 0, 5, 1, 2, 2, 3, 1, 0, 2, 1, 0, 5, 4, 5, null, null
+All boards: 18500000000, unique boards: 15446581472. Fri Jul 09 07:49:48 PDT 2004
+null, null, 5, 2, 2, 4, 1, 4, 3, 1, 4, 3, 0, 1, 0, 3, 4, 5, 0, 1, 5, 3, 5, 2, 0, 2, null, null
+All boards: 19000000000, unique boards: 15854696173. Fri Jul 09 08:38:04 PDT 2004
+null, null, 5, 2, 0, 3, 4, 2, 0, 4, 4, 1, 5, 2, 5, 3, 2, 3, 3, 0, 1, 4, 1, 0, 1, 5, null, null
+
+All boards: 19500000000, unique boards: 16278384960. Fri Jul 09 18:30:32 PDT 2004
+null, null, 5, 2, 4, 2, 1, 3, 4, 0, 4, 0, 3, 5, 5, 0, 1, 2, 3, 1, 0, 1, 2, 4, 3, 5, null, null
+All boards: 20000000000, unique boards: 16699139276. Fri Jul 09 19:18:24 PDT 2004
+null, null, 5, 2, 2, 3, 4, 2, 1, 2, 4, 0, 1, 5, 3, 1, 4, 5, 1, 3, 4, 0, 0, 5, 0, 3, null, null
+All boards: 20500000000, unique boards: 17106499402. Fri Jul 09 20:06:56 PDT 2004
+null, null, 5, 2, 0, 3, 1, 3, 4, 3, 3, 4, 2, 1, 2, 4, 1, 2, 1, 0, 5, 4, 5, 0, 0, 5, null, null
+All boards: 21000000000, unique boards: 17532353292. Fri Jul 09 20:55:27 PDT 2004
+null, null, 5, 2, 4, 2, 4, 2, 2, 0, 3, 1, 0, 3, 0, 5, 1, 3, 4, 0, 1, 5, 3, 1, 4, 5, null, null
+All boards: 21500000000, unique boards: 17952179360. Fri Jul 09 21:43:50 PDT 2004
+null, null, 5, 2, 2, 1, 1, 3, 5, 1, 3, 1, 5, 4, 0, 2, 3, 4, 0, 4, 0, 3, 4, 5, 0, 2, null, null
+All boards: 22000000000, unique boards: 18357283285. Fri Jul 09 22:32:18 PDT 2004
+null, null, 5, 2, 0, 2, 4, 1, 2, 4, 3, 0, 4, 5, 5, 2, 1, 3, 4, 1, 3, 1, 0, 3, 0, 5, null, null
+All boards: 22500000000, unique boards: 18783041892. Fri Jul 09 23:21:01 PDT 2004
+null, null, 5, 2, 4, 1, 1, 2, 0, 1, 1, 4, 3, 0, 4, 5, 2, 3, 3, 0, 5, 2, 0, 3, 4, 5, null, null
+All boards: 23000000000, unique boards: 19202099252. Sat Jul 10 00:09:28 PDT 2004
+null, null, 5, 2, 2, 1, 4, 1, 3, 1, 1, 4, 3, 4, 2, 5, 4, 5, 0, 3, 0, 5, 3, 0, 0, 2, null, null
+All boards: 23500000000, unique boards: 19606389466. Sat Jul 10 00:57:37 PDT 2004
+null, null, 5, 2, 0, 2, 1, 2, 0, 4, 1, 3, 1, 5, 3, 0, 2, 3, 4, 0, 3, 4, 5, 4, 1, 5, null, null
+All boards: 24000000000, unique boards: 20033216496. Sat Jul 10 01:45:27 PDT 2004
+null, null, 5, 2, 4, 0, 4, 1, 4, 0, 1, 0, 5, 3, 0, 3, 1, 2, 4, 3, 2, 1, 2, 5, 3, 5, null, null
+All boards: 24500000000, unique boards: 20449414952. Sat Jul 10 02:33:57 PDT 2004
+null, null, 5, 2, 2, 0, 1, 0, 1, 2, 1, 0, 5, 1, 5, 4, 4, 5, 3, 4, 4, 3, 2, 3, 0, 3, null, null
+All boards: 25000000000, unique boards: 20852279254. Sat Jul 10 03:22:17 PDT 2004
+null, null, 5, 2, 0, 1, 4, 0, 4, 3, 0, 4, 4, 3, 3, 5, 1, 2, 3, 1, 2, 5, 2, 1, 0, 5, null, null
+All boards: 25500000000, unique boards: 21280745700. Sat Jul 10 04:10:50 PDT 2004
+null, null, 5, 2, 4, 0, 1, 0, 2, 0, 0, 3, 2, 5, 4, 2, 1, 3, 4, 1, 1, 3, 5, 3, 4, 5, null, null
+All boards: 26000000000, unique boards: 21696978452. Sat Jul 10 04:59:14 PDT 2004
+null, null, 5, 2, 2, 0, 4, 0, 5, 1, 0, 3, 1, 5, 2, 3, 3, 4, 1, 4, 4, 3, 1, 5, 0, 2, null, null
+All boards: 26500000000, unique boards: 22098024058. Sat Jul 10 05:47:19 PDT 2004
+null, null, 5, 2, 0, 1, 1, 0, 2, 4, 0, 1, 2, 3, 2, 5, 1, 3, 4, 3, 5, 4, 3, 4, 0, 5, null, null
+All boards: 27000000000, unique boards: 22527364968. Sat Jul 10 06:35:14 PDT 2004
+null, null, 5, 1, 3, 5, 4, 0, 0, 1, 4, 3, 4, 1, 1, 2, 2, 3, 2, 0, 0, 2, 3, 5, 4, 5, null, null
+All boards: 27500000000, unique boards: 22945229012. Sat Jul 10 07:23:04 PDT 2004
+null, null, 5, 1, 1, 5, 0, 5, 3, 1, 4, 3, 3, 4, 4, 1, 4, 5, 0, 2, 0, 2, 3, 2, 0, 2, null, null
+All boards: 28000000000, unique boards: 23350445632. Sat Jul 10 08:10:56 PDT 2004
+null, null, 5, 1, 5, 4, 3, 5, 0, 4, 4, 2, 1, 3, 2, 1, 2, 3, 0, 3, 2, 0, 4, 0, 1, 5, null, null
+All boards: 28500000000, unique boards: 23781016080. Sat Jul 10 08:58:55 PDT 2004
+null, null, 5, 1, 3, 5, 0, 5, 4, 0, 4, 0, 1, 0, 2, 4, 1, 2, 3, 2, 4, 2, 1, 3, 3, 5, null, null
+All boards: 29000000000, unique boards: 24196417988. Sat Jul 10 09:47:13 PDT 2004
+null, null, 5, 1, 1, 5, 3, 5, 1, 2, 4, 0, 0, 3, 1, 0, 4, 5, 2, 3, 2, 4, 2, 4, 0, 3, null, null
+All boards: 29500000000, unique boards: 24603020368. Sat Jul 10 10:34:57 PDT 2004
+null, null, 5, 1, 5, 3, 0, 5, 4, 3, 3, 4, 4, 2, 1, 2, 1, 2, 0, 2, 0, 1, 4, 3, 0, 5, null, null
+All boards: 30000000000, unique boards: 25033128384. Sat Jul 10 11:22:51 PDT 2004
+null, null, 5, 1, 3, 4, 3, 4, 2, 0, 3, 2, 2, 5, 5, 1, 1, 3, 4, 0, 1, 0, 2, 0, 4, 5, null, null
+All boards: 30500000000, unique boards: 25448169692. Sat Jul 10 12:10:44 PDT 2004
+null, null, 5, 1, 1, 4, 0, 4, 5, 1, 3, 2, 3, 0, 3, 5, 3, 4, 0, 4, 5, 2, 1, 2, 0, 2, null, null
+All boards: 31000000000, unique boards: 25854798577. Sat Jul 10 12:58:42 PDT 2004
+null, null, 5, 1, 5, 3, 3, 4, 2, 4, 3, 0, 1, 2, 2, 0, 1, 3, 2, 4, 0, 4, 1, 5, 0, 5, null, null
+All boards: 31500000000, unique boards: 26282691504. Sat Jul 10 13:46:50 PDT 2004
+null, null, 5, 1, 3, 4, 0, 4, 0, 1, 2, 4, 0, 5, 2, 3, 2, 3, 3, 0, 1, 2, 1, 5, 4, 5, null, null
+All boards: 32000000000, unique boards: 26697214364. Sat Jul 10 14:34:55 PDT 2004
+null, null, 5, 1, 1, 3, 3, 4, 3, 1, 2, 4, 5, 4, 0, 2, 4, 5, 0, 3, 2, 0, 5, 1, 0, 2, null, null
+All boards: 32500000000, unique boards: 27106116832. Sat Jul 10 15:23:06 PDT 2004
+null, null, 5, 1, 5, 2, 0, 3, 0, 4, 2, 3, 4, 0, 5, 4, 2, 3, 0, 4, 3, 1, 2, 1, 1, 5, null, null
+All boards: 33000000000, unique boards: 27533213964. Sat Jul 10 16:11:23 PDT 2004
+null, null, 5, 1, 3, 2, 3, 2, 4, 0, 2, 0, 4, 1, 5, 0, 1, 2, 4, 3, 0, 5, 1, 4, 3, 5, null, null
+All boards: 33500000000, unique boards: 27944879204. Sat Jul 10 16:59:16 PDT 2004
+null, null, 5, 1, 1, 3, 0, 3, 1, 2, 2, 0, 2, 5, 4, 2, 4, 5, 3, 4, 0, 4, 1, 5, 0, 3, null, null
+All boards: 34000000000, unique boards: 28354123756. Sat Jul 10 17:47:07 PDT 2004
+null, null, 5, 1, 5, 2, 3, 2, 4, 3, 0, 4, 0, 4, 1, 4, 1, 2, 2, 3, 3, 1, 5, 0, 0, 5, null, null
+All boards: 34500000000, unique boards: 28779720192. Sat Jul 10 18:35:12 PDT 2004
+null, null, 5, 1, 3, 2, 0, 3, 2, 0, 0, 3, 0, 1, 1, 5, 1, 3, 4, 2, 5, 4, 4, 2, 4, 5, null, null
+All boards: 35000000000, unique boards: 29190624512. Sat Jul 10 19:22:58 PDT 2004
+null, null, 5, 1, 1, 2, 3, 2, 5, 1, 0, 3, 5, 3, 0, 1, 3, 4, 2, 4, 0, 4, 4, 5, 0, 2, null, null
+All boards: 35500000000, unique boards: 29600529328. Sat Jul 10 20:10:55 PDT 2004
+null, null, 5, 1, 5, 1, 0, 2, 2, 4, 0, 2, 3, 4, 5, 3, 1, 3, 3, 4, 0, 2, 1, 4, 0, 5, null, null
+All boards: 36000000000, unique boards: 30025459500. Sat Jul 10 20:58:57 PDT 2004
+null, null, 5, 0, 3, 1, 3, 1, 0, 1, 4, 3, 2, 5, 4, 5, 2, 3, 2, 1, 4, 0, 0, 2, 4, 5, null, null
+All boards: 36500000000, unique boards: 30438061232. Sat Jul 10 21:46:54 PDT 2004
+null, null, 5, 0, 1, 2, 0, 2, 3, 1, 4, 3, 3, 0, 3, 5, 4, 5, 1, 2, 5, 4, 4, 1, 0, 2, null, null
+All boards: 37000000000, unique boards: 30851993908. Sat Jul 10 22:34:41 PDT 2004
+null, null, 5, 0, 5, 1, 3, 1, 0, 4, 4, 2, 0, 3, 2, 0, 2, 3, 1, 3, 2, 4, 5, 4, 1, 5, null, null
+All boards: 37500000000, unique boards: 31277405280. Sat Jul 10 23:22:39 PDT 2004
+null, null, 5, 0, 3, 0, 0, 2, 4, 0, 4, 1, 5, 4, 1, 4, 1, 2, 3, 2, 1, 2, 3, 5, 3, 5, null, null
+All boards: 38000000000, unique boards: 31688135018. Sun Jul 11 00:10:52 PDT 2004
+null, null, 5, 0, 1, 0, 3, 0, 1, 2, 4, 1, 4, 5, 5, 4, 4, 5, 2, 3, 3, 2, 1, 2, 0, 3, null, null
+All boards: 38500000000, unique boards: 32103700324. Sun Jul 11 00:58:29 PDT 2004
+null, null, 5, 0, 5, 0, 0, 1, 4, 3, 3, 4, 3, 1, 4, 5, 1, 2, 1, 2, 4, 2, 3, 2, 0, 5, null, null
+All boards: 39000000000, unique boards: 32528469504. Sun Jul 11 01:46:39 PDT 2004
+null, null, 5, 0, 3, 0, 3, 0, 2, 0, 3, 2, 2, 4, 4, 1, 1, 3, 4, 1, 1, 5, 5, 2, 4, 5, null, null
+All boards: 39500000000, unique boards: 32938241552. Sun Jul 11 02:34:53 PDT 2004
+null, null, 5, 0, 1, 0, 0, 1, 5, 1, 3, 2, 2, 5, 3, 4, 3, 4, 1, 4, 3, 4, 2, 5, 0, 2, null, null
+All boards: 40000000000, unique boards: 33354010240. Sun Jul 11 03:22:59 PDT 2004
+null, null, 5, 0, 4, 5, 3, 0, 2, 4, 3, 1, 3, 2, 1, 5, 1, 3, 2, 4, 1, 0, 2, 4, 0, 5, null, null
+All boards: 40500000000, unique boards: 33777033480. Sun Jul 11 04:10:45 PDT 2004
+null, null, 5, 0, 2, 5, 0, 1, 0, 1, 2, 4, 4, 0, 2, 3, 2, 3, 3, 1, 3, 1, 4, 5, 4, 5, null, null
+All boards: 41000000000, unique boards: 34186238888. Sun Jul 11 04:58:20 PDT 2004
+null, null, 5, 0, 0, 5, 2, 5, 3, 1, 2, 4, 3, 2, 4, 0, 4, 5, 1, 3, 1, 4, 3, 1, 0, 2, null, null
+All boards: 41500000000, unique boards: 34603747480. Sun Jul 11 05:46:15 PDT 2004
+null, null, 5, 0, 4, 5, 5, 4, 0, 4, 2, 3, 1, 2, 2, 1, 2, 3, 1, 4, 3, 0, 3, 0, 1, 5, null, null
+All boards: 42000000000, unique boards: 35025565860. Sun Jul 11 06:34:22 PDT 2004
+null, null, 5, 0, 2, 5, 2, 5, 4, 0, 2, 1, 0, 4, 1, 4, 1, 2, 4, 3, 3, 1, 0, 3, 3, 5, null, null
+All boards: 42500000000, unique boards: 35432424992. Sun Jul 11 07:22:14 PDT 2004
+null, null, 5, 0, 0, 5, 5, 4, 1, 2, 2, 1, 1, 2, 1, 0, 4, 5, 3, 4, 3, 4, 2, 3, 0, 3, null, null
+All boards: 43000000000, unique boards: 35851225852. Sun Jul 11 08:10:09 PDT 2004
+null, null, 5, 0, 4, 3, 2, 5, 4, 3, 1, 4, 5, 1, 0, 1, 1, 2, 2, 3, 0, 2, 4, 3, 0, 5, null, null
+All boards: 43500000000, unique boards: 36272287638. Sun Jul 11 08:58:16 PDT 2004
+null, null, 5, 0, 2, 4, 5, 3, 2, 0, 1, 3, 3, 1, 4, 1, 1, 3, 4, 2, 5, 0, 2, 0, 4, 5, null, null
+All boards: 44000000000, unique boards: 36678659600. Sun Jul 11 09:45:50 PDT 2004
+null, null, 5, 0, 0, 4, 2, 4, 5, 1, 1, 3, 2, 5, 3, 5, 3, 4, 2, 4, 3, 1, 0, 1, 0, 2, null, null
+All boards: 44500000000, unique boards: 37098005725. Sun Jul 11 10:33:33 PDT 2004
+null, null, 5, 0, 4, 3, 5, 3, 2, 4, 1, 2, 1, 0, 2, 0, 1, 3, 3, 4, 2, 5, 1, 4, 0, 5, null, null
+All boards: 45000000000, unique boards: 37327910400. Sun Jul 11 11:21:04 PDT 2004
+null, null, 4, 5, 2, 4, 2, 4, 0, 1, 3, 2, 0, 3, 1, 3, 2, 3, 1, 0, 1, 5, 0, 5, 4, 5, null, null
+All boards: 45500000000, unique boards: 37327910400. Sun Jul 11 12:07:50 PDT 2004
+null, null, 4, 5, 0, 3, 5, 3, 3, 1, 3, 2, 5, 2, 0, 2, 4, 5, 0, 1, 4, 1, 4, 1, 0, 2, null, null
+All boards: 46000000000, unique boards: 37327910400. Sun Jul 11 12:54:34 PDT 2004
+null, null, 4, 5, 4, 2, 2, 3, 0, 4, 3, 1, 3, 5, 5, 4, 2, 3, 0, 2, 1, 0, 1, 0, 1, 5, null, null
+All boards: 46500000000, unique boards: 37327910400. Sun Jul 11 13:41:11 PDT 2004
+null, null, 4, 5, 2, 3, 5, 2, 4, 0, 3, 0, 4, 0, 4, 0, 1, 2, 2, 1, 1, 5, 1, 3, 3, 5, null, null
+All boards: 47000000000, unique boards: 37327910400. Sun Jul 11 14:27:40 PDT 2004
+null, null, 4, 5, 0, 3, 2, 3, 1, 2, 3, 0, 2, 4, 4, 1, 4, 5, 1, 2, 1, 5, 0, 5, 0, 3, null, null
+All boards: 47500000000, unique boards: 37327910400. Sun Jul 11 15:14:18 PDT 2004
+null, null, 4, 5, 4, 2, 5, 2, 4, 3, 2, 3, 0, 3, 1, 3, 1, 2, 0, 1, 5, 1, 4, 0, 0, 5, null, null
+All boards: 48000000000, unique boards: 37327910400. Sun Jul 11 16:00:50 PDT 2004
+null, null, 4, 5, 2, 1, 2, 3, 2, 0, 2, 1, 5, 4, 0, 5, 1, 3, 3, 0, 3, 0, 4, 1, 4, 5, null, null
+All boards: 48500000000, unique boards: 37327910400. Sun Jul 11 16:47:19 PDT 2004
+null, null, 4, 5, 0, 2, 5, 2, 5, 1, 2, 1, 5, 1, 0, 1, 3, 4, 0, 3, 3, 4, 3, 4, 0, 2, null, null
+All boards: 49000000000, unique boards: 37327910400. Sun Jul 11 17:33:44 PDT 2004
+null, null, 4, 5, 4, 1, 2, 1, 2, 4, 2, 0, 3, 2, 5, 3, 1, 3, 1, 3, 0, 5, 0, 4, 0, 5, null, null
+All boards: 49500000000, unique boards: 37327910400. Sun Jul 11 18:20:15 PDT 2004
+null, null, 4, 5, 2, 1, 5, 1, 0, 1, 1, 3, 3, 4, 3, 4, 2, 3, 2, 0, 5, 0, 0, 2, 4, 5, null, null
+All boards: 50000000000, unique boards: 37327910400. Sun Jul 11 19:06:39 PDT 2004
+null, null, 4, 5, 0, 2, 2, 1, 3, 1, 1, 3, 1, 5, 3, 5, 4, 5, 0, 2, 4, 3, 4, 0, 0, 2, null, null
+All boards: 50500000000, unique boards: 37327910400. Sun Jul 11 19:53:11 PDT 2004
+null, null, 4, 5, 4, 1, 5, 1, 0, 4, 1, 2, 0, 2, 2, 0, 2, 3, 0, 3, 3, 5, 4, 3, 1, 5, null, null
+All boards: 51000000000, unique boards: 37327910400. Sun Jul 11 20:39:39 PDT 2004
+null, null, 4, 5, 2, 0, 2, 1, 4, 0, 1, 0, 5, 3, 0, 4, 1, 2, 3, 2, 1, 4, 3, 5, 3, 5, null, null
+All boards: 51500000000, unique boards: 37327910400. Sun Jul 11 21:26:09 PDT 2004
+null, null, 4, 5, 0, 1, 5, 0, 1, 2, 1, 0, 4, 3, 4, 3, 4, 5, 2, 3, 5, 2, 1, 2, 0, 3, null, null
+All boards: 52000000000, unique boards: 37327910400. Sun Jul 11 22:12:37 PDT 2004
+null, null, 4, 5, 4, 0, 2, 0, 4, 3, 0, 3, 2, 5, 4, 5, 1, 2, 1, 2, 3, 1, 3, 1, 0, 5, null, null
+All boards: 52500000000, unique boards: 37327910400. Sun Jul 11 22:58:59 PDT 2004
+null, null, 4, 5, 2, 0, 5, 0, 2, 0, 0, 2, 3, 1, 3, 1, 1, 3, 3, 1, 4, 5, 4, 2, 4, 5, null, null
+All boards: 53000000000, unique boards: 37327910400. Sun Jul 11 23:45:25 PDT 2004
+null, null, 4, 5, 0, 1, 2, 0, 5, 1, 0, 2, 2, 4, 3, 4, 3, 4, 1, 3, 3, 5, 1, 5, 0, 2, null, null
+All boards: 53500000000, unique boards: 37327910400. Mon Jul 12 00:32:03 PDT 2004
+null, null, 4, 5, 3, 5, 5, 0, 2, 4, 0, 1, 4, 1, 1, 4, 1, 3, 2, 3, 2, 0, 2, 3, 0, 5, null, null
+All boards: 54000000000, unique boards: 37474191288. Mon Jul 12 01:19:13 PDT 2004
+null, null, 4, 3, 1, 5, 2, 0, 0, 1, 5, 2, 3, 4, 1, 3, 2, 3, 1, 0, 2, 0, 4, 5, 4, 5, null, null
+All boards: 54500000000, unique boards: 37732377284. Mon Jul 12 02:06:47 PDT 2004
+null, null, 4, 3, 5, 4, 4, 5, 3, 1, 5, 1, 2, 0, 3, 0, 4, 5, 2, 0, 1, 3, 2, 1, 0, 2, null, null
+All boards: 55000000000, unique boards: 38010941506. Mon Jul 12 02:54:35 PDT 2004
+null, null, 4, 3, 3, 5, 1, 5, 0, 4, 5, 1, 1, 2, 3, 2, 2, 3, 0, 2, 0, 4, 4, 0, 1, 5, null, null
+All boards: 55500000000, unique boards: 38277797664. Mon Jul 12 03:42:19 PDT 2004
+null, null, 4, 3, 1, 5, 4, 5, 4, 0, 5, 0, 0, 3, 1, 3, 1, 2, 2, 1, 4, 2, 0, 2, 3, 5, null, null
+All boards: 56000000000, unique boards: 38536401512. Mon Jul 12 04:30:06 PDT 2004
+null, null, 4, 3, 5, 3, 1, 5, 1, 2, 2, 5, 4, 2, 2, 0, 4, 5, 1, 0, 1, 0, 3, 4, 0, 3, null, null
+All boards: 56500000000, unique boards: 38814339850. Mon Jul 12 05:17:29 PDT 2004
+null, null, 4, 3, 3, 4, 4, 5, 4, 3, 2, 5, 5, 0, 0, 1, 1, 2, 0, 1, 1, 2, 3, 2, 0, 5, null, null
+All boards: 57000000000, unique boards: 39080169096. Mon Jul 12 06:05:07 PDT 2004
+null, null, 4, 3, 1, 4, 1, 4, 2, 0, 2, 1, 3, 2, 5, 2, 1, 3, 5, 0, 0, 5, 3, 0, 4, 5, null, null
+All boards: 57500000000, unique boards: 39339224396. Mon Jul 12 06:52:35 PDT 2004
+null, null, 4, 3, 5, 3, 4, 3, 5, 1, 2, 0, 1, 2, 2, 5, 3, 4, 5, 1, 4, 0, 0, 1, 0, 2, null, null
+All boards: 58000000000, unique boards: 39614921476. Mon Jul 12 07:40:07 PDT 2004
+null, null, 4, 3, 3, 4, 1, 4, 2, 4, 2, 0, 0, 5, 3, 0, 1, 3, 1, 5, 2, 1, 2, 5, 0, 5, null, null
+All boards: 58500000000, unique boards: 39879726456. Mon Jul 12 08:27:37 PDT 2004
+null, null, 4, 3, 1, 4, 4, 3, 0, 1, 1, 5, 0, 2, 1, 2, 2, 3, 2, 0, 3, 5, 0, 5, 4, 5, null, null
+All boards: 59000000000, unique boards: 40140674048. Mon Jul 12 09:15:14 PDT 2004
+null, null, 4, 3, 5, 2, 1, 4, 3, 1, 1, 2, 4, 1, 0, 3, 4, 5, 5, 0, 0, 3, 5, 2, 0, 2, null, null
+All boards: 59500000000, unique boards: 40415952922. Mon Jul 12 10:04:28 PDT 2004
+null, null, 4, 3, 3, 2, 4, 2, 0, 4, 1, 2, 4, 1, 5, 3, 2, 3, 0, 5, 5, 0, 1, 0, 1, 5, null, null
+
+All boards: 60000000000, unique boards: 40679320896. Mon Jul 12 18:59:32 PDT 2004
+null, null, 4, 3, 1, 3, 1, 3, 4, 0, 1, 0, 2, 5, 5, 0, 1, 2, 5, 2, 4, 0, 2, 4, 3, 5, null, null
+All boards: 60500000000, unique boards: 40939980424. Mon Jul 12 19:46:19 PDT 2004
+null, null, 4, 3, 5, 2, 4, 2, 1, 2, 0, 5, 1, 0, 3, 1, 4, 5, 2, 1, 3, 4, 0, 5, 0, 3, null, null
+All boards: 61000000000, unique boards: 41214999050. Mon Jul 12 20:33:53 PDT 2004
+null, null, 4, 3, 3, 2, 1, 3, 4, 3, 0, 5, 0, 4, 2, 4, 1, 2, 1, 2, 1, 5, 5, 0, 0, 5, null, null
+All boards: 61500000000, unique boards: 41478001932. Mon Jul 12 21:21:36 PDT 2004
+null, null, 4, 3, 1, 2, 4, 2, 2, 0, 0, 2, 5, 3, 0, 5, 1, 3, 5, 1, 4, 0, 3, 1, 4, 5, null, null
+All boards: 62000000000, unique boards: 41739991124. Mon Jul 12 22:09:04 PDT 2004
+null, null, 4, 3, 5, 1, 1, 3, 5, 1, 0, 1, 3, 4, 0, 2, 3, 4, 5, 2, 2, 0, 4, 5, 0, 2, null, null
+All boards: 62500000000, unique boards: 42013038250. Mon Jul 12 22:56:46 PDT 2004
+null, null, 4, 3, 3, 1, 4, 1, 2, 4, 0, 1, 4, 0, 5, 2, 1, 3, 2, 5, 2, 5, 0, 3, 0, 5, null, null
+All boards: 63000000000, unique boards: 42276258936. Mon Jul 12 23:44:01 PDT 2004
+null, null, 4, 2, 1, 2, 1, 2, 0, 1, 5, 3, 3, 4, 4, 5, 2, 3, 1, 0, 0, 5, 0, 3, 4, 5, null, null
+All boards: 63500000000, unique boards: 42541815176. Tue Jul 13 00:31:06 PDT 2004
+null, null, 4, 2, 5, 1, 4, 1, 3, 1, 5, 1, 0, 3, 2, 5, 4, 5, 3, 0, 4, 2, 3, 0, 0, 2, null, null
+All boards: 64000000000, unique boards: 42816191698. Tue Jul 13 01:17:51 PDT 2004
+null, null, 4, 2, 3, 0, 1, 2, 0, 4, 5, 1, 5, 4, 3, 0, 2, 3, 0, 3, 2, 1, 5, 4, 1, 5, null, null
+All boards: 64500000000, unique boards: 43078860108. Tue Jul 13 02:04:35 PDT 2004
+null, null, 4, 2, 1, 0, 4, 1, 4, 0, 5, 0, 5, 2, 0, 3, 1, 2, 3, 1, 3, 4, 2, 5, 3, 5, null, null
+All boards: 65000000000, unique boards: 43344619216. Tue Jul 13 02:51:25 PDT 2004
+null, null, 4, 2, 5, 0, 1, 0, 1, 2, 3, 5, 3, 2, 5, 4, 4, 5, 1, 0, 1, 4, 2, 3, 0, 3, null, null
+All boards: 65500000000, unique boards: 43618974658. Tue Jul 13 03:38:26 PDT 2004
+null, null, 4, 2, 3, 0, 4, 0, 4, 3, 3, 5, 2, 4, 3, 5, 1, 2, 0, 1, 5, 1, 2, 1, 0, 5, null, null
+All boards: 66000000000, unique boards: 43881143568. Tue Jul 13 04:25:03 PDT 2004
+null, null, 4, 2, 1, 0, 1, 0, 2, 0, 3, 1, 2, 5, 4, 2, 1, 3, 5, 0, 4, 3, 5, 3, 4, 5, null, null
+All boards: 66500000000, unique boards: 44147848436. Tue Jul 13 05:11:35 PDT 2004
+null, null, 4, 2, 5, 0, 4, 0, 5, 1, 3, 0, 1, 2, 2, 3, 3, 4, 5, 1, 3, 4, 1, 5, 0, 2, null, null
+All boards: 67000000000, unique boards: 44419969570. Tue Jul 13 05:58:23 PDT 2004
+null, null, 4, 2, 2, 5, 1, 0, 2, 4, 3, 0, 4, 1, 2, 5, 1, 3, 1, 5, 0, 3, 3, 4, 0, 5, null, null
+All boards: 67500000000, unique boards: 44680876104. Tue Jul 13 06:45:27 PDT 2004
+null, null, 4, 2, 0, 5, 4, 0, 0, 1, 1, 5, 3, 2, 1, 2, 2, 3, 3, 0, 4, 1, 3, 5, 4, 5, null, null
+All boards: 68000000000, unique boards: 44948754848. Tue Jul 13 07:32:34 PDT 2004
+null, null, 4, 2, 4, 5, 0, 5, 3, 1, 1, 3, 1, 3, 4, 1, 4, 5, 5, 0, 2, 0, 3, 2, 0, 2, null, null
+All boards: 68500000000, unique boards: 45220186474. Tue Jul 13 08:19:14 PDT 2004
+null, null, 4, 2, 2, 5, 3, 5, 0, 4, 1, 3, 1, 0, 2, 1, 2, 3, 0, 5, 3, 4, 4, 0, 1, 5, null, null
+All boards: 69000000000, unique boards: 45479381736. Tue Jul 20 18:11:42 PDT 2004
+0, 0, 4, 2, 0, 5, 0, 5, 4, 0, 1, 0, 1, 3, 2, 4, 1, 2, 5, 3, 2, 4, 1, 3, 3, 5, 0, 0
+All boards: 69500000000, unique boards: 45747114344. Tue Jul 20 19:00:07 PDT 2004
+0, 0, 4, 2, 4, 3, 3, 5, 1, 2, 0, 5, 5, 1, 1, 0, 4, 5, 3, 1, 2, 0, 2, 4, 0, 3, 0, 0
+All boards: 70000000000, unique boards: 46017899162. Tue Jul 20 19:48:33 PDT 2004
+0, 0, 4, 2, 2, 4, 0, 5, 4, 3, 0, 5, 3, 5, 1, 2, 1, 2, 1, 3, 1, 0, 4, 3, 0, 5, 0, 0
+All boards: 70500000000, unique boards: 46276848936. Tue Jul 20 20:37:24 PDT 2004
+0, 0, 4, 2, 0, 4, 3, 4, 2, 0, 0, 3, 3, 1, 5, 1, 1, 3, 5, 1, 2, 5, 2, 0, 4, 5, 0, 0
+All boards: 71000000000, unique boards: 46546111736. Tue Jul 20 21:25:39 PDT 2004
+0, 0, 4, 2, 4, 3, 0, 4, 5, 1, 0, 1, 1, 2, 3, 5, 3, 4, 5, 3, 0, 5, 1, 2, 0, 2, 0, 0
+All boards: 71500000000, unique boards: 46814894938. Tue Jul 20 22:14:15 PDT 2004
+0, 0, 4, 2, 2, 4, 3, 4, 2, 4, 0, 1, 0, 3, 2, 0, 1, 3, 3, 5, 5, 1, 1, 5, 0, 5, 0, 0
+All boards: 72000000000, unique boards: 47074080816. Tue Jul 20 23:02:31 PDT 2004
+0, 0, 4, 1, 0, 3, 0, 4, 0, 1, 5, 3, 5, 4, 2, 3, 2, 3, 2, 0, 2, 1, 1, 5, 4, 5, 0, 0
+All boards: 72500000000, unique boards: 47346637076. Tue Jul 20 23:51:00 PDT 2004
+0, 0, 4, 1, 4, 2, 3, 4, 3, 1, 5, 2, 5, 0, 0, 2, 4, 5, 3, 0, 1, 3, 5, 1, 0, 2, 0, 0
+All boards: 73000000000, unique boards: 47617197802. Wed Jul 21 00:38:54 PDT 2004
+0, 0, 4, 1, 2, 3, 0, 3, 0, 4, 5, 2, 4, 1, 5, 4, 2, 3, 0, 3, 0, 5, 2, 1, 1, 5, 0, 0
+All boards: 73500000000, unique boards: 47875702656. Wed Jul 21 01:26:54 PDT 2004
+0, 0, 4, 1, 0, 3, 3, 2, 4, 0, 5, 0, 2, 4, 5, 0, 1, 2, 3, 2, 5, 1, 1, 4, 3, 5, 0, 0
+All boards: 74000000000, unique boards: 48148493744. Wed Jul 21 02:15:05 PDT 2004
+0, 0, 4, 1, 4, 2, 0, 3, 1, 2, 3, 5, 0, 5, 4, 2, 4, 5, 2, 0, 3, 1, 1, 5, 0, 3, 0, 0
+All boards: 74500000000, unique boards: 48418586914. Wed Jul 21 03:03:24 PDT 2004
+0, 0, 4, 1, 2, 3, 3, 2, 4, 3, 3, 5, 0, 1, 1, 4, 1, 2, 0, 2, 4, 5, 5, 0, 0, 5, 0, 0
+All boards: 75000000000, unique boards: 48676718304. Wed Jul 21 03:51:47 PDT 2004
+0, 0, 4, 1, 0, 2, 0, 3, 2, 0, 3, 2, 5, 3, 1, 5, 1, 3, 5, 0, 1, 4, 4, 2, 4, 5, 0, 0
+All boards: 75500000000, unique boards: 48950704232. Wed Jul 21 04:40:18 PDT 2004
+0, 0, 4, 1, 4, 1, 3, 2, 5, 1, 3, 0, 3, 2, 0, 1, 3, 4, 5, 2, 5, 0, 4, 5, 0, 2, 0, 0
+All boards: 76000000000, unique boards: 49218629194. Wed Jul 21 05:28:28 PDT 2004
+0, 0, 4, 1, 2, 1, 0, 2, 2, 4, 3, 0, 3, 5, 5, 3, 1, 3, 2, 5, 4, 0, 1, 4, 0, 5, 0, 0
+All boards: 76500000000, unique boards: 49475822400. Wed Jul 21 06:16:28 PDT 2004
+0, 0, 4, 1, 0, 2, 3, 1, 0, 1, 2, 5, 3, 1, 4, 5, 2, 3, 3, 0, 4, 5, 0, 2, 4, 5, 0, 0
+All boards: 77000000000, unique boards: 49751305340. Wed Jul 21 07:04:49 PDT 2004
+0, 0, 4, 1, 4, 1, 0, 2, 3, 1, 2, 3, 0, 3, 3, 5, 4, 5, 5, 0, 2, 5, 4, 1, 0, 2, 0, 0
+All boards: 77500000000, unique boards: 50019218146. Wed Jul 21 07:53:18 PDT 2004
+0, 0, 4, 1, 2, 0, 3, 1, 0, 4, 2, 3, 5, 3, 2, 0, 2, 3, 0, 5, 4, 1, 5, 4, 1, 5, 0, 0
+All boards: 78000000000, unique boards: 50274801444. Wed Jul 21 08:41:34 PDT 2004
+0, 0, 4, 1, 0, 1, 0, 2, 4, 0, 2, 0, 4, 5, 1, 4, 1, 2, 5, 3, 3, 2, 3, 5, 3, 5, 0, 0
+All boards: 78500000000, unique boards: 50550165536. Wed Jul 21 18:09:57 PDT 2004
+0, 0, 4, 1, 4, 0, 3, 0, 1, 2, 0, 5, 3, 1, 5, 4, 4, 5, 3, 2, 2, 5, 1, 2, 0, 3, 0, 0
+All boards: 79000000000, unique boards: 50816765770. Wed Jul 21 18:58:09 PDT 2004
+0, 0, 4, 1, 2, 0, 0, 1, 4, 3, 0, 5, 3, 4, 4, 5, 1, 2, 2, 3, 1, 5, 3, 2, 0, 5, 0, 0
+All boards: 79500000000, unique boards: 51071494464. Wed Jul 21 19:46:46 PDT 2004
+0, 0, 4, 1, 0, 1, 3, 0, 2, 0, 0, 3, 2, 4, 4, 1, 1, 3, 5, 2, 5, 3, 5, 2, 4, 5, 0, 0
+All boards: 80000000000, unique boards: 51347803492. Wed Jul 21 20:35:09 PDT 2004
+0, 0, 4, 1, 3, 5, 0, 1, 5, 1, 0, 2, 4, 2, 3, 4, 3, 4, 5, 3, 1, 0, 2, 5, 0, 2, 0, 0
+All boards: 80500000000, unique boards: 51612773818. Wed Jul 21 21:23:40 PDT 2004
+0, 0, 4, 1, 1, 5, 3, 0, 2, 4, 0, 2, 4, 0, 1, 5, 1, 3, 3, 5, 2, 3, 2, 4, 0, 5, 0, 0
+All boards: 81000000000, unique boards: 51869445624. Wed Jul 21 22:11:59 PDT 2004
+0, 0, 4, 0, 5, 4, 0, 1, 0, 1, 5, 3, 2, 1, 2, 3, 2, 3, 1, 2, 0, 3, 4, 5, 4, 5, 0, 0
+All boards: 81500000000, unique boards: 52147538804. Wed Jul 21 23:00:31 PDT 2004
+0, 0, 4, 0, 3, 5, 2, 5, 3, 1, 5, 2, 1, 2, 4, 0, 4, 5, 3, 1, 4, 0, 3, 1, 0, 2, 0, 0
+All boards: 82000000000, unique boards: 52413826462. Wed Jul 21 23:49:08 PDT 2004
+0, 0, 4, 0, 1, 5, 5, 4, 0, 4, 5, 2, 0, 4, 2, 1, 2, 3, 1, 3, 2, 3, 3, 0, 1, 5, 0, 0
+All boards: 82500000000, unique boards: 52671579180. Thu Jul 22 00:37:44 PDT 2004
+0, 0, 4, 0, 5, 4, 2, 5, 4, 0, 5, 1, 0, 1, 1, 4, 1, 2, 2, 3, 2, 3, 0, 3, 3, 5, 0, 0
+All boards: 83000000000, unique boards: 52948490024. Thu Jul 22 01:26:27 PDT 2004
+0, 0, 4, 0, 3, 4, 5, 4, 1, 2, 3, 5, 5, 0, 1, 0, 4, 5, 2, 1, 2, 1, 2, 3, 0, 3, 0, 0
+All boards: 83500000000, unique boards: 53214357202. Thu Jul 22 02:15:02 PDT 2004
+0, 0, 4, 0, 1, 4, 2, 5, 4, 3, 3, 5, 3, 2, 0, 1, 1, 2, 1, 2, 5, 0, 4, 3, 0, 5, 0, 0
+All boards: 84000000000, unique boards: 53473283388. Thu Jul 22 03:03:30 PDT 2004
+0, 0, 4, 0, 5, 3, 5, 3, 2, 0, 3, 2, 1, 4, 4, 1, 1, 3, 1, 5, 0, 2, 2, 0, 4, 5, 0, 0
+All boards: 84500000000, unique boards: 53749152704. Thu Jul 22 03:52:02 PDT 2004
+0, 0, 4, 0, 3, 4, 2, 4, 5, 1, 3, 1, 1, 0, 3, 5, 3, 4, 5, 2, 2, 5, 0, 1, 0, 2, 0, 0
+All boards: 85000000000, unique boards: 54013235314. Thu Jul 22 04:40:28 PDT 2004
+0, 0, 4, 0, 1, 4, 5, 3, 2, 4, 3, 1, 0, 2, 2, 0, 1, 3, 2, 5, 5, 3, 1, 4, 0, 5, 0, 0
+All boards: 85500000000, unique boards: 54273345888. Thu Jul 22 05:29:04 PDT 2004
+0, 0, 4, 0, 5, 2, 2, 4, 0, 1, 2, 5, 4, 1, 1, 3, 2, 3, 1, 3, 3, 0, 0, 5, 4, 5, 0, 0
+All boards: 86000000000, unique boards: 54548786192. Thu Jul 22 06:17:41 PDT 2004
+0, 0, 4, 0, 3, 2, 5, 3, 3, 1, 2, 3, 4, 5, 0, 2, 4, 5, 5, 1, 0, 1, 4, 1, 0, 2, 0, 0
+All boards: 86500000000, unique boards: 54812448606. Thu Jul 22 07:05:48 PDT 2004
+0, 0, 4, 0, 1, 3, 2, 3, 0, 4, 2, 3, 4, 0, 5, 4, 2, 3, 1, 5, 2, 5, 1, 0, 1, 5, 0, 0
+All boards: 87000000000, unique boards: 55072883040. Thu Jul 22 07:54:09 PDT 2004
+0, 0, 4, 0, 5, 2, 5, 2, 4, 0, 2, 1, 1, 0, 4, 0, 1, 2, 3, 5, 4, 3, 1, 3, 3, 5, 0, 0
+All boards: 87500000000, unique boards: 55346854616. Thu Jul 22 18:27:37 PDT 2004
+0, 0, 4, 0, 3, 2, 2, 3, 1, 2, 1, 5, 0, 4, 4, 1, 4, 5, 3, 2, 5, 1, 0, 5, 0, 3, 0, 0
+All boards: 88000000000, unique boards: 55609793938. Thu Jul 22 19:15:30 PDT 2004
+0, 0, 4, 0, 1, 2, 5, 2, 4, 3, 1, 5, 5, 4, 1, 3, 1, 2, 2, 3, 0, 3, 4, 0, 0, 5, 0, 0
+All boards: 88500000000, unique boards: 55871613452. Thu Jul 22 20:03:45 PDT 2004
+0, 0, 4, 0, 5, 1, 2, 3, 2, 0, 1, 3, 4, 0, 0, 5, 1, 3, 2, 5, 2, 3, 4, 1, 4, 5, 0, 0
+All boards: 89000000000, unique boards: 56144808712. Thu Jul 22 20:51:39 PDT 2004
+0, 0, 4, 0, 3, 1, 5, 2, 5, 1, 1, 2, 4, 0, 0, 1, 3, 4, 5, 3, 5, 2, 3, 4, 0, 2, 0, 0
+All boards: 89500000000, unique boards: 56406245782. Thu Jul 22 21:39:34 PDT 2004
+0, 0, 4, 0, 1, 2, 2, 1, 2, 4, 1, 2, 3, 4, 5, 3, 1, 3, 3, 5, 5, 0, 0, 4, 0, 5, 0, 0
+All boards: 90000000000, unique boards: 56440281600. Thu Jul 22 22:26:38 PDT 2004
+0, 0, 3, 5, 5, 1, 5, 1, 0, 1, 4, 2, 0, 4, 3, 4, 2, 3, 0, 1, 2, 3, 0, 2, 4, 5, 0, 0
+All boards: 90500000000, unique boards: 56440281600. Thu Jul 22 23:13:49 PDT 2004
+0, 0, 3, 5, 3, 1, 2, 1, 3, 1, 4, 1, 0, 2, 3, 5, 4, 5, 2, 0, 4, 5, 4, 0, 0, 2, 0, 0
+All boards: 91000000000, unique boards: 56440281600. Fri Jul 23 00:00:52 PDT 2004
+0, 0, 3, 5, 1, 0, 5, 1, 0, 4, 4, 1, 5, 2, 2, 0, 2, 3, 0, 2, 4, 3, 4, 3, 1, 5, 0, 0
+All boards: 91500000000, unique boards: 56440281600. Fri Jul 23 00:47:51 PDT 2004
+0, 0, 3, 5, 5, 0, 2, 1, 4, 0, 4, 0, 3, 2, 0, 4, 1, 2, 1, 2, 4, 1, 3, 5, 3, 5, 0, 0
+All boards: 92000000000, unique boards: 56440281600. Fri Jul 23 01:35:04 PDT 2004
+0, 0, 3, 5, 3, 0, 5, 0, 1, 2, 2, 4, 2, 5, 4, 3, 4, 5, 1, 0, 1, 4, 1, 2, 0, 3, 0, 0
+All boards: 92500000000, unique boards: 56440281600. Fri Jul 23 02:22:09 PDT 2004
+0, 0, 3, 5, 1, 0, 2, 0, 4, 3, 2, 4, 3, 2, 4, 5, 1, 2, 0, 1, 4, 5, 3, 1, 0, 5, 0, 0
+All boards: 93000000000, unique boards: 56440281600. Fri Jul 23 03:08:50 PDT 2004
+0, 0, 3, 5, 5, 0, 5, 0, 2, 0, 2, 1, 1, 2, 3, 1, 1, 3, 0, 4, 4, 3, 4, 2, 4, 5, 0, 0
+All boards: 93500000000, unique boards: 56440281600. Fri Jul 23 03:55:39 PDT 2004
+0, 0, 3, 5, 2, 5, 2, 0, 5, 1, 2, 0, 4, 1, 3, 4, 3, 4, 4, 1, 3, 0, 1, 5, 0, 2, 0, 0
+All boards: 94000000000, unique boards: 56440281600. Fri Jul 23 04:42:21 PDT 2004
+0, 0, 3, 5, 0, 5, 5, 0, 2, 4, 2, 0, 3, 4, 1, 4, 1, 3, 1, 4, 1, 2, 2, 3, 0, 5, 0, 0
+All boards: 94500000000, unique boards: 56440281600. Fri Jul 23 05:29:14 PDT 2004
+0, 0, 3, 5, 4, 5, 2, 0, 0, 1, 1, 4, 2, 0, 1, 3, 2, 3, 0, 2, 1, 3, 4, 5, 4, 5, 0, 0
+All boards: 95000000000, unique boards: 56440281600. Fri Jul 23 06:16:07 PDT 2004
+0, 0, 3, 5, 2, 5, 4, 5, 3, 1, 1, 2, 1, 0, 3, 0, 4, 5, 4, 0, 4, 3, 2, 1, 0, 2, 0, 0
+All boards: 95500000000, unique boards: 56440281600. Fri Jul 23 07:03:14 PDT 2004
+0, 0, 3, 5, 0, 5, 1, 5, 0, 4, 1, 2, 1, 3, 3, 2, 2, 3, 0, 4, 4, 2, 4, 0, 1, 5, 0, 0
+All boards: 96000000000, unique boards: 56440281600. Fri Jul 23 07:50:08 PDT 2004
+0, 0, 3, 5, 4, 3, 4, 5, 4, 0, 1, 0, 5, 2, 1, 3, 1, 2, 2, 4, 0, 1, 0, 2, 3, 5, 0, 0
+All boards: 96500000000, unique boards: 56440281600. Fri Jul 23 18:00:57 PDT 2004
+0, 0, 3, 5, 2, 4, 1, 5, 1, 2, 0, 4, 5, 0, 2, 0, 4, 5, 2, 1, 1, 3, 3, 4, 0, 3, 0, 0
+All boards: 97000000000, unique boards: 56440281600. Fri Jul 23 18:47:53 PDT 2004
+0, 0, 3, 5, 0, 4, 4, 5, 4, 3, 0, 4, 3, 1, 0, 1, 1, 2, 1, 2, 5, 2, 3, 2, 0, 5, 0, 0
+All boards: 97500000000, unique boards: 56440281600. Fri Jul 23 19:34:44 PDT 2004
+0, 0, 3, 5, 4, 3, 1, 4, 2, 0, 0, 2, 1, 2, 5, 2, 1, 3, 1, 4, 5, 0, 3, 0, 4, 5, 0, 0
+All boards: 98000000000, unique boards: 56440281600. Fri Jul 23 20:21:30 PDT 2004
+0, 0, 3, 5, 2, 4, 4, 3, 5, 1, 0, 1, 0, 5, 2, 5, 3, 4, 4, 2, 1, 3, 0, 1, 0, 2, 0, 0
+All boards: 98500000000, unique boards: 56440281600. Fri Jul 23 21:08:24 PDT 2004
+0, 0, 3, 5, 0, 4, 1, 4, 2, 4, 0, 1, 1, 2, 3, 0, 1, 3, 2, 4, 3, 5, 2, 5, 0, 5, 0, 0
+All boards: 99000000000, unique boards: 56440281600. Fri Jul 23 21:55:24 PDT 2004
+0, 0, 3, 4, 4, 2, 4, 3, 0, 1, 5, 2, 5, 0, 1, 2, 2, 3, 0, 1, 3, 1, 0, 5, 4, 5, 0, 0
+All boards: 99500000000, unique boards: 56440281600. Fri Jul 23 22:42:18 PDT 2004
+0, 0, 3, 4, 2, 3, 1, 4, 3, 1, 5, 1, 4, 1, 0, 3, 4, 5, 2, 0, 5, 0, 5, 2, 0, 2, 0, 0
+All boards: 100000000000, unique boards: 56440281600. Fri Jul 23 23:29:26 PDT 2004
+0, 0, 3, 4, 0, 3, 4, 2, 0, 4, 5, 1, 2, 5, 5, 3, 2, 3, 0, 2, 1, 4, 1, 0, 1, 5, 0, 0
+All boards: 100500000000, unique boards: 56440281600. Sat Jul 24 00:16:43 PDT 2004
+0, 0, 3, 4, 4, 2, 1, 3, 4, 0, 5, 0, 1, 0, 5, 0, 1, 2, 1, 2, 3, 5, 2, 4, 3, 5, 0, 0
+All boards: 101000000000, unique boards: 56440281600. Sat Jul 24 01:03:54 PDT 2004
+0, 0, 3, 4, 2, 3, 4, 2, 1, 2, 2, 5, 0, 1, 3, 1, 4, 5, 1, 0, 5, 4, 0, 5, 0, 3, 0, 0
+All boards: 101500000000, unique boards: 56440281600. Sat Jul 24 01:50:59 PDT 2004
+0, 0, 3, 4, 0, 2, 1, 3, 4, 3, 2, 5, 5, 3, 2, 4, 1, 2, 0, 1, 4, 1, 5, 0, 0, 5, 0, 0
+All boards: 102000000000, unique boards: 56440281600. Sat Jul 24 02:37:44 PDT 2004
+0, 0, 3, 4, 4, 1, 4, 2, 2, 0, 2, 1, 3, 5, 0, 5, 1, 3, 0, 5, 0, 2, 3, 1, 4, 5, 0, 0
+All boards: 102500000000, unique boards: 56440281600. Sat Jul 24 03:24:48 PDT 2004
+0, 0, 3, 4, 2, 1, 1, 3, 5, 1, 2, 0, 4, 0, 0, 2, 3, 4, 5, 1, 3, 5, 4, 5, 0, 2, 0, 0
+All boards: 103000000000, unique boards: 56440281600. Sat Jul 24 04:11:58 PDT 2004
+0, 0, 3, 4, 0, 2, 4, 1, 2, 4, 2, 0, 3, 1, 5, 2, 1, 3, 1, 5, 5, 4, 0, 3, 0, 5, 0, 0
+All boards: 103500000000, unique boards: 56440281600. Sat Jul 24 04:59:01 PDT 2004
+0, 0, 3, 4, 4, 1, 1, 2, 0, 1, 1, 5, 0, 3, 4, 5, 2, 3, 0, 2, 5, 2, 0, 3, 4, 5, 0, 0
+All boards: 104000000000, unique boards: 56440281600. Sat Jul 24 05:46:02 PDT 2004
+0, 0, 3, 4, 2, 0, 4, 1, 3, 1, 1, 2, 5, 4, 2, 5, 4, 5, 5, 0, 1, 3, 3, 0, 0, 2, 0, 0
+All boards: 104500000000, unique boards: 56440281600. Sat Jul 24 06:33:00 PDT 2004
+0, 0, 3, 4, 0, 1, 1, 2, 0, 4, 1, 2, 5, 2, 3, 0, 2, 3, 0, 5, 3, 4, 5, 4, 1, 5, 0, 0
+All boards: 105000000000, unique boards: 56440281600. Sat Jul 24 07:19:57 PDT 2004
+0, 0, 3, 4, 4, 0, 4, 1, 4, 0, 1, 0, 3, 1, 0, 3, 1, 2, 2, 5, 5, 2, 2, 5, 3, 5, 0, 0
+All boards: 105500000000, unique boards: 56440281600. Sat Jul 24 08:06:48 PDT 2004
+0, 0, 3, 4, 2, 0, 1, 0, 1, 2, 0, 5, 3, 4, 5, 4, 4, 5, 2, 1, 5, 1, 2, 3, 0, 3, 0, 0
+All boards: 106000000000, unique boards: 56440281600. Sat Jul 24 08:53:49 PDT 2004
+0, 0, 3, 4, 0, 1, 4, 0, 4, 3, 0, 5, 2, 5, 3, 5, 1, 2, 1, 2, 3, 4, 2, 1, 0, 5, 0, 0
+All boards: 106500000000, unique boards: 56440281600. Sat Jul 24 09:41:04 PDT 2004
+0, 0, 3, 4, 4, 0, 1, 0, 2, 0, 0, 2, 1, 2, 4, 2, 1, 3, 1, 5, 3, 5, 5, 3, 4, 5, 0, 0
+All boards: 107000000000, unique boards: 56440281600. Sat Jul 24 10:28:12 PDT 2004
+0, 0, 3, 4, 1, 5, 4, 0, 5, 1, 0, 1, 4, 0, 2, 3, 3, 4, 5, 2, 3, 2, 1, 5, 0, 2, 0, 0
+All boards: 107500000000, unique boards: 56442081442. Sat Jul 24 11:14:52 PDT 2004
+0, 0, 3, 2, 5, 4, 1, 0, 2, 4, 5, 4, 2, 1, 2, 5, 1, 3, 1, 0, 3, 0, 3, 4, 0, 5, 0, 0
+All boards: 108000000000, unique boards: 56601440616. Sat Jul 24 12:02:45 PDT 2004
+0, 0, 3, 2, 3, 5, 4, 0, 0, 1, 5, 4, 1, 4, 1, 2, 2, 3, 0, 1, 0, 2, 3, 5, 4, 5, 0, 0
+All boards: 108500000000, unique boards: 56751887264. Sat Jul 24 12:50:20 PDT 2004
+0, 0, 3, 2, 1, 5, 0, 5, 3, 1, 5, 1, 2, 0, 4, 1, 4, 5, 4, 0, 3, 4, 3, 2, 0, 2, 0, 0
+All boards: 109000000000, unique boards: 56895762298. Sat Jul 24 13:37:54 PDT 2004
+0, 0, 3, 2, 5, 4, 3, 5, 0, 4, 5, 0, 0, 1, 2, 1, 2, 3, 4, 1, 3, 2, 4, 0, 1, 5, 0, 0
+All boards: 109500000000, unique boards: 57053802384. Sat Jul 24 14:25:50 PDT 2004
+0, 0, 3, 2, 3, 4, 0, 5, 4, 0, 5, 0, 5, 1, 2, 4, 1, 2, 1, 4, 2, 0, 1, 3, 3, 5, 0, 0
+All boards: 110000000000, unique boards: 57203594484. Sat Jul 24 15:13:39 PDT 2004
+0, 0, 3, 2, 1, 4, 3, 5, 1, 2, 4, 5, 3, 5, 1, 0, 4, 5, 1, 0, 0, 2, 2, 4, 0, 3, 0, 0
+All boards: 110500000000, unique boards: 57348761554. Sat Jul 24 16:01:10 PDT 2004
+0, 0, 3, 2, 5, 3, 0, 5, 4, 3, 4, 1, 2, 0, 1, 2, 1, 2, 5, 0, 1, 4, 4, 3, 0, 5, 0, 0
+All boards: 111000000000, unique boards: 57506103288. Sat Jul 24 16:48:50 PDT 2004
+0, 0, 3, 2, 3, 4, 3, 4, 2, 0, 4, 1, 1, 0, 5, 1, 1, 3, 0, 5, 5, 2, 2, 0, 4, 5, 0, 0
+All boards: 111500000000, unique boards: 57654668804. Sat Jul 24 17:36:43 PDT 2004
+0, 0, 3, 2, 1, 4, 0, 4, 5, 1, 4, 0, 0, 3, 3, 5, 3, 4, 5, 1, 5, 2, 1, 2, 0, 2, 0, 0
+All boards: 112000000000, unique boards: 57799645570. Sat Jul 24 18:24:03 PDT 2004
+0, 0, 3, 2, 5, 2, 3, 4, 2, 4, 1, 5, 4, 3, 2, 0, 1, 3, 4, 0, 0, 1, 1, 5, 0, 5, 0, 0
+All boards: 112500000000, unique boards: 57956599224. Sat Jul 24 19:11:47 PDT 2004
+0, 0, 3, 2, 3, 2, 0, 4, 0, 1, 1, 5, 5, 0, 2, 3, 2, 3, 0, 4, 1, 4, 1, 5, 4, 5, 0, 0
+All boards: 113000000000, unique boards: 58104716144. Sat Jul 24 19:59:17 PDT 2004
+0, 0, 3, 2, 1, 3, 3, 4, 3, 1, 1, 4, 4, 0, 0, 2, 4, 5, 5, 0, 5, 2, 5, 1, 0, 2, 0, 0
+All boards: 113500000000, unique boards: 58250496990. Sat Jul 24 20:47:02 PDT 2004
+0, 0, 3, 2, 5, 2, 0, 3, 0, 4, 1, 0, 1, 3, 5, 4, 2, 3, 5, 4, 4, 0, 2, 1, 1, 5, 0, 0
+All boards: 114000000000, unique boards: 58405703148. Sat Jul 24 21:34:43 PDT 2004
+0, 0, 3, 2, 3, 2, 3, 2, 4, 0, 1, 0, 0, 5, 5, 0, 1, 2, 4, 5, 1, 4, 1, 4, 3, 5, 0, 0
+All boards: 114500000000, unique boards: 58552801692. Sat Jul 24 22:22:44 PDT 2004
+0, 0, 3, 2, 1, 3, 0, 3, 1, 2, 0, 5, 0, 2, 4, 2, 4, 5, 4, 1, 4, 5, 1, 5, 0, 3, 0, 0
+All boards: 115000000000, unique boards: 58699599166. Sat Jul 24 23:10:41 PDT 2004
+0, 0, 3, 2, 5, 1, 3, 2, 4, 3, 0, 4, 4, 0, 1, 4, 1, 2, 5, 1, 3, 2, 5, 0, 0, 5, 0, 0
+All boards: 115500000000, unique boards: 58854825472. Sat Jul 24 23:58:18 PDT 2004
+0, 0, 3, 2, 3, 1, 0, 3, 2, 0, 0, 4, 4, 2, 1, 5, 1, 3, 1, 5, 5, 0, 4, 2, 4, 5, 0, 0
+All boards: 116000000000, unique boards: 59001051200. Sun Jul 25 00:45:59 PDT 2004
+0, 0, 3, 2, 1, 2, 3, 2, 5, 1, 0, 1, 3, 5, 0, 1, 3, 4, 5, 4, 0, 4, 4, 5, 0, 2, 0, 0
+All boards: 116500000000, unique boards: 59147912074. Sun Jul 25 01:33:36 PDT 2004
+0, 0, 3, 1, 5, 1, 0, 2, 2, 4, 5, 4, 2, 0, 5, 3, 1, 3, 2, 0, 3, 4, 1, 4, 0, 5, 0, 0
+All boards: 117000000000, unique boards: 59304172464. Sun Jul 25 02:21:17 PDT 2004
+0, 0, 3, 1, 3, 1, 3, 1, 0, 1, 5, 4, 0, 2, 4, 5, 2, 3, 0, 2, 5, 4, 0, 2, 4, 5, 0, 0
+All boards: 117500000000, unique boards: 59451644984. Sun Jul 25 03:08:59 PDT 2004
+0, 0, 3, 1, 1, 0, 0, 2, 3, 1, 5, 2, 5, 3, 3, 5, 4, 5, 4, 0, 4, 2, 4, 1, 0, 2, 0, 0
+All boards: 118000000000, unique boards: 59601072742. Sun Jul 25 03:56:59 PDT 2004
+0, 0, 3, 1, 5, 0, 3, 1, 0, 4, 5, 0, 3, 4, 2, 0, 2, 3, 4, 2, 1, 2, 5, 4, 1, 5, 0, 0
+All boards: 118500000000, unique boards: 59756010744. Sun Jul 25 04:44:53 PDT 2004
+0, 0, 3, 1, 3, 0, 0, 2, 4, 0, 5, 0, 4, 1, 1, 4, 1, 2, 2, 4, 2, 5, 3, 5, 3, 5, 0, 0
+All boards: 119000000000, unique boards: 59902759812. Sun Jul 25 05:32:37 PDT 2004
+0, 0, 3, 1, 1, 0, 3, 0, 1, 2, 4, 5, 3, 2, 5, 4, 4, 5, 2, 0, 5, 4, 1, 2, 0, 3, 0, 0
+All boards: 119500000000, unique boards: 60053196562. Sun Jul 25 06:20:22 PDT 2004
+0, 0, 3, 1, 5, 0, 0, 1, 4, 3, 4, 2, 1, 3, 4, 5, 1, 2, 5, 0, 4, 2, 3, 2, 0, 5, 0, 0
+All boards: 120000000000, unique boards: 60207699036. Sun Jul 25 07:07:53 PDT 2004
+0, 0, 3, 1, 2, 5, 3, 0, 2, 0, 4, 2, 4, 3, 4, 1, 1, 3, 0, 5, 0, 1, 5, 2, 4, 5, 0, 0
+All boards: 120500000000, unique boards: 60353200472. Sun Jul 25 07:55:29 PDT 2004
+0, 0, 3, 1, 0, 5, 0, 1, 5, 1, 4, 0, 4, 1, 3, 4, 3, 4, 5, 2, 2, 3, 2, 5, 0, 2, 0, 0
+All boards: 121000000000, unique boards: 60503536360. Sun Jul 25 08:43:28 PDT 2004
+0, 0, 3, 1, 4, 5, 3, 0, 2, 4, 2, 5, 2, 0, 1, 5, 1, 3, 4, 0, 3, 1, 2, 4, 0, 5, 0, 0
+All boards: 121500000000, unique boards: 60657742668. Sun Jul 25 09:31:12 PDT 2004
+0, 0, 3, 1, 2, 5, 0, 1, 0, 1, 2, 5, 1, 3, 2, 3, 2, 3, 0, 4, 4, 0, 4, 5, 4, 5, 0, 0
+All boards: 122000000000, unique boards: 60803077632. Sun Jul 25 10:19:09 PDT 2004
+0, 0, 3, 1, 0, 5, 2, 5, 3, 1, 2, 4, 1, 4, 4, 0, 4, 5, 5, 0, 2, 3, 3, 1, 0, 2, 0, 0
+All boards: 122500000000, unique boards: 60954455506. Sun Jul 25 11:07:00 PDT 2004
+0, 0, 3, 1, 4, 3, 5, 4, 0, 4, 2, 0, 5, 2, 2, 1, 2, 3, 5, 4, 1, 0, 3, 0, 1, 5, 0, 0
+All boards: 123000000000, unique boards: 61106996628. Sun Jul 25 11:54:42 PDT 2004
+0, 0, 3, 1, 2, 4, 2, 5, 4, 0, 2, 0, 5, 0, 1, 4, 1, 2, 4, 5, 3, 1, 0, 3, 3, 5, 0, 0
+All boards: 123500000000, unique boards: 61251195192. Sun Jul 25 12:42:29 PDT 2004
+0, 0, 3, 1, 0, 4, 5, 4, 1, 2, 0, 5, 3, 2, 1, 0, 4, 5, 4, 2, 1, 5, 2, 3, 0, 3, 0, 0
+All boards: 124000000000, unique boards: 61403203360. Sun Jul 25 13:30:23 PDT 2004
+0, 0, 3, 1, 4, 3, 2, 5, 4, 3, 0, 4, 1, 5, 0, 1, 1, 2, 5, 2, 0, 2, 4, 3, 0, 5, 0, 0
+All boards: 124500000000, unique boards: 61555258728. Sun Jul 25 14:18:04 PDT 2004
+0, 0, 3, 1, 2, 4, 5, 3, 2, 0, 0, 4, 0, 5, 4, 1, 1, 3, 2, 5, 3, 1, 2, 0, 4, 5, 0, 0
+All boards: 125000000000, unique boards: 61698455696. Sun Jul 25 15:05:59 PDT 2004
+0, 0, 3, 1, 0, 4, 2, 4, 5, 1, 0, 2, 1, 2, 3, 5, 3, 4, 5, 4, 5, 3, 0, 1, 0, 2, 0, 0
+All boards: 125500000000, unique boards: 61850998570. Sun Jul 25 15:53:48 PDT 2004
+0, 0, 3, 0, 4, 2, 5, 3, 2, 4, 5, 4, 5, 1, 2, 0, 1, 3, 2, 1, 0, 3, 1, 4, 0, 5, 0, 0
+All boards: 126000000000, unique boards: 62004122160. Sun Jul 25 16:41:55 PDT 2004
+0, 0, 3, 0, 2, 3, 2, 4, 0, 1, 5, 4, 4, 5, 1, 3, 2, 3, 1, 2, 0, 1, 0, 5, 4, 5, 0, 0
+All boards: 126500000000, unique boards: 62148415472. Sun Jul 25 17:29:25 PDT 2004
+0, 0, 3, 0, 0, 3, 5, 3, 3, 1, 5, 2, 2, 5, 0, 2, 4, 5, 4, 1, 4, 1, 4, 1, 0, 2, 0, 0
+All boards: 127000000000, unique boards: 62303104042. Sun Jul 25 18:17:09 PDT 2004
+0, 0, 3, 0, 4, 2, 2, 3, 0, 4, 5, 1, 1, 0, 5, 4, 2, 3, 4, 2, 5, 3, 1, 0, 1, 5, 0, 0
+All boards: 127500000000, unique boards: 62455158744. Sun Jul 25 19:04:50 PDT 2004
+0, 0, 3, 0, 2, 3, 5, 2, 4, 0, 5, 1, 0, 4, 4, 0, 1, 2, 2, 4, 1, 5, 1, 3, 3, 5, 0, 0
+All boards: 128000000000, unique boards: 62598886534. Sun Jul 25 19:52:15 PDT 2004
+0, 0, 3, 0, 0, 2, 2, 3, 1, 2, 4, 5, 5, 4, 4, 1, 4, 5, 2, 1, 1, 3, 0, 5, 0, 3, 0, 0
+All boards: 128500000000, unique boards: 62754540946. Sun Jul 25 20:39:50 PDT 2004
+0, 0, 3, 0, 4, 1, 5, 2, 4, 3, 4, 2, 3, 5, 1, 3, 1, 2, 5, 1, 2, 0, 4, 0, 0, 5, 0, 0
+All boards: 129000000000, unique boards: 62905920168. Sun Jul 25 21:27:32 PDT 2004
+0, 0, 3, 0, 2, 1, 2, 3, 2, 0, 4, 2, 4, 0, 0, 5, 1, 3, 1, 5, 5, 3, 4, 1, 4, 5, 0, 0
+All boards: 129500000000, unique boards: 63048478120. Sun Jul 25 22:15:14 PDT 2004
+0, 0, 3, 0, 0, 2, 5, 2, 5, 1, 4, 1, 3, 4, 0, 1, 3, 4, 5, 2, 1, 5, 3, 4, 0, 2, 0, 0
+All boards: 130000000000, unique boards: 63204397761. Sun Jul 25 23:02:58 PDT 2004
+0, 0, 3, 0, 4, 1, 2, 1, 2, 4, 2, 5, 0, 5, 5, 3, 1, 3, 4, 1, 2, 3, 0, 4, 0, 5, 0, 0
+All boards: 130500000000, unique boards: 63355498272. Sun Jul 25 23:50:46 PDT 2004
+0, 0, 3, 0, 2, 0, 5, 1, 0, 1, 2, 5, 5, 4, 3, 4, 2, 3, 1, 4, 3, 1, 0, 2, 4, 5, 0, 0
+All boards: 131000000000, unique boards: 63497713832. Mon Jul 26 00:38:21 PDT 2004
+0, 0, 3, 0, 0, 1, 2, 1, 3, 1, 2, 4, 5, 2, 3, 5, 4, 5, 5, 1, 4, 3, 4, 0, 0, 2, 0, 0
+All boards: 131500000000, unique boards: 63654424660. Mon Jul 26 01:26:06 PDT 2004
+0, 0, 3, 0, 4, 0, 5, 1, 0, 4, 2, 1, 3, 2, 2, 0, 2, 3, 5, 4, 1, 5, 4, 3, 1, 5, 0, 0
+All boards: 132000000000, unique boards: 63804132072. Mon Jul 26 02:13:40 PDT 2004
+0, 0, 3, 0, 2, 0, 2, 1, 4, 0, 2, 1, 3, 5, 0, 4, 1, 2, 4, 5, 1, 4, 3, 5, 3, 5, 0, 0
+All boards: 132500000000, unique boards: 63945642948. Mon Jul 26 03:01:16 PDT 2004
+0, 0, 3, 0, 0, 1, 5, 0, 1, 2, 1, 5, 2, 5, 4, 3, 4, 5, 4, 2, 4, 3, 1, 2, 0, 3, 0, 0
+All boards: 133000000000, unique boards: 64103342578. Mon Jul 26 03:49:18 PDT 2004
+0, 0, 3, 0, 4, 0, 2, 0, 4, 3, 1, 4, 1, 2, 4, 5, 1, 2, 5, 2, 5, 3, 3, 1, 0, 5, 0, 0
+All boards: 133500000000, unique boards: 64252694316. Mon Jul 26 04:37:19 PDT 2004
+0, 0, 3, 0, 1, 5, 5, 0, 2, 0, 1, 4, 4, 2, 3, 1, 1, 3, 2, 5, 0, 3, 4, 2, 4, 5, 0, 0
+All boards: 134000000000, unique boards: 64393962536. Mon Jul 26 05:25:10 PDT 2004
+0, 0, 3, 0, 5, 4, 2, 0, 5, 1, 1, 2, 2, 3, 3, 4, 3, 4, 4, 5, 0, 1, 1, 5, 0, 2, 0, 0
+All boards: 134500000000, unique boards: 64503682560. Mon Jul 26 06:12:51 PDT 2004
+0, 0, 2, 5, 3, 5, 5, 0, 2, 4, 4, 3, 1, 4, 1, 4, 1, 3, 1, 0, 2, 0, 2, 3, 0, 5, 0, 0
+All boards: 135000000000, unique boards: 64503682560. Mon Jul 26 06:59:55 PDT 2004
+0, 0, 2, 5, 1, 5, 2, 0, 0, 1, 4, 3, 2, 0, 1, 3, 2, 3, 0, 1, 4, 3, 4, 5, 4, 5, 0, 0
+All boards: 135500000000, unique boards: 64503682560. Mon Jul 26 07:46:52 PDT 2004
+0, 0, 2, 5, 5, 4, 4, 5, 3, 1, 4, 1, 0, 2, 3, 0, 4, 5, 0, 3, 1, 3, 2, 1, 0, 2, 0, 0
+All boards: 136000000000, unique boards: 64503682560. Mon Jul 26 08:33:49 PDT 2004
+0, 0, 2, 5, 3, 4, 1, 5, 0, 4, 4, 0, 5, 2, 3, 2, 2, 3, 3, 1, 0, 1, 4, 0, 1, 5, 0, 0
+All boards: 136500000000, unique boards: 64503682560. Mon Jul 26 18:20:40 PDT 2004
+0, 0, 2, 5, 1, 4, 4, 5, 4, 0, 4, 0, 3, 5, 1, 3, 1, 2, 1, 3, 2, 0, 0, 2, 3, 5, 0, 0
+All boards: 137000000000, unique boards: 64503682560. Mon Jul 26 19:01:46 PDT 2004
+0, 0, 2, 5, 5, 3, 1, 5, 1, 2, 3, 4, 2, 0, 2, 0, 4, 5, 0, 1, 4, 1, 3, 4, 0, 3, 0, 0
+All boards: 137500000000, unique boards: 64503682560. Mon Jul 26 19:41:47 PDT 2004
+0, 0, 2, 5, 3, 4, 4, 5, 4, 3, 3, 1, 1, 2, 0, 1, 1, 2, 4, 0, 0, 5, 3, 2, 0, 5, 0, 0
+All boards: 138000000000, unique boards: 64503682560. Mon Jul 26 20:21:40 PDT 2004
+0, 0, 2, 5, 1, 4, 1, 4, 2, 0, 3, 1, 0, 5, 5, 2, 1, 3, 0, 4, 2, 3, 3, 0, 4, 5, 0, 0
+All boards: 138500000000, unique boards: 64503682560. Mon Jul 26 21:01:37 PDT 2004
+0, 0, 2, 5, 5, 2, 4, 3, 5, 1, 3, 0, 4, 3, 2, 5, 3, 4, 1, 4, 1, 0, 0, 1, 0, 2, 0, 0
+All boards: 139000000000, unique boards: 64503682560. Mon Jul 26 21:41:34 PDT 2004
+0, 0, 2, 5, 3, 2, 1, 4, 2, 4, 1, 4, 5, 0, 3, 0, 1, 3, 3, 0, 4, 1, 2, 5, 0, 5, 0, 0
+All boards: 139500000000, unique boards: 64503682560. Mon Jul 26 22:21:54 PDT 2004
+0, 0, 2, 5, 1, 3, 4, 3, 0, 1, 1, 4, 4, 2, 1, 2, 2, 3, 0, 3, 0, 5, 0, 5, 4, 5, 0, 0
+All boards: 140000000000, unique boards: 64503682560. Mon Jul 26 23:02:11 PDT 2004
+0, 0, 2, 5, 5, 2, 1, 4, 3, 1, 1, 3, 1, 4, 0, 3, 4, 5, 0, 4, 0, 3, 5, 2, 0, 2, 0, 0
+All boards: 140500000000, unique boards: 64503682560. Mon Jul 26 23:42:24 PDT 2004
+0, 0, 2, 5, 3, 2, 4, 2, 0, 4, 1, 0, 0, 5, 5, 3, 2, 3, 4, 3, 4, 1, 1, 0, 1, 5, 0, 0
+All boards: 141000000000, unique boards: 64503682560. Tue Jul 27 00:22:32 PDT 2004
+0, 0, 2, 5, 1, 3, 1, 3, 4, 0, 1, 0, 0, 2, 5, 0, 1, 2, 3, 4, 5, 4, 2, 4, 3, 5, 0, 0
+All boards: 141500000000, unique boards: 64503682560. Tue Jul 27 01:02:27 PDT 2004
+0, 0, 2, 5, 5, 1, 4, 2, 1, 2, 0, 4, 4, 2, 3, 1, 4, 5, 1, 3, 0, 3, 0, 5, 0, 3, 0, 0
+All boards: 142000000000, unique boards: 64503682560. Tue Jul 27 01:42:20 PDT 2004
+0, 0, 2, 5, 3, 1, 1, 3, 4, 3, 0, 3, 4, 5, 2, 4, 1, 2, 4, 1, 0, 2, 5, 0, 0, 5, 0, 0
+All boards: 142500000000, unique boards: 64503682560. Tue Jul 27 02:22:29 PDT 2004
+0, 0, 2, 5, 1, 2, 4, 2, 2, 0, 0, 3, 3, 5, 0, 5, 1, 3, 1, 4, 4, 0, 3, 1, 4, 5, 0, 0
+All boards: 143000000000, unique boards: 64503682560. Tue Jul 27 03:02:28 PDT 2004
+0, 0, 2, 5, 5, 1, 1, 3, 5, 1, 0, 1, 2, 0, 0, 2, 3, 4, 3, 4, 4, 3, 4, 5, 0, 2, 0, 0
+All boards: 143500000000, unique boards: 64503682560. Tue Jul 27 03:42:25 PDT 2004
+0, 0, 2, 4, 3, 1, 4, 1, 2, 4, 5, 3, 0, 4, 5, 2, 1, 3, 1, 0, 2, 5, 0, 3, 0, 5, 0, 0
+All boards: 144000000000, unique boards: 64503682560. Tue Jul 27 04:22:34 PDT 2004
+0, 0, 2, 4, 1, 0, 1, 2, 0, 1, 5, 3, 5, 4, 4, 5, 2, 3, 0, 1, 2, 3, 0, 3, 4, 5, 0, 0
+All boards: 144500000000, unique boards: 64503682560. Tue Jul 27 05:02:59 PDT 2004
+0, 0, 2, 4, 5, 0, 4, 1, 3, 1, 5, 1, 3, 4, 2, 5, 4, 5, 0, 3, 2, 1, 3, 0, 0, 2, 0, 0
+All boards: 145000000000, unique boards: 64503682560. Tue Jul 27 05:43:02 PDT 2004
+0, 0, 2, 4, 3, 0, 1, 2, 0, 4, 5, 0, 4, 1, 3, 0, 2, 3, 3, 1, 5, 2, 5, 4, 1, 5, 0, 0
+All boards: 145500000000, unique boards: 64503682560. Tue Jul 27 06:23:18 PDT 2004
+0, 0, 2, 4, 1, 0, 4, 1, 4, 0, 5, 0, 3, 4, 0, 3, 1, 2, 1, 3, 2, 5, 2, 5, 3, 5, 0, 0
+All boards: 146000000000, unique boards: 64503682560. Tue Jul 27 07:03:20 PDT 2004
+0, 0, 2, 4, 5, 0, 1, 0, 1, 2, 3, 5, 1, 4, 5, 4, 4, 5, 0, 1, 2, 3, 2, 3, 0, 3, 0, 0
+All boards: 146500000000, unique boards: 64503682560. Tue Jul 27 07:43:34 PDT 2004
+0, 0, 2, 4, 2, 5, 4, 0, 4, 3, 3, 1, 4, 3, 3, 5, 1, 2, 5, 0, 1, 0, 2, 1, 0, 5, 0, 0
+All boards: 147000000000, unique boards: 64503682560. Tue Jul 27 08:23:52 PDT 2004
+0, 0, 2, 4, 0, 5, 1, 0, 2, 0, 3, 1, 4, 1, 4, 2, 1, 3, 0, 5, 3, 2, 5, 3, 4, 5, 0, 0
+All boards: 147500000000, unique boards: 64503682560. Tue Jul 27 17:52:22 PDT 2004
+0, 0, 2, 4, 4, 5, 4, 0, 5, 1, 3, 0, 2, 1, 2, 3, 3, 4, 1, 5, 0, 3, 1, 5, 0, 2, 0, 0
+All boards: 148000000000, unique boards: 64503682560. Tue Jul 27 18:32:50 PDT 2004
+0, 0, 2, 4, 2, 5, 1, 0, 2, 4, 1, 5, 1, 4, 2, 5, 1, 3, 3, 0, 0, 3, 3, 4, 0, 5, 0, 0
+All boards: 148500000000, unique boards: 64503682560. Tue Jul 27 19:12:53 PDT 2004
+0, 0, 2, 4, 0, 5, 4, 0, 0, 1, 1, 5, 1, 4, 1, 2, 2, 3, 0, 3, 3, 2, 3, 5, 4, 5, 0, 0
+All boards: 149000000000, unique boards: 64503682560. Tue Jul 27 19:52:54 PDT 2004
+0, 0, 2, 4, 4, 5, 0, 5, 3, 1, 1, 3, 0, 1, 4, 1, 4, 5, 0, 5, 3, 2, 3, 2, 0, 2, 0, 0
+All boards: 149500000000, unique boards: 64503682560. Tue Jul 27 20:33:04 PDT 2004
+0, 0, 2, 4, 2, 4, 3, 5, 0, 4, 1, 0, 5, 1, 2, 1, 2, 3, 5, 3, 0, 3, 4, 0, 1, 5, 0, 0
+All boards: 150000000000, unique boards: 64503682560. Tue Jul 27 21:12:59 PDT 2004
+0, 0, 2, 4, 0, 4, 0, 5, 4, 0, 1, 0, 3, 5, 2, 4, 1, 2, 3, 5, 1, 2, 1, 3, 3, 5, 0, 0
+All boards: 150500000000, unique boards: 64503682560. Tue Jul 27 21:52:55 PDT 2004
+0, 0, 2, 4, 4, 3, 3, 5, 1, 2, 0, 5, 1, 5, 1, 0, 4, 5, 1, 3, 2, 0, 2, 4, 0, 3, 0, 0
+All boards: 151000000000, unique boards: 64503682560. Tue Jul 27 22:32:59 PDT 2004
+0, 0, 2, 4, 2, 4, 0, 5, 4, 3, 0, 3, 1, 0, 1, 2, 1, 2, 5, 1, 5, 3, 4, 3, 0, 5, 0, 0
+All boards: 151500000000, unique boards: 64503682560. Tue Jul 27 23:13:03 PDT 2004
+0, 0, 2, 4, 0, 4, 3, 4, 2, 0, 0, 3, 1, 3, 5, 1, 1, 3, 1, 5, 2, 5, 2, 0, 4, 5, 0, 0
+All boards: 152000000000, unique boards: 64503682560. Tue Jul 27 23:52:45 PDT 2004
+0, 0, 2, 4, 4, 2, 0, 4, 5, 1, 0, 1, 5, 3, 3, 5, 3, 4, 3, 5, 0, 1, 1, 2, 0, 2, 0, 0
+All boards: 152500000000, unique boards: 64503682560. Wed Jul 28 00:32:39 PDT 2004
+0, 0, 2, 3, 2, 3, 3, 4, 2, 4, 5, 4, 4, 5, 2, 0, 1, 3, 1, 0, 1, 0, 1, 5, 0, 5, 0, 0
+All boards: 153000000000, unique boards: 64503682560. Wed Jul 28 01:12:35 PDT 2004
+0, 0, 2, 3, 0, 3, 0, 4, 0, 1, 5, 4, 4, 1, 2, 3, 2, 3, 0, 1, 5, 2, 1, 5, 4, 5, 0, 0
+All boards: 153500000000, unique boards: 64503682560. Wed Jul 28 01:52:32 PDT 2004
+0, 0, 2, 3, 4, 2, 3, 4, 3, 1, 5, 1, 1, 3, 0, 2, 4, 5, 0, 4, 0, 5, 5, 1, 0, 2, 0, 0
+All boards: 154000000000, unique boards: 64503682560. Wed Jul 28 02:32:43 PDT 2004
+0, 0, 2, 3, 2, 3, 0, 3, 0, 4, 5, 0, 0, 5, 5, 4, 2, 3, 4, 1, 1, 4, 2, 1, 1, 5, 0, 0
+All boards: 154500000000, unique boards: 64503682560. Wed Jul 28 03:12:44 PDT 2004
+0, 0, 2, 3, 0, 2, 3, 2, 4, 0, 5, 0, 5, 4, 5, 0, 1, 2, 1, 4, 3, 1, 1, 4, 3, 5, 0, 0
+All boards: 155000000000, unique boards: 64503682560. Wed Jul 28 03:52:36 PDT 2004
+0, 0, 2, 3, 4, 1, 0, 3, 1, 2, 4, 5, 5, 0, 4, 2, 4, 5, 0, 1, 3, 2, 1, 5, 0, 3, 0, 0
+All boards: 155500000000, unique boards: 64503682560. Wed Jul 28 04:32:22 PDT 2004
+0, 0, 2, 3, 2, 1, 3, 2, 4, 3, 4, 1, 4, 3, 1, 4, 1, 2, 5, 0, 0, 5, 5, 0, 0, 5, 0, 0
+All boards: 156000000000, unique boards: 64503682560. Wed Jul 28 05:12:20 PDT 2004
+0, 0, 2, 3, 0, 2, 0, 3, 2, 0, 4, 1, 3, 5, 1, 5, 1, 3, 0, 5, 1, 4, 4, 2, 4, 5, 0, 0
+All boards: 156500000000, unique boards: 64503682560. Wed Jul 28 05:52:05 PDT 2004
+0, 0, 2, 3, 4, 1, 3, 2, 5, 1, 4, 0, 0, 5, 0, 1, 3, 4, 1, 5, 3, 2, 4, 5, 0, 2, 0, 0
+All boards: 157000000000, unique boards: 64503682560. Wed Jul 28 06:32:00 PDT 2004
+0, 0, 2, 3, 2, 1, 0, 2, 2, 4, 1, 5, 0, 3, 5, 3, 1, 3, 4, 0, 5, 4, 1, 4, 0, 5, 0, 0
+All boards: 157500000000, unique boards: 64503682560. Wed Jul 28 07:11:53 PDT 2004
+0, 0, 2, 3, 0, 1, 3, 1, 0, 1, 1, 5, 5, 3, 4, 5, 2, 3, 0, 4, 2, 4, 0, 2, 4, 5, 0, 0
+All boards: 158000000000, unique boards: 64503682560. Wed Jul 28 07:51:52 PDT 2004
+0, 0, 2, 3, 4, 0, 0, 2, 3, 1, 1, 4, 3, 5, 3, 5, 4, 5, 0, 5, 1, 2, 4, 1, 0, 2, 0, 0
+All boards: 158500000000, unique boards: 64503682560. Wed Jul 28 08:32:10 PDT 2004
+0, 0, 2, 3, 2, 0, 3, 1, 0, 4, 1, 0, 3, 5, 2, 0, 2, 3, 5, 4, 4, 1, 5, 4, 1, 5, 0, 0
+All boards: 159000000000, unique boards: 64503682560. Wed Jul 28 18:32:56 PDT 2004
+0, 0, 2, 3, 0, 1, 0, 2, 4, 0, 1, 0, 3, 2, 1, 4, 1, 2, 4, 5, 5, 4, 3, 5, 3, 5, 0, 0
+All boards: 159500000000, unique boards: 64503682560. Wed Jul 28 19:12:53 PDT 2004
+0, 0, 2, 3, 4, 0, 3, 0, 1, 2, 0, 5, 1, 3, 5, 4, 4, 5, 1, 4, 2, 5, 1, 2, 0, 3, 0, 0
+All boards: 160000000000, unique boards: 64503682560. Wed Jul 28 19:52:45 PDT 2004
+0, 0, 2, 3, 1, 5, 0, 1, 4, 3, 0, 4, 4, 3, 4, 5, 1, 2, 5, 1, 0, 2, 3, 2, 0, 5, 0, 0
+All boards: 160500000000, unique boards: 64503682560. Wed Jul 28 20:32:40 PDT 2004
+0, 0, 2, 3, 5, 4, 3, 0, 2, 0, 0, 1, 2, 3, 4, 1, 1, 3, 5, 4, 1, 0, 5, 2, 4, 5, 0, 0
+All boards: 161000000000, unique boards: 64503682560. Wed Jul 28 21:12:46 PDT 2004
+0, 0, 2, 3, 3, 5, 0, 1, 5, 1, 0, 1, 2, 0, 3, 4, 3, 4, 4, 5, 4, 1, 2, 5, 0, 2, 0, 0
+All boards: 161500000000, unique boards: 64543626812. Wed Jul 28 21:52:47 PDT 2004
+0, 0, 2, 1, 1, 5, 3, 0, 2, 4, 5, 4, 2, 3, 1, 5, 1, 3, 3, 0, 0, 4, 2, 4, 0, 5, 0, 0
+All boards: 162000000000, unique boards: 64606380336. Wed Jul 28 22:33:26 PDT 2004
+0, 0, 2, 1, 5, 4, 0, 1, 0, 1, 5, 3, 0, 3, 2, 3, 2, 3, 4, 0, 1, 2, 4, 5, 4, 5, 0, 0
+All boards: 162500000000, unique boards: 64678647848. Wed Jul 28 23:13:51 PDT 2004
+0, 0, 2, 1, 3, 4, 2, 5, 3, 1, 5, 3, 5, 2, 4, 0, 4, 5, 0, 4, 1, 0, 3, 1, 0, 2, 0, 0
+All boards: 163000000000, unique boards: 64745027902. Wed Jul 28 23:53:55 PDT 2004
+0, 0, 2, 1, 1, 4, 5, 4, 0, 4, 5, 0, 5, 0, 2, 1, 2, 3, 4, 3, 2, 3, 3, 0, 1, 5, 0, 0
+All boards: 163500000000, unique boards: 64807864236. Thu Jul 29 00:34:06 PDT 2004
+0, 0, 2, 1, 5, 3, 2, 5, 4, 0, 4, 5, 2, 1, 1, 4, 1, 2, 3, 0, 0, 4, 0, 3, 3, 5, 0, 0
+All boards: 164000000000, unique boards: 64879958028. Thu Jul 29 01:14:37 PDT 2004
+0, 0, 2, 1, 3, 4, 5, 4, 1, 2, 4, 5, 1, 2, 1, 0, 4, 5, 0, 3, 5, 0, 2, 3, 0, 3, 0, 0
+All boards: 164500000000, unique boards: 64946061336. Thu Jul 29 01:55:06 PDT 2004
+0, 0, 2, 1, 1, 4, 2, 5, 4, 3, 4, 3, 0, 5, 0, 1, 1, 2, 5, 0, 3, 2, 4, 3, 0, 5, 0, 0
+All boards: 165000000000, unique boards: 65009443752. Thu Jul 29 02:35:37 PDT 2004
+0, 0, 2, 1, 5, 3, 5, 3, 2, 0, 4, 0, 0, 1, 4, 1, 1, 3, 5, 3, 2, 4, 2, 0, 4, 5, 0, 0
+All boards: 165500000000, unique boards: 65080430576. Thu Jul 29 03:15:50 PDT 2004
+0, 0, 2, 1, 3, 2, 2, 4, 5, 1, 4, 0, 5, 1, 3, 5, 3, 4, 3, 5, 0, 4, 0, 1, 0, 2, 0, 0
+All boards: 166000000000, unique boards: 65145941236. Thu Jul 29 03:55:59 PDT 2004
+0, 0, 2, 1, 1, 3, 5, 3, 2, 4, 3, 5, 4, 2, 2, 0, 1, 3, 4, 0, 5, 0, 1, 4, 0, 5, 0, 0
+All boards: 166500000000, unique boards: 65210090760. Thu Jul 29 04:36:10 PDT 2004
+0, 0, 2, 1, 5, 2, 2, 4, 0, 1, 3, 4, 1, 4, 1, 3, 2, 3, 5, 0, 3, 0, 0, 5, 4, 5, 0, 0
+All boards: 167000000000, unique boards: 65280956102. Thu Jul 29 05:16:13 PDT 2004
+0, 0, 2, 1, 3, 2, 5, 3, 3, 1, 3, 4, 1, 0, 0, 2, 4, 5, 0, 5, 4, 5, 4, 1, 0, 2, 0, 0
+All boards: 167500000000, unique boards: 65345756394. Thu Jul 29 05:56:41 PDT 2004
+0, 0, 2, 1, 1, 3, 2, 3, 0, 4, 3, 0, 0, 4, 5, 4, 2, 3, 5, 4, 2, 5, 1, 0, 1, 5, 0, 0
+All boards: 168000000000, unique boards: 65409715272. Thu Jul 29 06:37:18 PDT 2004
+0, 0, 2, 1, 5, 1, 5, 2, 4, 0, 0, 5, 4, 2, 4, 0, 1, 2, 4, 3, 3, 0, 1, 3, 3, 5, 0, 0
+All boards: 168500000000, unique boards: 65480016542. Thu Jul 29 07:17:49 PDT 2004
+0, 0, 2, 1, 3, 1, 2, 3, 1, 2, 0, 5, 4, 5, 4, 1, 4, 5, 3, 4, 2, 0, 0, 5, 0, 3, 0, 0
+All boards: 169000000000, unique boards: 65544410627. Thu Jul 29 07:58:16 PDT 2004
+0, 0, 2, 1, 1, 2, 5, 2, 4, 3, 0, 4, 4, 0, 1, 3, 1, 2, 5, 3, 3, 5, 4, 0, 0, 5, 0, 0
+All boards: 169500000000, unique boards: 65608983264. Thu Jul 29 08:38:36 PDT 2004
+0, 0, 2, 1, 5, 1, 2, 3, 2, 0, 0, 3, 2, 3, 0, 5, 1, 3, 5, 4, 0, 4, 4, 1, 4, 5, 0, 0
+All boards: 170000000000, unique boards: 65678402608. Thu Jul 29 09:19:10 PDT 2004
+0, 0, 2, 1, 3, 1, 5, 2, 5, 1, 0, 3, 0, 4, 0, 1, 3, 4, 4, 5, 5, 2, 3, 4, 0, 2, 0, 0
+All boards: 170500000000, unique boards: 65742933716. Thu Jul 29 10:00:48 PDT 2004
+0, 0, 2, 0, 1, 0, 2, 1, 2, 4, 5, 4, 5, 4, 5, 3, 1, 3, 3, 1, 3, 2, 0, 4, 0, 5, 0, 0
+All boards: 171000000000, unique boards: 65809262016. Thu Jul 29 10:48:38 PDT 2004
+0, 0, 2, 0, 5, 0, 5, 1, 0, 1, 5, 3, 4, 1, 3, 4, 2, 3, 4, 1, 2, 3, 0, 2, 4, 5, 0, 0
+All boards: 171500000000, unique boards: 65879521894. Thu Jul 29 11:30:38 PDT 2004
+0, 0, 2, 0, 3, 0, 2, 1, 3, 1, 5, 3, 4, 2, 3, 5, 4, 5, 1, 4, 1, 5, 4, 0, 0, 2, 0, 0
+All boards: 172000000000, unique boards: 65943938912. Fri Jul 30 18:40:16 PDT 2004
+0, 0, 2, 0, 1, 0, 5, 1, 0, 4, 5, 1, 3, 4, 2, 0, 2, 3, 4, 3, 5, 2, 4, 3, 1, 5, 0, 0
+All boards: 172500000000, unique boards: 66010514956. Fri Jul 30 19:20:25 PDT 2004
+0, 0, 2, 0, 5, 0, 2, 1, 4, 0, 4, 5, 1, 4, 0, 4, 1, 2, 3, 1, 3, 2, 3, 5, 3, 5, 0, 0
+All boards: 173000000000, unique boards: 66080589004. Fri Jul 30 20:00:24 PDT 2004
+0, 0, 2, 0, 3, 0, 5, 0, 1, 2, 4, 5, 1, 2, 4, 3, 4, 5, 1, 3, 4, 5, 1, 2, 0, 3, 0, 0
+All boards: 173500000000, unique boards: 66144612812. Fri Jul 30 20:40:13 PDT 2004
+0, 0, 2, 0, 0, 5, 2, 0, 4, 3, 4, 3, 4, 2, 4, 5, 1, 2, 5, 1, 1, 3, 3, 1, 0, 5, 0, 0
+All boards: 174000000000, unique boards: 66211548792. Fri Jul 30 21:20:06 PDT 2004
+0, 0, 2, 0, 4, 5, 5, 0, 2, 0, 4, 1, 2, 1, 3, 1, 1, 3, 5, 3, 3, 0, 4, 2, 4, 5, 0, 0
+All boards: 174500000000, unique boards: 66280610374. Fri Jul 30 22:00:01 PDT 2004
+0, 0, 2, 0, 2, 5, 2, 0, 5, 1, 4, 1, 1, 4, 3, 4, 3, 4, 3, 5, 3, 0, 1, 5, 0, 2, 0, 0
+All boards: 175000000000, unique boards: 66344148140. Fri Jul 30 22:39:53 PDT 2004
+0, 0, 2, 0, 0, 5, 5, 0, 2, 4, 3, 5, 2, 1, 1, 4, 1, 3, 4, 1, 3, 4, 2, 3, 0, 5, 0, 0
+All boards: 175500000000, unique boards: 66411824880. Fri Jul 30 23:19:55 PDT 2004
+0, 0, 2, 0, 4, 5, 2, 0, 0, 1, 3, 4, 0, 2, 1, 3, 2, 3, 5, 1, 1, 3, 4, 5, 4, 5, 0, 0
+All boards: 176000000000, unique boards: 66480636536. Fri Jul 30 23:59:41 PDT 2004
+0, 0, 2, 0, 2, 4, 4, 5, 3, 1, 3, 4, 5, 1, 3, 0, 4, 5, 1, 5, 3, 0, 2, 1, 0, 2, 0, 0
+All boards: 176500000000, unique boards: 66543432844. Sat Jul 31 00:39:48 PDT 2004
+0, 0, 2, 0, 0, 4, 1, 5, 0, 4, 3, 1, 3, 5, 3, 2, 2, 3, 5, 4, 2, 1, 4, 0, 1, 5, 0, 0
+All boards: 177000000000, unique boards: 66611127648. Sat Jul 31 01:20:02 PDT 2004
+0, 0, 2, 0, 4, 3, 4, 5, 4, 0, 1, 5, 2, 0, 1, 3, 1, 2, 4, 3, 1, 5, 0, 2, 3, 5, 0, 0
+All boards: 177500000000, unique boards: 66679599012. Sat Jul 31 01:59:52 PDT 2004
+0, 0, 2, 0, 2, 4, 1, 5, 1, 2, 1, 5, 1, 3, 2, 0, 4, 5, 3, 4, 0, 5, 3, 4, 0, 3, 0, 0
+All boards: 178000000000, unique boards: 66742138592. Sat Jul 31 02:39:44 PDT 2004
+0, 0, 2, 0, 0, 4, 4, 5, 4, 3, 1, 4, 1, 3, 0, 1, 1, 2, 5, 3, 5, 2, 3, 2, 0, 5, 0, 0
+All boards: 178500000000, unique boards: 66810464064. Sat Jul 31 03:19:41 PDT 2004
+0, 0, 2, 0, 4, 2, 1, 4, 2, 0, 1, 3, 5, 3, 5, 2, 1, 3, 5, 4, 1, 0, 3, 0, 4, 5, 0, 0
+All boards: 179000000000, unique boards: 66878071552. Sat Jul 31 03:59:29 PDT 2004
+0, 0, 2, 0, 2, 3, 4, 3, 5, 1, 1, 3, 5, 0, 2, 5, 3, 4, 4, 5, 1, 4, 0, 1, 0, 2, 0, 0
+All boards: 179500000000, unique boards: 66893091840. Sat Jul 31 04:39:05 PDT 2004
+0, 0, 1, 5, 0, 3, 1, 4, 2, 4, 4, 3, 4, 2, 3, 0, 1, 3, 2, 0, 1, 5, 2, 5, 0, 5, 0, 0
+All boards: 180000000000, unique boards: 66893091840. Sat Jul 31 05:18:35 PDT 2004
+0, 0, 1, 5, 4, 2, 4, 3, 0, 1, 4, 2, 1, 3, 1, 2, 2, 3, 3, 0, 5, 0, 0, 5, 4, 5, 0, 0
+All boards: 180500000000, unique boards: 66893091840. Sat Jul 31 05:58:10 PDT 2004
+0, 0, 1, 5, 2, 3, 1, 4, 3, 1, 4, 2, 0, 5, 0, 3, 4, 5, 0, 3, 4, 1, 5, 2, 0, 2, 0, 0
+All boards: 181000000000, unique boards: 66893091840. Sat Jul 31 06:37:46 PDT 2004
+0, 0, 1, 5, 0, 3, 4, 2, 0, 4, 4, 0, 1, 2, 5, 3, 2, 3, 3, 2, 4, 5, 1, 0, 1, 5, 0, 0
+All boards: 181500000000, unique boards: 66893091840. Sat Jul 31 07:17:06 PDT 2004
+0, 0, 1, 5, 4, 1, 1, 3, 4, 0, 3, 4, 5, 2, 5, 0, 1, 2, 2, 0, 0, 3, 2, 4, 3, 5, 0, 0
+All boards: 182000000000, unique boards: 66893091840. Sat Jul 31 07:56:37 PDT 2004
+0, 0, 1, 5, 2, 1, 4, 2, 1, 2, 3, 4, 4, 3, 3, 1, 4, 5, 0, 2, 5, 0, 0, 5, 0, 3, 0, 0
+All boards: 182500000000, unique boards: 66893091840. Sat Jul 31 08:36:11 PDT 2004
+0, 0, 1, 5, 0, 2, 1, 3, 4, 3, 3, 2, 3, 5, 2, 4, 1, 2, 4, 0, 4, 1, 5, 0, 0, 5, 0, 0
+All boards: 183000000000, unique boards: 66893091840. Sat Jul 31 09:16:06 PDT 2004
+0, 0, 1, 5, 4, 1, 4, 2, 2, 0, 3, 0, 2, 0, 0, 5, 1, 3, 4, 2, 3, 5, 3, 1, 4, 5, 0, 0
+All boards: 183500000000, unique boards: 66893091840. Sat Jul 31 09:55:40 PDT 2004
+0, 0, 1, 5, 2, 1, 1, 3, 5, 1, 3, 0, 0, 4, 0, 2, 3, 4, 2, 4, 3, 5, 4, 5, 0, 2, 0, 0
+All boards: 184000000000, unique boards: 66893091840. Sat Jul 31 10:35:13 PDT 2004
+0, 0, 1, 5, 0, 1, 4, 1, 2, 4, 2, 4, 5, 3, 5, 2, 1, 3, 3, 0, 4, 2, 0, 3, 0, 5, 0, 0
+All boards: 184500000000, unique boards: 66893091840. Sat Jul 31 11:14:40 PDT 2004
+0, 0, 1, 5, 4, 0, 1, 2, 0, 1, 2, 3, 3, 5, 4, 5, 2, 3, 4, 0, 2, 1, 0, 3, 4, 5, 0, 0
+All boards: 185000000000, unique boards: 66893091840. Sat Jul 31 11:53:50 PDT 2004
+0, 0, 1, 5, 2, 0, 4, 1, 3, 1, 2, 3, 4, 1, 2, 5, 4, 5, 0, 4, 3, 5, 3, 0, 0, 2, 0, 0
+All boards: 185500000000, unique boards: 66893091840. Sat Jul 31 12:33:17 PDT 2004
+0, 0, 1, 5, 0, 1, 1, 2, 0, 4, 2, 0, 3, 4, 3, 0, 2, 3, 4, 3, 2, 5, 5, 4, 1, 5, 0, 0
+All boards: 186000000000, unique boards: 66893091840. Sat Jul 31 13:12:45 PDT 2004
+0, 0, 1, 5, 4, 0, 4, 1, 4, 0, 0, 4, 1, 3, 0, 3, 1, 2, 3, 2, 5, 2, 2, 5, 3, 5, 0, 0
+All boards: 186500000000, unique boards: 66893091840. Sat Jul 31 13:52:12 PDT 2004
+0, 0, 1, 5, 1, 5, 1, 0, 1, 2, 0, 4, 4, 3, 5, 4, 4, 5, 2, 3, 2, 0, 2, 3, 0, 3, 0, 0
+All boards: 187000000000, unique boards: 66893091840. Sat Jul 31 14:31:35 PDT 2004
+0, 0, 1, 5, 5, 4, 4, 0, 4, 3, 0, 3, 3, 0, 3, 5, 1, 2, 2, 4, 1, 2, 2, 1, 0, 5, 0, 0
+All boards: 187500000000, unique boards: 66893091840. Sat Jul 31 15:10:55 PDT 2004
+0, 0, 1, 5, 3, 5, 1, 0, 2, 0, 0, 2, 2, 1, 4, 2, 1, 3, 4, 3, 0, 4, 5, 3, 4, 5, 0, 0
+All boards: 188000000000, unique boards: 66893091840. Sat Jul 31 15:50:20 PDT 2004
+0, 0, 1, 5, 1, 5, 4, 0, 5, 1, 0, 2, 2, 3, 2, 3, 3, 4, 3, 4, 4, 0, 1, 5, 0, 2, 0, 0
+All boards: 188500000000, unique boards: 66893091840. Sat Jul 31 16:29:42 PDT 2004
+0, 0, 1, 4, 5, 4, 1, 0, 2, 4, 5, 3, 0, 3, 2, 5, 1, 3, 0, 2, 2, 1, 3, 4, 0, 5, 0, 0
+All boards: 189000000000, unique boards: 66893091840. Sat Jul 31 17:09:27 PDT 2004
+0, 0, 1, 4, 3, 5, 4, 0, 0, 1, 5, 2, 0, 1, 1, 2, 2, 3, 3, 0, 2, 4, 3, 5, 4, 5, 0, 0
+All boards: 189500000000, unique boards: 66893091840. Sat Jul 31 17:49:08 PDT 2004
+0, 0, 1, 4, 1, 4, 0, 5, 3, 1, 5, 2, 5, 2, 4, 1, 4, 5, 0, 3, 0, 3, 3, 2, 0, 2, 0, 0
+All boards: 190000000000, unique boards: 66893091840. Sat Jul 31 18:28:35 PDT 2004
+0, 0, 1, 4, 5, 3, 3, 5, 0, 4, 5, 0, 2, 1, 2, 1, 2, 3, 2, 3, 4, 0, 4, 0, 1, 5, 0, 0
+All boards: 190500000000, unique boards: 66893091840. Sat Jul 31 19:08:05 PDT 2004
+0, 0, 1, 4, 3, 4, 0, 5, 4, 0, 3, 5, 1, 5, 2, 4, 1, 2, 2, 0, 2, 0, 1, 3, 3, 5, 0, 0
+All boards: 191000000000, unique boards: 66893091840. Sat Jul 31 19:47:37 PDT 2004
+0, 0, 1, 4, 1, 4, 3, 5, 1, 2, 3, 5, 2, 0, 1, 0, 4, 5, 0, 2, 3, 5, 2, 4, 0, 3, 0, 0
+All boards: 191500000000, unique boards: 66893091840. Sat Jul 31 20:27:15 PDT 2004
+0, 0, 1, 4, 5, 3, 0, 5, 4, 3, 3, 2, 0, 2, 1, 2, 1, 2, 0, 5, 1, 4, 4, 3, 0, 5, 0, 0
+All boards: 192000000000, unique boards: 66893091840. Sat Jul 31 21:07:01 PDT 2004
+0, 0, 1, 4, 3, 2, 3, 4, 2, 0, 3, 0, 5, 1, 5, 1, 1, 3, 5, 2, 4, 0, 2, 0, 4, 5, 0, 0
+All boards: 192500000000, unique boards: 66893091840. Sat Jul 31 21:46:35 PDT 2004
+0, 0, 1, 4, 1, 3, 0, 4, 5, 1, 3, 0, 4, 5, 3, 5, 3, 4, 2, 5, 2, 0, 1, 2, 0, 2, 0, 0
+All boards: 193000000000, unique boards: 66893091840. Sat Jul 31 22:26:03 PDT 2004
+0, 0, 1, 4, 5, 2, 3, 4, 2, 4, 2, 5, 3, 0, 2, 0, 1, 3, 0, 3, 1, 4, 1, 5, 0, 5, 0, 0
+All boards: 193500000000, unique boards: 66893091840. Sat Jul 31 23:05:35 PDT 2004
+0, 0, 1, 4, 3, 2, 0, 4, 0, 1, 2, 3, 1, 4, 2, 3, 2, 3, 5, 0, 0, 5, 1, 5, 4, 5, 0, 0
+All boards: 194000000000, unique boards: 66893091840. Sat Jul 31 23:44:59 PDT 2004
+0, 0, 1, 4, 1, 3, 3, 4, 3, 1, 2, 3, 0, 4, 0, 2, 4, 5, 0, 5, 5, 2, 5, 1, 0, 2, 0, 0
+All boards: 194500000000, unique boards: 66893091840. Sun Aug 01 00:24:37 PDT 2004
+0, 0, 1, 4, 5, 1, 0, 3, 0, 4, 2, 0, 4, 3, 5, 4, 2, 3, 3, 5, 2, 0, 2, 1, 1, 5, 0, 0
+All boards: 195000000000, unique boards: 66893091840. Sun Aug 01 01:04:07 PDT 2004
+0, 0, 1, 4, 3, 1, 3, 2, 4, 0, 0, 5, 5, 0, 5, 0, 1, 2, 3, 2, 2, 4, 1, 4, 3, 5, 0, 0
+All boards: 195500000000, unique boards: 66893091840. Sun Aug 01 01:43:40 PDT 2004
+0, 0, 1, 4, 1, 2, 0, 3, 1, 2, 0, 5, 4, 3, 4, 2, 4, 5, 2, 3, 0, 5, 1, 5, 0, 3, 0, 0
+All boards: 196000000000, unique boards: 66893091840. Sun Aug 01 02:23:25 PDT 2004
+0, 0, 1, 4, 5, 1, 3, 2, 4, 3, 0, 3, 2, 3, 1, 4, 1, 2, 2, 5, 4, 0, 5, 0, 0, 5, 0, 0
+All boards: 196500000000, unique boards: 66893091840. Sun Aug 01 03:03:10 PDT 2004
+0, 0, 1, 4, 3, 1, 0, 3, 2, 0, 0, 2, 0, 5, 1, 5, 1, 3, 5, 3, 4, 2, 4, 2, 4, 5, 0, 0
+All boards: 197000000000, unique boards: 66893091840. Sun Aug 01 03:42:45 PDT 2004
+0, 0, 1, 4, 1, 2, 3, 2, 5, 1, 0, 2, 0, 3, 0, 1, 3, 4, 3, 5, 4, 5, 4, 5, 0, 2, 0, 0
+All boards: 197500000000, unique boards: 66893091840. Sun Aug 01 04:22:21 PDT 2004
+0, 0, 1, 3, 5, 0, 0, 2, 2, 4, 5, 4, 4, 2, 5, 3, 1, 3, 0, 2, 1, 3, 1, 4, 0, 5, 0, 0
+All boards: 198000000000, unique boards: 66893091840. Sun Aug 01 05:02:05 PDT 2004
+0, 0, 1, 3, 3, 0, 3, 1, 0, 1, 5, 2, 4, 2, 4, 5, 2, 3, 4, 0, 5, 1, 0, 2, 4, 5, 0, 0
+All boards: 198500000000, unique boards: 66893091840. Sun Aug 01 05:41:52 PDT 2004
+0, 0, 1, 3, 1, 0, 0, 2, 3, 1, 5, 2, 3, 5, 3, 5, 4, 5, 0, 4, 4, 2, 4, 1, 0, 2, 0, 0
+All boards: 199000000000, unique boards: 66893091840. Sun Aug 01 06:21:28 PDT 2004
+0, 0, 1, 3, 5, 0, 3, 1, 0, 4, 5, 0, 2, 1, 2, 0, 2, 3, 2, 4, 3, 4, 5, 4, 1, 5, 0, 0
+All boards: 199500000000, unique boards: 66893091840. Sun Aug 01 07:00:55 PDT 2004
+0, 0, 1, 3, 3, 0, 0, 2, 4, 0, 4, 5, 1, 4, 1, 4, 1, 2, 2, 0, 2, 5, 3, 5, 3, 5, 0, 0
+All boards: 200000000000, unique boards: 66893091840. Sun Aug 01 07:40:30 PDT 2004
+0, 0, 1, 3, 0, 5, 3, 0, 1, 2, 4, 5, 4, 2, 5, 4, 4, 5, 0, 2, 3, 1, 1, 2, 0, 3, 0, 0
+All boards: 200500000000, unique boards: 66893091840. Sun Aug 01 08:19:56 PDT 2004
+0, 0, 1, 3, 4, 5, 0, 1, 4, 3, 4, 2, 2, 3, 4, 5, 1, 2, 0, 5, 1, 0, 3, 2, 0, 5, 0, 0
+All boards: 201000000000, unique boards: 66893091840. Sun Aug 01 08:59:32 PDT 2004
+0, 0, 1, 3, 2, 5, 3, 0, 2, 0, 4, 0, 3, 0, 4, 1, 1, 3, 5, 2, 1, 4, 5, 2, 4, 5, 0, 0
+All boards: 201500000000, unique boards: 66893091840. Sun Aug 01 09:39:09 PDT 2004
+0, 0, 1, 3, 0, 5, 0, 1, 5, 1, 4, 0, 2, 3, 3, 4, 3, 4, 2, 5, 1, 4, 2, 5, 0, 2, 0, 0
+All boards: 202000000000, unique boards: 66893091840. Sun Aug 01 10:18:35 PDT 2004
+0, 0, 1, 3, 4, 5, 3, 0, 2, 4, 2, 5, 0, 2, 1, 5, 1, 3, 0, 4, 3, 1, 2, 4, 0, 5, 0, 0
+All boards: 202500000000, unique boards: 66893091840. Sun Aug 01 10:57:33 PDT 2004
+0, 0, 1, 3, 2, 4, 0, 1, 0, 1, 2, 4, 5, 3, 2, 3, 2, 3, 5, 0, 1, 0, 4, 5, 4, 5, 0, 0
+All boards: 203000000000, unique boards: 66893091840. Sun Aug 01 11:36:46 PDT 2004
+0, 0, 1, 3, 0, 4, 2, 5, 3, 1, 2, 4, 5, 1, 4, 0, 4, 5, 0, 5, 2, 3, 3, 1, 0, 2, 0, 0
+All boards: 203500000000, unique boards: 66893091840. Sun Aug 01 12:16:33 PDT 2004
+0, 0, 1, 3, 4, 3, 5, 4, 0, 4, 2, 0, 2, 0, 2, 1, 2, 3, 4, 5, 5, 1, 3, 0, 1, 5, 0, 0
+All boards: 204000000000, unique boards: 66893091840. Sun Aug 01 12:56:19 PDT 2004
+0, 0, 1, 3, 2, 4, 2, 5, 4, 0, 0, 5, 1, 3, 1, 4, 1, 2, 4, 2, 5, 0, 0, 3, 3, 5, 0, 0
+All boards: 204500000000, unique boards: 66893091840. Sun Aug 01 13:36:10 PDT 2004
+0, 0, 1, 3, 0, 4, 5, 4, 1, 2, 0, 5, 1, 5, 1, 0, 4, 5, 2, 4, 2, 3, 2, 3, 0, 3, 0, 0
+All boards: 205000000000, unique boards: 66893091840. Sun Aug 01 14:15:53 PDT 2004
+0, 0, 1, 3, 4, 3, 2, 5, 4, 3, 0, 4, 0, 1, 0, 1, 1, 2, 2, 5, 2, 5, 4, 3, 0, 5, 0, 0
+All boards: 205500000000, unique boards: 66893091840. Sun Aug 01 14:55:40 PDT 2004
+0, 0, 1, 3, 2, 3, 5, 3, 2, 0, 0, 2, 5, 0, 4, 1, 1, 3, 5, 4, 4, 1, 2, 0, 4, 5, 0, 0
+All boards: 206000000000, unique boards: 66893091840. Sun Aug 01 15:35:15 PDT 2004
+0, 0, 1, 3, 0, 3, 2, 4, 5, 1, 0, 2, 4, 2, 3, 5, 3, 4, 4, 5, 5, 1, 0, 1, 0, 2, 0, 0
+All boards: 206500000000, unique boards: 66893091840. Sun Aug 01 16:14:38 PDT 2004
+0, 0, 1, 2, 4, 2, 5, 3, 2, 4, 5, 4, 1, 5, 2, 0, 1, 3, 0, 3, 0, 3, 1, 4, 0, 5, 0, 0
+All boards: 207000000000, unique boards: 66893091840. Sun Aug 01 16:53:41 PDT 2004
+0, 0, 1, 2, 2, 3, 2, 4, 0, 1, 5, 3, 1, 0, 1, 3, 2, 3, 4, 0, 4, 5, 0, 5, 4, 5, 0, 0
+All boards: 207500000000, unique boards: 66893091840. Sun Aug 01 17:33:02 PDT 2004
+0, 0, 1, 2, 0, 3, 5, 3, 3, 1, 5, 3, 1, 2, 0, 2, 4, 5, 0, 4, 5, 4, 4, 1, 0, 2, 0, 0
+All boards: 208000000000, unique boards: 66893091840. Sun Aug 01 18:12:35 PDT 2004
+0, 0, 1, 2, 4, 1, 2, 3, 0, 4, 5, 0, 5, 2, 5, 4, 2, 3, 3, 4, 3, 0, 1, 0, 1, 5, 0, 0
+All boards: 208500000000, unique boards: 66893091840. Sun Aug 01 18:51:58 PDT 2004
+0, 0, 1, 2, 2, 1, 5, 2, 4, 0, 4, 5, 4, 5, 4, 0, 1, 2, 3, 0, 0, 3, 1, 3, 3, 5, 0, 0
+All boards: 209000000000, unique boards: 66893091840. Sun Aug 01 19:31:37 PDT 2004
+0, 0, 1, 2, 0, 2, 2, 3, 1, 2, 4, 5, 4, 1, 4, 1, 4, 5, 0, 3, 3, 5, 0, 5, 0, 3, 0, 0
+All boards: 209500000000, unique boards: 66893091840. Sun Aug 01 20:11:11 PDT 2004
+0, 0, 1, 2, 4, 1, 5, 2, 4, 3, 4, 3, 2, 0, 1, 3, 1, 2, 0, 5, 5, 3, 4, 0, 0, 5, 0, 0
+All boards: 210000000000, unique boards: 66893091840. Sun Aug 01 20:50:48 PDT 2004
+0, 0, 1, 2, 2, 1, 2, 3, 2, 0, 4, 0, 0, 4, 0, 5, 1, 3, 5, 3, 5, 3, 4, 1, 4, 5, 0, 0
+All boards: 210500000000, unique boards: 66893091840. Sun Aug 01 21:30:41 PDT 2004
+0, 0, 1, 2, 0, 1, 5, 2, 5, 1, 4, 0, 5, 4, 0, 1, 3, 4, 3, 5, 2, 3, 3, 4, 0, 2, 0, 0
+All boards: 211000000000, unique boards: 66893091840. Sun Aug 01 22:10:28 PDT 2004
+0, 0, 1, 2, 4, 0, 2, 1, 2, 4, 3, 5, 5, 1, 5, 3, 1, 3, 0, 4, 2, 3, 0, 4, 0, 5, 0, 0
+All boards: 211500000000, unique boards: 66893091840. Sun Aug 01 22:50:14 PDT 2004
+0, 0, 1, 2, 2, 0, 5, 1, 0, 1, 3, 4, 4, 1, 3, 4, 2, 3, 5, 0, 5, 3, 0, 2, 4, 5, 0, 0
+All boards: 212000000000, unique boards: 66893091840. Sun Aug 01 23:30:01 PDT 2004
+0, 0, 1, 2, 0, 1, 2, 1, 3, 1, 3, 4, 3, 4, 3, 5, 4, 5, 0, 5, 5, 2, 4, 0, 0, 2, 0, 0
+All boards: 212500000000, unique boards: 66893091840. Mon Aug 02 00:09:35 PDT 2004
+0, 0, 1, 2, 4, 0, 5, 1, 0, 4, 3, 0, 1, 5, 2, 0, 2, 3, 4, 5, 2, 3, 4, 3, 1, 5, 0, 0
+All boards: 213000000000, unique boards: 66893091840. Mon Aug 02 00:49:07 PDT 2004
+0, 0, 1, 2, 2, 0, 2, 1, 4, 0, 0, 5, 1, 3, 0, 4, 1, 2, 4, 3, 4, 5, 3, 5, 3, 5, 0, 0
+All boards: 213500000000, unique boards: 66893091840. Mon Aug 02 01:28:43 PDT 2004
+0, 0, 1, 2, 5, 4, 5, 0, 1, 2, 0, 4, 3, 0, 4, 3, 4, 5, 5, 3, 2, 1, 1, 2, 0, 3, 0, 0
+All boards: 214000000000, unique boards: 66893091840. Mon Aug 02 02:08:18 PDT 2004
+0, 0, 1, 2, 3, 5, 2, 0, 4, 3, 0, 4, 2, 1, 4, 5, 1, 2, 3, 5, 4, 0, 3, 1, 0, 5, 0, 0
+All boards: 214500000000, unique boards: 66893091840. Mon Aug 02 02:47:52 PDT 2004
+0, 0, 1, 2, 1, 5, 5, 0, 2, 0, 0, 3, 2, 4, 3, 1, 1, 3, 5, 4, 0, 3, 4, 2, 4, 5, 0, 0
+All boards: 215000000000, unique boards: 66893673434. Mon Aug 02 03:27:19 PDT 2004
+0, 0, 1, 0, 5, 4, 2, 0, 5, 1, 5, 4, 1, 0, 3, 4, 3, 4, 3, 2, 2, 3, 1, 5, 0, 2, 0, 0
+All boards: 215500000000, unique boards: 66913297100. Mon Aug 02 04:07:06 PDT 2004
+0, 0, 1, 0, 3, 5, 5, 0, 2, 4, 5, 4, 0, 1, 1, 4, 1, 3, 2, 3, 4, 2, 2, 3, 0, 5, 0, 0
+All boards: 216000000000, unique boards: 66929982048. Mon Aug 02 04:47:04 PDT 2004
+0, 0, 1, 0, 1, 4, 2, 0, 0, 1, 5, 3, 5, 2, 1, 3, 2, 3, 4, 2, 3, 0, 4, 5, 4, 5, 0, 0
+All boards: 216500000000, unique boards: 66944805156. Mon Aug 02 05:26:33 PDT 2004
+0, 0, 1, 0, 5, 3, 4, 5, 3, 1, 5, 2, 2, 4, 3, 0, 4, 5, 4, 3, 0, 1, 2, 1, 0, 2, 0, 0
+All boards: 217000000000, unique boards: 66963996560. Mon Aug 02 06:05:46 PDT 2004
+0, 0, 1, 0, 3, 4, 1, 5, 0, 4, 5, 2, 2, 0, 3, 2, 2, 3, 3, 4, 1, 5, 4, 0, 1, 5, 0, 0
+All boards: 217500000000, unique boards: 66980418444. Mon Aug 02 06:45:32 PDT 2004
+0, 0, 1, 0, 1, 4, 4, 5, 4, 0, 4, 5, 2, 0, 1, 3, 1, 2, 3, 2, 5, 3, 0, 2, 3, 5, 0, 0
+All boards: 218000000000, unique boards: 66995588028. Mon Aug 02 07:25:13 PDT 2004
+0, 0, 1, 0, 5, 3, 1, 5, 1, 2, 4, 3, 0, 2, 2, 0, 4, 5, 5, 2, 4, 1, 3, 4, 0, 3, 0, 0
+All boards: 218500000000, unique boards: 67014575012. Mon Aug 02 08:04:54 PDT 2004
+0, 0, 1, 0, 3, 2, 4, 5, 4, 3, 4, 3, 5, 4, 0, 1, 1, 2, 2, 5, 0, 1, 3, 2, 0, 5, 0, 0
+All boards: 219000000000, unique boards: 67030620120. Mon Aug 02 08:44:30 PDT 2004
+0, 0, 1, 0, 1, 3, 1, 4, 2, 0, 4, 2, 5, 0, 5, 2, 1, 3, 5, 3, 2, 4, 3, 0, 4, 5, 0, 0
+All boards: 219500000000, unique boards: 67045756740. Mon Aug 02 09:24:24 PDT 2004
+0, 0, 1, 0, 5, 2, 4, 3, 5, 1, 3, 5, 3, 0, 2, 5, 3, 4, 4, 2, 4, 1, 0, 1, 0, 2, 0, 0
+All boards: 220000000000, unique boards: 67064635678. Mon Aug 02 10:04:15 PDT 2004
+0, 0, 1, 0, 3, 2, 1, 4, 2, 4, 3, 5, 1, 4, 3, 0, 1, 3, 2, 4, 5, 0, 2, 5, 0, 5, 0, 0
+All boards: 220500000000, unique boards: 67080562628. Mon Aug 02 10:44:04 PDT 2004
+0, 0, 1, 0, 1, 3, 4, 3, 0, 1, 3, 4, 0, 5, 1, 2, 2, 3, 5, 2, 2, 4, 0, 5, 4, 5, 0, 0
+All boards: 221000000000, unique boards: 67096021314. Mon Aug 02 11:23:43 PDT 2004
+0, 0, 1, 0, 5, 2, 1, 4, 3, 1, 3, 2, 0, 1, 0, 3, 4, 5, 5, 4, 3, 4, 5, 2, 0, 2, 0, 0
+All boards: 221500000000, unique boards: 67114377516. Mon Aug 02 12:03:22 PDT 2004
+0, 0, 1, 0, 3, 1, 4, 2, 0, 4, 3, 2, 5, 0, 5, 3, 2, 3, 4, 5, 4, 2, 1, 0, 1, 5, 0, 0
+All boards: 222000000000, unique boards: 67129969248. Mon Aug 02 12:43:12 PDT 2004
+0, 0, 1, 0, 1, 2, 1, 3, 4, 0, 2, 5, 4, 3, 5, 0, 1, 2, 4, 3, 5, 0, 2, 4, 3, 5, 0, 0
+All boards: 222500000000, unique boards: 67145700684. Mon Aug 02 13:23:04 PDT 2004
+0, 0, 1, 0, 5, 1, 4, 2, 1, 2, 2, 4, 2, 4, 3, 1, 4, 5, 5, 3, 0, 3, 0, 5, 0, 3, 0, 0
+All boards: 223000000000, unique boards: 67163941450. Mon Aug 02 14:02:59 PDT 2004
+0, 0, 1, 0, 3, 1, 1, 3, 4, 3, 2, 4, 2, 0, 2, 4, 1, 2, 3, 5, 4, 5, 5, 0, 0, 5, 0, 0
+All boards: 223500000000, unique boards: 67179227694. Mon Aug 02 14:42:51 PDT 2004
+0, 0, 1, 0, 1, 2, 4, 2, 2, 0, 2, 3, 0, 3, 0, 5, 1, 3, 5, 4, 5, 4, 3, 1, 4, 5, 0, 0
+All boards: 224000000000, unique boards: 67191897600. Mon Aug 02 15:22:53 PDT 2004
+0, 0, 0, 5, 5, 0, 1, 3, 5, 1, 4, 3, 4, 2, 0, 2, 3, 4, 2, 1, 3, 1, 4, 5, 0, 2, 0, 0
+All boards: 224500000000, unique boards: 67191897600. Mon Aug 02 16:02:39 PDT 2004
+0, 0, 0, 5, 3, 0, 4, 1, 2, 4, 4, 3, 4, 5, 5, 2, 1, 3, 1, 2, 1, 2, 0, 3, 0, 5, 0, 0
+All boards: 225000000000, unique boards: 67191897600. Mon Aug 02 16:42:01 PDT 2004
+0, 0, 0, 5, 1, 0, 1, 2, 0, 1, 4, 2, 4, 2, 4, 5, 2, 3, 3, 1, 3, 5, 0, 3, 4, 5, 0, 0
+All boards: 225500000000, unique boards: 67191897600. Mon Aug 02 17:21:07 PDT 2004
+0, 0, 0, 5, 5, 0, 4, 1, 3, 1, 4, 1, 2, 1, 2, 5, 4, 5, 3, 2, 4, 3, 3, 0, 0, 2, 0, 0
+All boards: 226000000000, unique boards: 67191897600. Mon Aug 02 18:00:42 PDT 2004
+0, 0, 0, 5, 3, 0, 1, 2, 0, 4, 4, 1, 1, 4, 3, 0, 2, 3, 2, 3, 5, 2, 5, 4, 1, 5, 0, 0
+All boards: 226500000000, unique boards: 67191897600. Mon Aug 02 18:40:18 PDT 2004
+0, 0, 0, 5, 0, 5, 4, 1, 4, 0, 3, 4, 4, 3, 0, 3, 1, 2, 2, 1, 1, 2, 2, 5, 3, 5, 0, 0
+All boards: 227000000000, unique boards: 67191897600. Mon Aug 02 19:19:48 PDT 2004
+0, 0, 0, 5, 4, 5, 1, 0, 1, 2, 3, 2, 3, 0, 5, 4, 4, 5, 4, 1, 1, 2, 2, 3, 0, 3, 0, 0
+All boards: 227500000000, unique boards: 67191897600. Mon Aug 02 19:59:31 PDT 2004
+0, 0, 0, 5, 2, 5, 4, 0, 4, 3, 3, 2, 3, 0, 3, 5, 1, 2, 1, 4, 4, 1, 2, 1, 0, 5, 0, 0
+All boards: 228000000000, unique boards: 67191897600. Mon Aug 02 20:39:05 PDT 2004
+0, 0, 0, 5, 0, 5, 1, 0, 2, 0, 3, 1, 2, 3, 4, 2, 1, 3, 4, 2, 4, 1, 5, 3, 4, 5, 0, 0
+All boards: 228500000000, unique boards: 67191897600. Mon Aug 02 21:18:57 PDT 2004
+0, 0, 0, 5, 4, 5, 4, 0, 5, 1, 2, 4, 0, 3, 2, 3, 3, 4, 3, 1, 1, 2, 1, 5, 0, 2, 0, 0
+All boards: 229000000000, unique boards: 67191897600. Mon Aug 02 21:58:23 PDT 2004
+0, 0, 0, 5, 2, 5, 1, 0, 2, 4, 2, 4, 0, 1, 2, 5, 1, 3, 1, 3, 3, 4, 3, 4, 0, 5, 0, 0
+All boards: 229500000000, unique boards: 67191897600. Mon Aug 02 22:37:48 PDT 2004
+0, 0, 0, 5, 0, 4, 4, 0, 0, 1, 2, 3, 5, 1, 1, 2, 2, 3, 4, 1, 3, 2, 3, 5, 4, 5, 0, 0
+All boards: 230000000000, unique boards: 67191897600. Mon Aug 02 23:17:27 PDT 2004
+0, 0, 0, 5, 4, 3, 0, 5, 3, 1, 2, 1, 2, 1, 4, 1, 4, 5, 4, 3, 5, 0, 3, 2, 0, 2, 0, 0
+All boards: 230500000000, unique boards: 67191897600. Mon Aug 02 23:57:07 PDT 2004
+0, 0, 0, 5, 2, 4, 3, 5, 0, 4, 2, 1, 1, 5, 2, 1, 2, 3, 3, 4, 0, 3, 4, 0, 1, 5, 0, 0
+All boards: 231000000000, unique boards: 67191897600. Tue Aug 03 00:36:54 PDT 2004
+0, 0, 0, 5, 0, 4, 0, 5, 4, 0, 1, 4, 2, 1, 2, 4, 1, 2, 3, 2, 3, 5, 1, 3, 3, 5, 0, 0
+All boards: 231500000000, unique boards: 67191897600. Tue Aug 03 01:16:28 PDT 2004
+0, 0, 0, 5, 4, 3, 3, 5, 1, 2, 1, 3, 0, 1, 1, 0, 4, 5, 4, 2, 5, 2, 2, 4, 0, 3, 0, 0
+All boards: 232000000000, unique boards: 67191897600. Tue Aug 03 01:56:19 PDT 2004
+0, 0, 0, 5, 2, 3, 0, 5, 4, 3, 1, 3, 5, 1, 1, 2, 1, 2, 2, 4, 4, 0, 4, 3, 0, 5, 0, 0
+All boards: 232500000000, unique boards: 67191897600. Tue Aug 03 02:36:05 PDT 2004
+0, 0, 0, 5, 0, 3, 3, 4, 2, 0, 1, 2, 4, 5, 5, 1, 1, 3, 4, 3, 1, 2, 2, 0, 4, 5, 0, 0
+All boards: 233000000000, unique boards: 67191897600. Tue Aug 03 03:15:53 PDT 2004
+0, 0, 0, 4, 4, 2, 0, 4, 5, 1, 5, 3, 3, 0, 3, 5, 3, 4, 2, 1, 1, 5, 1, 2, 0, 2, 0, 0
+All boards: 233500000000, unique boards: 67191897600. Tue Aug 03 03:55:20 PDT 2004
+0, 0, 0, 4, 2, 3, 3, 4, 2, 4, 5, 3, 1, 0, 2, 0, 1, 3, 1, 2, 5, 4, 1, 5, 0, 5, 0, 0
+All boards: 234000000000, unique boards: 67191897600. Tue Aug 03 04:34:41 PDT 2004
+0, 0, 0, 4, 0, 3, 0, 4, 0, 1, 5, 2, 1, 4, 2, 3, 2, 3, 3, 1, 5, 2, 1, 5, 4, 5, 0, 0
+All boards: 234500000000, unique boards: 67191897600. Tue Aug 03 05:14:13 PDT 2004
+0, 0, 0, 4, 4, 1, 3, 4, 3, 1, 5, 1, 5, 3, 0, 2, 4, 5, 3, 2, 0, 2, 5, 1, 0, 2, 0, 0
+All boards: 235000000000, unique boards: 67191897600. Tue Aug 03 05:53:18 PDT 2004
+0, 0, 0, 4, 2, 1, 0, 3, 0, 4, 5, 1, 5, 0, 5, 4, 2, 3, 2, 3, 3, 4, 2, 1, 1, 5, 0, 0
+All boards: 235500000000, unique boards: 67191897600. Tue Aug 03 06:32:43 PDT 2004
+0, 0, 0, 4, 0, 2, 3, 2, 4, 0, 3, 5, 4, 1, 5, 0, 1, 2, 2, 1, 5, 3, 1, 4, 3, 5, 0, 0
+All boards: 236000000000, unique boards: 67191897600. Tue Aug 03 07:12:23 PDT 2004
+0, 0, 0, 4, 4, 1, 0, 3, 1, 2, 3, 2, 2, 3, 4, 2, 4, 5, 5, 1, 5, 0, 1, 5, 0, 3, 0, 0
+All boards: 236500000000, unique boards: 67191897600. Tue Aug 03 07:51:56 PDT 2004
+0, 0, 0, 4, 2, 1, 3, 2, 4, 3, 3, 2, 0, 5, 1, 4, 1, 2, 1, 5, 3, 4, 5, 0, 0, 5, 0, 0
+All boards: 237000000000, unique boards: 67191897600. Tue Aug 03 08:31:33 PDT 2004
+0, 0, 0, 4, 0, 2, 0, 3, 2, 0, 3, 1, 1, 3, 1, 5, 1, 3, 5, 2, 4, 5, 4, 2, 4, 5, 0, 0
+All boards: 237500000000, unique boards: 67191897600. Tue Aug 03 09:11:41 PDT 2004
+0, 0, 0, 4, 4, 0, 3, 2, 5, 1, 2, 5, 5, 1, 0, 1, 3, 4, 3, 1, 3, 2, 4, 5, 0, 2, 0, 0

@@ -1,0 +1,2524 @@
+
+Tue Jun 07 11:51:00 PDT 2005
+A555533331112M
+C444422200001S
+CR4, SL1, CU, SU, ML1(+1), SL1(+1), ML3(+1), SL5(+2), AR3(+2), AD, AR2, CD
+CR2, SR3
+previous solution is 15 - 1 moves
+
+Tue Jun 07 11:51:00 PDT 2005
+A555533321111M
+C444422230000S
+CR4, ML1, ML1, ML1, ML2, CU, ML5(+1), AR3(+2), MR3(+2), CR2(+2), CR1, AR2(+1)
+AR1(+1), AD, CD, SL3(+2), AL2(+2), AU, SL2, CL2
+previous solution is 28 - 8 moves
+
+Tue Jun 07 11:51:00 PDT 2005
+A555533301111M
+C444422230002S
+CR4, ML1, ML1, ML1, ML1, CU, ML5(+1), AR3(+2), AD, MR3(+1), CD, CR3(+1), CU
+AR3, CR1, AU, AR1(+1), AD, CD, SL3(+2), AL2(+2), AU, SL2, CL2
+previous solution is 32 - 8 moves
+
+Tue Jun 07 11:51:00 PDT 2005
+A555533341111M
+C444322220000S
+ML1, ML4, ML5, MD, CR3(+1), CU, MU, AR3(+2), AD, AL4, AR3, CR4, CR1, AU
+MR4(+1), MR1(+1), AR4, AR1(+2), AD, CD, MD, SL2(+3), AL2(+3), AU, SL2, CL2
+MU, ML3
+previous solution is 109 - 81 moves
+
+Tue Jun 07 11:51:01 PDT 2005
+A555433321111M
+C444522230000S
+AR4, ML1, ML1, ML1, ML2, ML3, AD, MD, AR3(+1), AU, AR1, MR3, MU, MR1(+1), MR1
+AD, MD, SL3(+2), ML5(+2), AL4(+2), SL4(+2), CR2(+3), AR2(+2), SR2(+2), AU, SU
+CR2, MR2
+previous solution is 63 - 35 moves
+
+Tue Jun 07 11:51:02 PDT 2005
+A555433301111M
+C444522230002S
+AR4, ML1, ML1, ML1, ML1, ML5(+1), MD, MR2, AD, AR3(+1), AU, AR1, MR3, MU
+MR1(+1), MR1, AD, MD, SL3(+2), ML5(+2), AL4(+2), SL4(+2), CR2(+3), AR2(+2)
+SR2(+2), AU, SU, CR2, MR2
+previous solution is 66 - 37 moves
+
+Tue Jun 07 11:51:03 PDT 2005
+A555433321111M
+C444022230005S
+AR4, ML1, ML1, ML1, ML2, ML3, AD, MD, AR3(+1), AU, AR1, MR3, MU, MR1(+1), AD
+MD, SL3(+2), MU, ML2, ML4, MD, AL4(+2), SL4(+2), CR2(+3), AR2(+2), SR2(+2)
+AU, SU, CR2, MR2
+previous solution is 111 - 81 moves
+
+Tue Jun 07 11:51:13 PDT 2005
+A555533301104M
+C444322220011S
+SL1, SL1, SU, SL1, SD, SL2, SU, SL5, SD, CR3(+1), CU, SU, AR3(+2), AD
+SR3(+1), CD, SD, CR2(+2), CU, AR2(+1), CR4, AU, CD, AR4, CL1, CU, ML1(+2)
+AL3(+2), CL3(+2), CD, ML3(+1)
+previous solution is 113 - 82 moves
+
+Tue Jun 07 11:51:14 PDT 2005
+A555433321100M
+C444522230011S
+AR4, SL1, SL1, SL3, AD, SU, SL3, SD, AR3(+1), AU, AR1, SR3, SU, SR1(+1), AD
+SD, AR1(+1), SR1(+1), AU, SU, ML1(+2), AL1(+1), SL2(+2), AL4(+1), ML5(+2)
+SL5(+2), AD, MD, SD, CR2(+3), SR2(+3), MU, SU, CR2, AR2, MR3(+1)
+previous solution is 77 - 41 moves
+
+Tue Jun 07 11:51:15 PDT 2005
+A555433321105M
+C444022230011S
+AR4, SL1, SL1, SL3, AD, SU, SL3, SD, AR3(+1), AU, AR1, SR3, SU, SR1(+1), AD
+SD, AR1(+1), SR1(+1), AU, SU, ML1(+2), AL1(+1), SL2(+2), AL4(+1), ML5(+2)
+SL5(+2), AD, MD, SD, CR2(+3), SR2(+3), MU, SU, CR2, AR2, MR3(+1)
+previous solution is 131 - 95 moves
+
+Tue Jun 07 11:51:17 PDT 2005
+A555333321105M
+C444022240011S
+SL1, SL4, SU, SL5, AR3(+1), AD, SD, SR4(+1), SU, AR4, SR1, AU, AR1(+1), AD
+SD, SR1(+1), AR1(+1), AU, SU, ML1(+2), AL2(+2), AL3, SL2(+1), ML5(+2)
+SL3(+1), AD, AL4, MD, SD, CR2(+3), AR2(+3), AU, CR2, MR2(+1), CU, SR2(+1)
+previous solution is 41 - 5 moves
+
+Tue Jun 07 11:51:51 PDT 2005
+A555333301105M
+C444122140022S
+SL2, SU, SL1, SD, SR2, SL4, SU, SL5, AR3(+1), AD, SD, SR4(+1), SU, AR4, SR1
+SD, AR2(+1), SR2(+1), AU, SU, ML1(+2), AL1(+1), SD, SL4, SU, ML5(+2), AL5(+2)
+SL5(+2), AD, MD, SD, CR2(+3), SR2(+3), CR1(+1), AU, MU, AR3(+1), MR3(+1)
+previous solution is 82 - 44 moves
+
+Tue Jun 07 11:51:51 PDT 2005
+A555333301102M
+C444122140025S
+SL2, SU, SL1, SR2, SD, SL4, SU, SL5, AR3(+1), AD, SD, SR4(+1), SU, AR4, SR1
+SD, AR2(+1), AU, SU, SR2(+1), ML1(+2), AL1(+1), SD, SL4, SU, ML5(+2), AL5(+2)
+SL5(+2), AD, MD, SD, CR2(+3), SR2(+3), CR1(+1), AU, MU, AR3(+1), MR3(+1)
+previous solution is 102 - 64 moves
+
+Tue Jun 07 11:55:10 PDT 2005
+A552232001044M
+C441521530331S
+SL3, SU, SL1, SD, SL5, SL1, SR2, SL4, SU, AR2(+1), SR3(+1), AD, AR2, AR3, AU
+AL5(+1), SD, SL4, AD, CR1(+2), SR2(+2), SR3, AR2(+1), SU, AR3, CR2, SR1, SD
+CR3(+2), AU, AR4, SL5, SL1, SR2, SR3, CU, SR3, SU, ML1(+3), AD, AL5, AU
+CL2(+2), CD, ML2(+1), SD, SR1, SL5
+previous solution is 72 - 24 moves
+
+Tue Jun 07 11:57:03 PDT 2005
+A552532411103M
+C445020340312S
+SL3, SR2, SL4, SL5, SR2, SL4, SU, AR2(+1), SR3(+1), AD, SD, AR4(+1), AU, AR1
+AL5, AD, SU, SL2, SD, SR4(+1), SU, AR4, SR1, SR1, AU, AR3(+1), SD, SR1, SU
+ML1(+2), AL1(+2), AL1, SL5(+2), AD, MD, SD, ML5(+2), AL4(+2), CR2(+3), AU, CU
+AR4(+1), CL2, MR3(+1), SU, CR2(+1), CD, SR2
+previous solution is 108 - 60 moves
+
+Tue Jun 07 11:57:03 PDT 2005
+A552532411102M
+C445020340313S
+SL3, SU, SL1, SL1, SL3, SD, SL4, SU, AR2(+1), SR3(+1), AD, SD, AR4(+1), AU
+AR1, AL5, AD, SU, SL2, SD, SR4(+1), SU, AR4, SR1, SR1, SD, AR3(+1), SR1, AU
+SU, ML1(+2), AL1(+2), AL1, SL5(+2), AD, MD, SD, ML5(+2), AL4(+2), CR2(+3), AU
+CU, AR4(+1), CL2, MR3(+1), SU, CR2(+1), CD, SR2
+previous solution is 96 - 47 moves
+
+Tue Jun 07 12:01:15 PDT 2005
+A552532311143M
+C445020040312S
+SL3, SR2, SL4, SL5, SR2, SL4, SU, AR2(+1), SR3(+1), AD, SD, AR4(+1), AU, AR1
+AL5, AD, SU, SL2, SD, SR4(+1), SU, AR4, SR1, SR1, AU, AR3(+1), SD, SR1, SU
+ML1(+2), AL1(+2), AL1, SL5(+2), AD, MD, SD, ML5(+2), AL4(+2), CR2(+3), AU, CU
+CL2, SU, AR2(+2), AD, CR3(+1), SR2, CD, MU, MR3(+1)
+previous solution is 98 - 48 moves
+
+Tue Jun 07 12:01:15 PDT 2005
+A552532311142M
+C445020040313S
+SL3, SU, SL1, SL1, SL3, SD, SL4, SU, AR2(+1), SR3(+1), AD, SD, AR4(+1), AU
+AR1, AL5, AD, SU, SL2, SD, SR4(+1), SU, AR4, SR1, SR1, SD, AR3(+1), SR1, AU
+SU, ML1(+2), AL1(+2), AL1, SL5(+2), AD, MD, SD, ML5(+2), AL4(+2), CR2(+3), AU
+CU, CL2, SU, AR2(+2), AD, CR3(+1), SR2, CD, MU, MR3(+1)
+previous solution is 84 - 33 moves
+
+Tue Jun 07 12:01:54 PDT 2005
+A552532311142M
+C445020040313S
+SL3, SU, SL1, SL1, SL3, SD, SL4, SU, AR2(+1), SR3(+1), AD, SD, AR4(+1), AU
+AR1, AL5, AD, SU, SL2, SD, SR4(+1), SU, AR4, SR1, SR1, SD, AR3(+1), SR1, AU
+SU, ML1(+2), AL1(+2), AL1, SL5(+2), AD, MD, SD, ML5(+2), AL4(+2), CR2(+3), AU
+CU, CL2, SU, AR2(+2), AD, CR3(+1), SR2, CD, MU, MR3(+1)
+previous solution is 149 - 98 moves
+
+
+Tue Jun 07 17:23:21 PDT 2005
+A555533331011M
+C444422220100S
+CR4, ML1, ML1, ML3, ML5, CU, AR3(+2), CR3(+1), CR1, AR3, MR3, CD, AR1, CR1
+CU, AR1(+1), CR1(+1), AD, CD, SL1(+2), CL2(+2), AL2(+2), SL4(+2), AU, CL2
+SR2(+1)
+previous solution is 26 - 0 moves
+
+Tue Jun 07 17:23:24 PDT 2005
+A551523031151M
+C404432220430S
+CR4, ML1, CU, CL1, CR2, CR3, CR1, CR1, ML3(+1), CL5(+1), CL1, CR2, ML5(+1)
+CD, CL4, CU, AR1(+2), CR2(+2), CR3, AR2, AR5(+1), CR1, AD, CD, MD, MR3
+MR4(+1), SL2(+3), AL2(+3), AU, SL2, ML2(+1), MU, CL2
+previous solution is 34 - 0 moves
+
+Tue Jun 07 17:23:28 PDT 2005
+A551523031151M
+C424430220430S
+CR2, CR3, ML1, CU, CR3, CR1, CR1, ML3(+1), CL5(+1), CL1, CR2, ML5(+1), CD
+CL4, CU, AR1(+2), CR2(+2), CR3, AR2, AR5(+1), CR1, AD, CD, MD, MR3, MR4(+1)
+SL2(+3), SL3, AL2(+2), CU, CL3, AU, SR2, CD, MU, ML3(+1)
+previous solution is 36 - 0 moves
+
+Tue Jun 07 17:23:28 PDT 2005
+A551513032151M
+C404432220430S
+CR4, ML1, CU, CR1, CR3, CD, CR3, CU, CL1, ML3(+1), CL5(+1), CR1, ML5(+1), CD
+CL4, CU, AR1(+2), CD, MD, CR3(+1), CU, CR3, MR3, MU, MR5(+1), ML2, CR1(+1)
+CL5(+1), AR1(+1), CR5(+2), AD, CD, MD, AR4(+1), SL2(+3), AL2(+2), CL2(+2), AU
+CU, SL2, ML2
+previous solution is 41 - 0 moves
+
+Tue Jun 07 17:23:36 PDT 2005
+A551010032151M
+C434432220435S
+CR4, ML1, CU, CR1, CR3, CD, CR3, CU, ML3(+1), MD, CL3, ML3, MU, CL5(+1), MD
+ML4, MU, AR1(+2), CD, CR3, CU, CR3, CD, CL4, MD, MR3(+1), CU, AR1(+1)
+CR3(+1), AR5(+1), AL2, CR1(+1), AD, CD, MR5(+2), SL2(+3), ML2(+3), MU
+CL2(+2), CU, SL2, AL2
+previous solution is 42 - 0 moves
+
+Tue Jun 07 17:23:38 PDT 2005
+A551513032141M
+C405432220430S
+CR4, ML1, CU, CR1, CR3, CD, CR3, CU, CL1, ML3(+1), CL5(+1), CR1, ML5(+1), CD
+CL4, CU, AR1(+2), CD, MD, CR3(+1), CU, CR3, MR3, CD, MR4(+1), CL4, CU
+AR1(+1), CR3(+1), MU, AR4(+2), CD, CR3, MD, AL2, AD, SL2(+3), CL2(+3), CU
+SL2, ML2(+1), MU, AL2
+previous solution is 43 - 0 moves
+
+Tue Jun 07 17:23:41 PDT 2005
+A551513432101M
+C445432220030S
+CR4, ML1, CU, CR1, CR3, CD, CR3, CU, CL1, ML3(+1), CL5(+1), CR1, ML5(+1), CD
+CL4, CU, AR1(+2), AD, CD, CR3(+1), AU, CU, CR3, CD, CL4, CU, MR1(+2), AR3(+2)
+AD, AR3, CR3(+1), AU, AL2, CR1(+1), MR3, MD, MR3, AD, CD, SL2(+3), CL2(+2)
+ML2(+2), CU, MU, SL2, AL2
+previous solution is 46 - 0 moves
+
+Tue Jun 07 17:23:48 PDT 2005
+A541513432101M
+C455432220030S
+CR4, ML1, CU, CR1, CR3, CD, CR3, CU, CL2, ML3(+1), CD, MD, CL3(+1), ML5(+1)
+MU, CL4, CU, AR1(+2), AD, CD, CR3(+1), AU, CU, CR3, CD, CL4, CU, MR1(+2)
+AR3(+2), AD, AR3, CR3(+1), AU, AL2, CR1(+1), MR3, MD, MR3, AD, CD, SL2(+3)
+CL2(+2), ML2(+2), CU, MU, SL2, AL2
+previous solution is 47 - 0 moves
+
+Tue Jun 07 17:23:54 PDT 2005
+A541515432101M
+C425433220030S
+CR2, CR3, ML1, CU, CR3, CD, CR3, CU, CL1, ML3(+1), CL5(+1), CD, CL2, CU, MD
+ML3, ML4, MU, AR1(+2), AD, MD, MR3(+1), AU, MU, MR3, MD, ML4, MU, CR1(+2)
+AR3(+2), AD, AR3, MR3(+1), AU, AL2, MR1(+1), CR3, CD, CR3, AD, MD, SL2(+3)
+SL3, AL2, CL3(+2), AU, CU, SR2, ML3(+1)
+previous solution is 49 - 0 moves
+
+Tue Jun 07 17:24:21 PDT 2005
+A541515532141M
+C422433020030S
+CR2, CR3, ML1, CU, CR3, CD, CR3, CU, CL1, ML3(+1), CL5(+1), CD, CL2, CU, MD
+ML3, ML4, MU, AR1(+2), AD, MD, MR3(+1), AU, MU, MR3, MD, ML4, MU, CR1(+2)
+AR3(+2), AD, AR3, MR3(+1), AU, AL1, CR4(+2), CR1, CD, MD, MR3, AD, SL2(+3)
+AL3(+1), CU, MU, ML5, CL5, SU, SL5(+2), CD, SR5(+1)
+previous solution is 51 - 0 moves
+
+Tue Jun 07 17:26:05 PDT 2005
+A515533331241M
+C441225240000S
+ML1, ML2, MD, SL4(+1), ML2(+1), SL2(+1), CR5(+1), SL4, SU, AR1(+1), SR3(+1)
+SR3, SL5, AR3(+1), SR3(+1)
+previous solution is 106 - 91 moves
+
+Tue Jun 07 17:26:05 PDT 2005
+A555533331011M
+C444422220100S
+CR4, ML1, ML1, ML3, ML5, CU, AR3(+2), CR3(+1), CR1, AR3, MR3, CD, AR1, CR1
+CU, AR1(+1), CR1(+1), AD, CD, SL1(+2), CL2(+2), AL2(+2), SL4(+2), AU, CL2
+SR2(+1)
+previous solution is 97 - 71 moves
+
+Tue Jun 07 17:26:09 PDT 2005
+A514013333511M
+C445422220005S
+ML1, ML1, ML3, MD, ML5, MR2, ML4, MU, AR1(+1), CR4, AD, MD, MR2(+2), MU
+AR2(+1), CU, CR5(+1), CR1, MR5, CD, MD, AR5(+2), SL2(+3), AL2(+3), CL2(+3)
+AU, ML2(+1), SU, SL4(+1), SR3
+previous solution is 118 - 88 moves
+
+Tue Jun 07 17:26:12 PDT 2005
+A514513303511M
+C445422220003S
+ML1, ML3, ML5, MR1, MD, ML4, MU, AR1(+1), CR4, AD, MD, MR2(+2), MU, AR2(+1)
+MR5, MR1, AU, AR5, AR1(+1), CU, MD, AL3, CR5(+1), AD, CD, SL2(+3), CL2(+2)
+ML2(+2), CU, MU, SL2, AL2
+previous solution is 86 - 54 moves
+
+Tue Jun 07 17:26:18 PDT 2005
+A514514213510M
+C435422320003S
+CR4, CU, CR1, CR5, ML3(+1), CL5(+1), CR1, CD, CL4, ML5, CU, AR1(+1), AD, CD
+MD, CR2(+2), CU, AR2(+1), CR5, CR1, AU, CD, MU, MR5(+1), MD, AR5, ML2, AD
+SL3(+3), CL2(+3), CU, SU, ML2, AL3
+previous solution is 104 - 70 moves
+
+Tue Jun 07 17:26:22 PDT 2005
+A514514213510M
+C425423320003S
+CR4, CU, CR1, CR5, ML3(+1), CL5(+1), CR1, CD, CL4, ML5, CU, AR1(+1), AD, CD
+MD, CR2(+2), CU, AR2(+1), CR5, CR1, AU, CD, MU, MR5(+1), MD, AR5, ML2
+MR3(+1), AD, SL3(+3), ML3(+3), CU, SU, AL3, CL4(+1)
+previous solution is 133 - 98 moves
+
+Tue Jun 07 17:26:22 PDT 2005
+A514514313510M
+C435422220003S
+CR4, CU, CR1, CR5, ML3(+1), CL5(+1), CR1, CD, CL4, ML5, CU, AR1(+1), AD, CD
+MD, CR2(+2), CU, AR2(+1), CR5, CR1, AU, CD, MU, MR5(+1), MD, AR5, ML2
+MR3(+1), AD, SL2(+3), ML2(+3), AL2(+2), CL4(+3), AU, MU, SL2, CR2(+1)
+previous solution is 74 - 37 moves
+
+Tue Jun 07 17:26:38 PDT 2005
+A514013213235M
+C445420120503S
+CR4, CU, CR1, CD, CR5, CU, ML3(+1), CL1(+1), CD, MD, ML5(+1), MR2, ML4, CL4
+MU, AR1(+1), AD, MD, MR2(+2), MR5, AR2(+1), ML2, AU, CR5(+1), MU, AR3(+1), AD
+MR3, MD, SL2(+3), AL1(+1), AU, SL1, CU, MU, ML3(+2), MD, CL3(+1)
+previous solution is 41 - 3 moves
+
+Tue Jun 07 17:27:25 PDT 2005
+A515113303415M
+C424420220503S
+CR4, CU, CR1, CD, CR5, CU, ML3(+1), CD, CL2, CL4, CU, CR1, ML5(+1), CD, CL4
+CU, AR1(+1), AR1(+1), AD, CD, MD, CR2(+2), AR5(+1), AL2, MR5(+2), AR3(+1), MU
+CR5, MR1, MD, SL2(+3), AL2(+3), SL2(+1), AU, SR2, CU, MU, ML3(+2), MD
+CL3(+1)
+previous solution is 129 - 89 moves
+
+Tue Jun 07 17:27:33 PDT 2005
+A515113203415M
+C424420020533S
+CR4, CU, CR1, CD, CR5, CU, ML3(+1), CD, CL2, CL4, CU, CR1, ML5(+1), CD, CL4
+CU, AR1(+1), AR1(+1), AD, CD, MD, CR2(+2), AR5(+1), AL2, MR5(+2), AR3(+1)
+ML2, MR3, CR5, SL2(+3), AU, CU, MU, SU, AL3(+3), ML2(+2), SL1(+2), AD, MD
+SR2, CL3(+1)
+previous solution is 118 - 77 moves
+
+Tue Jun 07 17:28:14 PDT 2005
+A541111503225M
+C434420020533S
+CR4, ML2, CU, CR1, CD, CR5, MD, ML2(+1), ML4, CL2, CL4(+1), MU, CR2, CL3, MR1
+CU, MD, ML4, MU, AR1(+2), MR1(+2), AR1(+1), CD, MD, CR2(+1), CR5, CL2
+MR5(+1), CU, AR3(+1), CD, CR3(+1), AD, SL2(+3), CU, CL5, AU, MU, SU, ML1(+3)
+AL4(+3), CD, MD, AR5, SL1(+1)
+previous solution is 105 - 60 moves
+
+Tue Jun 07 17:28:15 PDT 2005
+A541111503245M
+C432420020533S
+CR4, CU, CR1, CD, CR5, CU, ML3(+1), CD, CL2, CL4, CU, CR1, CD, MD, ML4(+1)
+MU, CL3, MR1, CU, MD, ML4, MU, AR1(+2), MR1(+2), AR1(+1), CD, MD, CR2(+1)
+CR5, CL2, MR5(+1), CU, AR3(+1), CD, CR3(+1), AD, SL2(+3), CU, CL5, AU, MU, SU
+ML1(+3), AL4(+3), CD, MD, AR5, SL1(+1)
+previous solution is 147 - 99 moves
+
+Tue Jun 07 17:28:23 PDT 2005
+A541011513245M
+C432420020533S
+CR4, CU, CR1, CD, CR5, CU, ML3(+1), CL1(+1), CD, CL4, CU, CR1, CD, MD
+ML4(+1), MU, CL3, MR1, CU, MD, ML4, MU, AR1(+2), AD, CD, MD, MR2(+2), MR5
+CR2(+1), ML2, AR5(+2), MR3(+1), AL2, AR3, CR5, SL2(+3), MU, ML5, SU, AL2(+1)
+AR3(+1), CL2, SL1(+1), AU, CU, SD, CL1(+1), MD, AL5
+previous solution is 141 - 92 moves
+
+Tue Jun 07 17:28:27 PDT 2005
+A541001523245M
+C432420011533S
+CR4, CU, CL1, CD, CR2, CR5, CU, ML3(+1), CD, MD, CL1(+1), CL4, CU, CL1, CD
+CR2, ML4(+1), MU, CL3, ML1, CU, MD, MR2, ML4, MU, AR1(+2), AD, CD, MD
+MR2(+2), MR5, CR2(+1), ML1, AR5(+2), AL1(+1), MR3, AR3, CR5, SL1(+3), AL1(+2)
+MU, ML5, AU, CU, SU, CL1(+3), SL4(+3), CD, MD, SR5, AL1(+1)
+previous solution is 56 - 5 moves
+
+Tue Jun 07 17:28:32 PDT 2005
+A541101523235M
+C432420001543S
+CR4, CU, CL1, CD, CR2, CR5, CU, ML3(+1), MD, CL2, CD, CL4, CU, CL1, CD, CR2
+ML4(+1), MU, CL3, ML1, CU, MD, MR2, ML4, MU, AR1(+2), CR1(+1), AD, CD, MD
+MR2(+2), AR5(+2), AL1, AR3, CR5(+1), CU, CL2, CR3, MR5, CD, SL1(+3), AU, AL5
+CU, MU, CL2(+1), SU, ML1(+3), SL4(+3), AD, MD, SR5, CL1(+1)
+previous solution is 122 - 69 moves
+
+Tue Jun 07 17:28:41 PDT 2005
+A541100523235M
+C432421001543S
+CR4, CU, CL1, CD, CR2, CR5, CU, ML3(+1), MD, CL2, CD, CL4, CU, CL1, CD, CR2
+ML4(+1), MU, CL3, ML1, CU, MD, MR2, ML4, MU, AR1(+2), CR1(+1), AD, CD, MD
+MR2(+2), AR5(+2), AL1, AR3, CR5(+1), CU, CL2, CR3, MR5, CD, SL1(+3), AU, AL5
+AD, CL4(+3), MU, ML2, SR3, MD, ML2(+1), CR1(+1), CU, MR1, SU, SL5
+previous solution is 102 - 47 moves
+
+Tue Jun 07 17:31:11 PDT 2005
+A531005533145M
+C442422011032S
+CR4, CU, CL1, CD, CR2, CU, CR3, CD, CR3, CU, ML3(+1), MD, CL3, CD, CL4, CU
+CL1, CD, CR2, ML4(+1), CU, CL3, MU, ML1, MD, MR2, ML4, MU, AR1(+2), AD, CD
+MD, MR2(+2), MU, CR2(+1), MR3, CU, AR2, CR3(+1), CR1, AU, AR4(+2), AD, CD, MD
+MR2(+2), SL1(+3), AU, AL5, MU, CR2, ML5, CU, MD, CL5, SL2(+1)
+previous solution is 109 - 53 moves
+
+Tue Jun 07 18:12:06 PDT 2005
+A231005533142M
+C522540011434S
+CR2, CU, CR1, CL2, CD, CR4, CU, CR3, CD, CR1, CU, CR1, ML3(+1), CD, MD
+CL4(+1), CU, CL3, ML5, MU, ML2(+1), AR1(+2), AD, CR1, MD, CL2, AU, MR4, CD
+AL2, MU, CR4, MR3, AD, CU, AR4, CR3(+1), CR1, AU, AR4(+2), MR2(+2), AD, CD
+MD, SL1(+3), AU, AL5, AD, CU, SU, SR2(+1), SL5(+1), CR2, CL5, CD, MU, ML5
+previous solution is 67 - 10 moves
+
+Wed Jun 08 13:41:58 PDT 2005
+A555033331111M
+C444422220005S
+CR4, ML1, ML1, ML3, ML5, CU, AR3(+2), MR3(+2), MR1, CR3(+1), CR1(+1), AD, CD
+MD, AR5(+2), SL2(+3), AL2(+3), AU, CL2(+2), CU, SL2, ML2
+previous solution is 111 - 89 moves
+
+Wed Jun 08 13:41:58 PDT 2005
+A555532331111M
+C444423220000S
+CR4, ML1, ML1, ML3, ML5, CU, AR3(+2), MR3(+2), MR1, CR3(+1), CR1(+1), AR3
+AR1(+2), AD, CD, MD, SL2(+3), CU, AL3(+2), SU, ML2, SL2, CL3
+previous solution is 28 - 5 moves
+
+Wed Jun 08 13:41:59 PDT 2005
+A555533341111M
+C444322220000S
+ML1, ML4, ML5, MD, CR3(+1), CU, MU, AR3(+2), AD, AL4, AR3, CR4, CR1, AU
+MR4(+1), MR1(+1), AR4, AR1(+2), AD, CD, MD, SL2(+3), AL2(+3), AU, SL2, CL2
+MU, ML3
+previous solution is 61 - 33 moves
+
+Wed Jun 08 13:42:03 PDT 2005
+A555533341111M
+C244342220000S
+ML1, ML4, ML5, MD, CR3(+1), CU, MU, AR3(+2), AD, CD, MD, AL2(+2), CU, CR4
+CR1, MU, AR3, AU, MR4(+1), MR1(+1), AR4, AR1(+2), AD, CD, MD, SL2(+3)
+AL2(+3), AU, SL2, CL2, MU, ML3
+previous solution is 121 - 89 moves
+
+Wed Jun 08 13:42:09 PDT 2005
+A555533340111M
+C244342221000S
+ML1, ML4, ML5, MD, CR3(+1), CU, MU, AR3(+2), AD, CD, MD, AL2(+2), CU, CR4, CD
+CR1, CU, MU, AR3, AU, MR4(+1), MR1(+1), AR4, AR1(+2), AD, CD, MD, SL2(+3)
+AL2(+3), AU, SL2, CL2, MU, ML3
+previous solution is 90 - 56 moves
+
+Wed Jun 08 13:42:10 PDT 2005
+A555520341311M
+C344342220100S
+ML1, ML4, ML5, MD, CR3(+1), CU, MU, MR4(+1), MR1, CR4, MD, CR1, MR1, MU
+CR1(+1), MR1(+1), CD, MD, SL1(+2), ML2(+2), CU, MU, SU, CL5(+2), SL5(+2)
+ML5(+2), AR2(+3), MR3(+3), AD, AR2, CD, SD, SR2(+1), SU, CR2
+previous solution is 105 - 70 moves
+
+Wed Jun 08 13:42:17 PDT 2005
+A555520341312M
+C344342210100S
+ML3, MR2, ML4, ML5, MD, CR3(+1), CU, MU, MR4(+1), MR1, CR4, MD, CR1, MR1, MU
+CR1(+1), CD, MR2, MD, SL1(+2), CU, MU, SU, ML1(+2), CL5(+2), SL5(+2), ML5(+2)
+AR2(+3), AD, AR2, MR3(+2), CD, SD, SR2(+1), SU, CR2
+previous solution is 115 - 79 moves
+
+Wed Jun 08 13:42:20 PDT 2005
+A555520340310M
+C344342211102S
+ML3, MD, ML1, ML1, MU, ML5, MD, CR3(+1), CU, MU, MR4(+1), MD, CR4, MR1, CD
+CR1(+1), MR2(+1), CU, CR1, CD, SL1(+2), ML1(+2), CU, MU, SU, CL5(+2), SL5(+2)
+ML5(+2), AR2(+3), AD, AR2, MR3(+2), CD, SD, SR2(+1), SU, CR2
+previous solution is 105 - 68 moves
+
+Wed Jun 08 13:42:20 PDT 2005
+A555020341312M
+C344342210105S
+ML3, MR2, ML4, ML5, MD, CR3(+1), CU, MU, MR4(+1), MR1, CR4, MD, CR1, MR1, MU
+CR1(+1), CD, MR2, MD, SL1(+2), MU, ML4, CU, SU, CL1(+1), SL5(+2), CL5(+2)
+ML5(+2), AR2(+3), CR3(+2), AD, AR2, MD, MR3, SD, SR2(+1), SU, MR2
+previous solution is 63 - 25 moves
+
+Wed Jun 08 13:42:24 PDT 2005
+A355020241312M
+C544342310105S
+ML3, MR2, ML4, ML5, MD, CR3(+1), CU, MU, MR4(+1), MR1, CR4, MD, CR1, MR1, MU
+CR1(+1), CD, MR2, MD, SL1(+2), MU, ML4, CU, SU, CL1(+1), CL5(+1), CR2
+SL5(+2), CL3(+1), ML5(+1), AR2(+3), AR2, CD, CR3, MD, SD, MR2(+2), MU, CR2
+SR3(+1)
+previous solution is 106 - 66 moves
+
+Wed Jun 08 13:42:29 PDT 2005
+A345020241312M
+C554342310105S
+ML3, MR2, ML4, ML5, MD, CR3(+1), CU, MU, MR4(+1), MR1, CR4, MD, CR1, MR1, MU
+CR1(+1), CD, MR2, MD, SL1(+2), MU, ML4, MD, CL4(+2), ML3(+1), CU, MU, CL3(+1)
+SU, SL1, SL5(+1), AR2(+3), AR2, CR2(+2), AD, CR2, MD, SD, SR2(+1), SU, MR2
+previous solution is 117 - 76 moves
+
+Wed Jun 08 13:42:33 PDT 2005
+A355020244315M
+C544312310102S
+ML4, MD, ML1, MU, ML5, MD, CR3(+1), CU, MU, MR4(+1), CR4(+1), CD, MD, MR1(+1)
+CR2(+1), MU, MR1, MD, SL1(+2), CU, CL4, CL5, CR2, MU, SR2, MD, ML1, SU, SL4
+MU, ML5(+2), CL3(+1), SL5(+1), AR2(+3), AR2, CD, CR3, MD, MR2(+1), SD
+SR3(+2), MU, CR2
+previous solution is 136 - 93 moves
+
+Wed Jun 08 13:42:34 PDT 2005
+A355120244315M
+C544312300102S
+ML3, MD, MR2, MU, ML4, ML5, MD, CR3(+1), CU, MU, MR4(+1), CR4(+1), CD, MD
+MR1(+1), CR2(+1), MU, MR1, MD, SL1(+2), CU, CL4, CL5, CR1, MU, SR2, MD, ML1
+SU, SL4, MU, ML5(+2), MR4(+2), SL5(+1), ML5(+1), AR2(+3), AR2, CD, MD
+MR2(+1), SD, SR3(+2), MU, CR2
+previous solution is 101 - 57 moves
+
+Wed Jun 08 13:42:38 PDT 2005
+A354120244315M
+C545312300102S
+ML3, MD, MR2, MU, ML4, MD, ML5, CR3(+1), CU, MU, MR4(+1), CR4(+1), CD, MD
+MR1(+1), CR2(+1), MU, MR1, MD, SL1(+2), CU, CL4, CD, CL5, CU, CR1, MU, SR2
+MD, ML1, SU, MR2, SL4, SL5(+1), MU, ML4, ML4(+1), AR2(+3), AR2, CD, MD
+MR2(+1), SD, SR3(+2), MU, CR2
+previous solution is 78 - 32 moves
+
+Wed Jun 08 13:42:44 PDT 2005
+A354120244315M
+C525314300102S
+ML3, MD, MR2, MU, ML4, MD, ML5, CR3(+1), CU, MU, MR4(+1), CR4(+1), CD, MD
+MR1(+1), CR2(+1), MU, MR1, MD, SL1(+2), CU, CL4, CD, CL5, CU, CR1, MU, SR2
+MD, ML1, SU, MR2, SL4, SL5(+1), MU, ML4, ML4(+1), AR2(+3), AR2, AD, SD, SR4
+SU, MR2(+2), CD, CL2, CR4
+previous solution is 57 - 10 moves
+
+Wed Jun 08 13:42:59 PDT 2005
+A454020245315M
+C325314310102S
+ML3, MD, MR2, MU, ML4, MD, ML5, CR3(+1), CU, CR4, MU, MR5(+1), CD, MD
+CR1(+1), MR2(+1), CU, CR1, CD, SL1(+2), CU, MU, SR2, CD, CL1, ML4, MD, ML5
+MU, MR2, ML4, SU, CR2, SL4, CU, SD, CL4, SL5, SU, CL5(+1), AR2(+3), AR2, CD
+CR4, CU, MD, SD, MR4(+1), SR3(+1)
+previous solution is 64 - 15 moves
+
+Wed Jun 08 13:43:07 PDT 2005
+A454020245315M
+C345312310102S
+ML3, MD, MR2, MU, ML4, MD, ML5, CR3(+1), CU, CR4, MU, MR5(+1), CD, MD
+CR1(+1), MR2(+1), CU, CR1, CD, SL1(+2), CU, MU, SR2, CD, CL1, ML4, MD, ML5
+MU, MR2, ML4, MD, MR3, MU, SU, CR2, SL4, SL5(+1), CU, CL4, CL4(+1), AR2(+3)
+AR2, CD, MD, CR2(+1), SD, SR3(+2), CU, MR2
+previous solution is 103 - 53 moves
+
+Wed Jun 08 13:54:15 PDT 2005
+A444110043225M
+C535325100132S
+ML2, MD, ML1, MR2, MU, ML4, MD, ML5, CR3(+1), CU, CR1, MU, MR4(+1), CR3(+1)
+MR2(+1), CD, MD, CR2(+1), SL1(+2), CU, CL3, CD, MU, SR2, MD, ML1, SU, SL4, SD
+CL5(+1), CR2, ML5(+2), SL5(+2), MU, CL3, CU, SU, AR1(+3), CR1(+2), AD
+MR4(+1), CD, MD, MR3, ML5, AR1(+2), AU, CR1(+1), MU, SD, SR5
+previous solution is 103 - 52 moves
+
+Wed Jun 08 13:55:07 PDT 2005
+A445110043225M
+C534325100132S
+ML2, MD, ML1, MR2, MU, ML4, ML5, MD, CR3(+1), CU, CR1, MU, MR4(+1), CR3(+1)
+MR2(+1), CD, MD, CR2(+1), SL1(+2), CU, CL4, CL5, CR1, CR1, MU, SR2, MD, ML1
+SU, SL4, MU, ML5(+2), SL4(+2), MR4(+1), SD, CL4, ML5, SU, AR1(+3), MR1(+1)
+SR4(+2), AD, CD, MD, SD, SR3, SL5, AR1(+2), AU, MR1(+1), SU, CR5
+previous solution is 71 - 19 moves
+
+Wed Jun 08 13:58:05 PDT 2005
+A335100024245M
+C542325101134S
+ML4, MD, MR1, MU, ML2, ML5, MD, CR3(+1), CU, MR2, MU, CR4(+1), CD, CR1, MR4
+CU, MD, CL2, MR1, CD, MU, CR4, ML2, MD, MR3, SL1(+2), CL1(+2), CU, MU
+ML2(+1), CL5(+1), CR1, SU, SL5(+2), SD, CL3, SR2, SU, SL3, ML5, AR1(+3), CD
+CR5, AD, MR1, SD, ML3, SR2(+1), AR1(+2), AU, SR1(+1), CU, MD, MR5
+previous solution is 110 - 56 moves
+
+Wed Jun 08 13:58:40 PDT 2005
+A345100124234M
+C532325001145S
+ML4, MD, MR1, MU, ML2, ML5, MD, CR3(+1), CU, MR2, MU, CR4(+1), CD, CR1, MR4
+CU, MD, CL2, CR3, MR1, CD, MU, ML2, MR4, MD, SL1(+2), CL1(+1), CU, MU, SU
+ML2(+2), CL5(+1), CR1, SL5(+2), ML4(+2), MD, SD, CL3, MU, SU, AR1(+3), AD, CD
+MD, MR2(+1), AU, MU, CR5, CU, SR1(+3), AL3, AD, AR5, SD, MR1(+1)
+previous solution is 144 - 89 moves
+
+Wed Jun 08 14:00:09 PDT 2005
+A230110224235M
+C541335500144S
+ML4, MD, MR1, MU, ML2, MD, ML3, MU, ML3, MD, CR3(+1), CU, MR3, MU, CR4(+1)
+CD, CR1, MR4, CU, MD, CL2, CR3, MR1, MU, ML2, MD, MR4, CD, SL1(+2), CU, MU
+SU, ML2(+2), MD, CL2(+1), ML3, CD, CL3(+1), CL1, SL2, SD, SL4(+2), CU, MU, SU
+ML2(+2), AR1(+3), MD, MR5, MU, AR2(+1), SD, CL2, SR5, CD, CR5
+previous solution is 145 - 89 moves
+
+Wed Jun 08 14:10:26 PDT 2005
+A434110045225M
+C241335500132S
+ML2, MD, ML1, MR2, MU, ML4, MD, ML3, MU, ML1, MD, ML1, CR3(+1), CU, CR4, MU
+MR5(+1), CR2(+1), CD, MD, MR2(+1), SL1(+2), CU, MU, SR2, CD, CL1, ML4, MD
+ML3, MU, ML4, SU, CR2, SL4, CU, SD, CL4, SL3, SU, CL4(+1), CD, SL3, CU
+AR1(+3), AD, CD, AL2(+1), AR5(+1), CL2, CR5, AU, CU, MD, SD, SR5, MR5
+previous solution is 82 - 25 moves
+
+Mon Jun 13 12:12:52 PDT 2005
+A423455511113M
+C034024053022S
+AR2, SL2, AD, SU, ML5(+1), SL5(+1), SL4, MD, SD, CR4(+2), AU, AR5, SU, SR5
+previous solution is 72 - 58 moves
+
+Mon Jun 13 12:12:53 PDT 2005
+A443355251110M
+C034420013252S
+AR5, AL4, AR5, CR4, ML5, ML3(+1), MR2(+1), AD, MD, CR5(+2), SL3(+1), CU, CL5
+SU, SL2
+previous solution is 101 - 86 moves
+
+Mon Jun 13 12:13:03 PDT 2005
+A423355253110M
+C034420011452S
+AR5, CR4, ML5, AD, MD, AR4(+1), CR5(+2), MR2(+2), SL1(+3), CU, CL5, AU, CD
+MU, ML5(+1), SU, AL2(+1), AD, SL2
+previous solution is 35 - 16 moves
+
+Mon Jun 13 12:13:03 PDT 2005
+A453354251110M
+C034120043252S
+ML5, MD, MR2, SL4(+1), MU, ML5, ML4, AR3(+1), AD, SL4(+1), MD, CR2(+3), AU
+MU, MR4(+1), AR2(+1), AD, MD, SR5(+3), CU, CR2, SU, SL4(+1)
+previous solution is 26 - 3 moves
+
+Mon Jun 13 12:13:06 PDT 2005
+A343445201115M
+C034220015253S
+AR4, AD, AR5, AR3, SL2(+1), AU, AL1, SU, AL1(+1), ML5(+2), SL4(+2), SL3, AD
+AL1, MD, AL4(+1), SD, CR2(+2), SU, SR5, AU, CU, AR2(+2), AD, CR2(+1)
+previous solution is 117 - 92 moves
+
+Mon Jun 13 12:13:11 PDT 2005
+A413515235410M
+C035220013244S
+AR3, AD, AR2, AU, AR3, AD, AR2, SL3(+1), AL1(+1), AL5, AR2, SL5(+1), AU, AL4
+AD, CR2(+2), AU, AR5, CU, CR2(+1), AD, SU, SR5(+1), ML5(+2), CD, SL2
+previous solution is 84 - 58 moves
+
+Mon Jun 13 12:13:12 PDT 2005
+A443355241110M
+C034520013252S
+AR5, AL4, AR3, AR4, AD, AR2, SL3(+1), SL5, AU, ML4(+1), MD, AL5, AL4, ML4(+1)
+AD, CR2(+3), AU, AR5, AD, CR5(+1), CU, CL5, MU, SU, MR2(+2), MD, SR2(+1)
+previous solution is 70 - 43 moves
+
+Mon Jun 13 12:13:20 PDT 2005
+A423255211110M
+C034520043453S
+AR2, AR2, AD, AR4, AU, AR1, AD, AR3, SL4(+1), AU, ML1(+1), AL1(+1), ML5(+1)
+ML4, AD, AL5(+1), SL4(+1), MD, CR2(+3), AU, CU, SU, SR2(+2), SD, AR2(+1), CL4
+CR5, CD, MU, MR5
+previous solution is 104 - 74 moves
+
+Mon Jun 13 12:13:30 PDT 2005
+A423205211100M
+C534520143453S
+AR2, AR2, AD, AR4, AU, AR1, AR1, AD, SL4(+1), AL5(+1), SL4(+1), AR4, SR2
+SR5(+1), AR3(+1), AU, SU, ML1(+2), AL1(+2), ML1(+1), AD, MD, SD, SL5(+2)
+AL4(+2), ML5(+2), CR2(+3), MU, MR5, MD, AR1(+3), AU, SR1(+2), CU, CL4, CR5
+previous solution is 93 - 57 moves
+
+Mon Jun 13 12:13:38 PDT 2005
+A423305211100M
+C534520143452S
+AR3, AD, AR2, AU, AL4, AR3, AD, AR4, AU, AR1, AR1, AD, SL4(+1), AL5(+1)
+SL4(+1), AR4, SR2, SR5(+1), AU, AR1, AD, AR2(+1), AU, SU, ML1(+2), AL1(+2)
+ML1(+1), AD, MD, SD, SL5(+2), AL4(+2), ML5(+2), CR2(+3), MU, MR5, MD, AR1(+3)
+AU, SR1(+2), CU, CL4, CR5
+previous solution is 89 - 46 moves
+
+Mon Jun 13 12:13:41 PDT 2005
+A423205211140M
+C530520143453S
+AR2, AR2, AD, AR4, AU, AR1, AR1, AD, SL3(+1), AL5(+1), AU, AL2, SL5, AD
+AR2(+1), AU, SR4, AD, AR5(+1), SR3(+1), AU, SU, ML1(+2), SD, SL4, AD, MD
+AL5(+2), AU, AL2, ML5(+1), AD, SL5(+2), CR2(+3), AR4(+2), AL1, CR5(+1), CU
+CL5, CD, SU, SR5, MU, MR2(+1)
+previous solution is 112 - 68 moves
+
+Mon Jun 13 12:13:46 PDT 2005
+A423205211150M
+C530520143443S
+AR2, AR2, AD, AR4, AU, AR1, AR1, AD, SL3(+1), AL5(+1), AU, AL2, SL5, AD
+AR2(+1), AU, SR4, SU, AR5(+1), SR1, SD, SR3, SU, ML1(+2), SD, SL4, AD, MD
+AL5(+2), AU, AL2, ML5(+1), AD, SL5(+2), CR2(+3), AR4(+2), AL1, AU, SU, SR5
+SD, MR1(+2), CU, CL4, CR5
+previous solution is 135 - 90 moves
+
+Mon Jun 13 12:13:47 PDT 2005
+A453202211140M
+C530520143453S
+AR3, AD, AR2, AL3, AU, AR2, AD, AR4, AU, AR1, AD, SL4(+1), SU, AL5, AU
+SL5(+1), AD, SD, SR2(+1), SU, AR4, SD, SR5(+1), AR3(+1), AU, SU, ML1(+2)
+AL1(+2), SL1(+2), AD, AL5, ML1, AU, ML5(+2), AD, MD, SD, SL5(+2), CR2(+3)
+SR4(+3), SL1, AU, CU, MU, MR2(+2), MD, CR2, AR2
+previous solution is 51 - 3 moves
+
+Mon Jun 13 12:13:50 PDT 2005
+A153202215144M
+C430520103453S
+AR3, AD, AR2, AL3, AU, AR2, AR5, AR1, AD, SL3(+1), AL5(+1), AU, SU, SL1
+SL5(+1), AD, SD, SR2(+1), AU, AR5, AD, SR5(+1), SU, AR3, AU, ML1(+2), AD, AL3
+MD, ML5(+1), SL1, AU, SL1(+1), MU, AL5(+2), AL1, SL5(+1), AD, MD, SD, CR2(+3)
+CU, AR2(+2), MU, SU, SR2(+2), SD, AR1(+1), CR2, MR2
+previous solution is 110 - 60 moves
+
+Mon Jun 13 12:14:01 PDT 2005
+A553302211140M
+C430520143452S
+AR3, AD, AR2, AL4, AU, AR3, AD, AR4, AU, AR1, AD, SL4(+1), SU, AL5, AU
+SL5(+1), AD, SD, SR2(+1), SU, AR4, AU, AR1, AD, SD, SR5(+1), AR2(+1), AU, SU
+ML1(+2), AL1(+2), SL1(+2), AD, AL5, ML1, AU, ML5(+2), SL5(+2), AD, MD, SD
+CR2(+3), SR4(+3), SL1, AU, CU, MU, MR2(+2), MD, CR2, AR2
+previous solution is 110 - 59 moves
+
+Mon Jun 13 12:14:50 PDT 2005
+A523305111140M
+C430520243452S
+AR3, AD, AR2, AL4, AU, AR3, AD, AR4, AU, AR1, AR1, AD, SL3(+1), AL5(+1), AU
+AL2, SL5, AD, AR2(+1), AU, SR4, AD, AR5(+1), SU, SR1, SD, SR2(+1), AU, SU
+ML1(+2), SL1(+2), AL1(+2), MD, SD, ML5(+1), MU, ML2, SL5, SU, AL5(+2), AD, MD
+SD, CR2(+3), AU, AR5, AD, MR2(+3), CU, SR5(+2), SU, SL5, CR1(+1)
+previous solution is 115 - 62 moves
+
+Mon Jun 13 12:15:07 PDT 2005
+A523305211140M
+C430520143452S
+AR3, AD, AR2, AL4, AU, AR3, AD, AR4, AU, AR1, AR1, AD, SL3(+1), AL5(+1), AU
+AL2, SL5, AD, AR2(+1), AU, SR4, AD, AR5(+1), SU, SR1, SD, SR2(+1), AU, SU
+ML1(+2), SL1(+2), AL1(+2), MD, SD, ML5(+1), MU, ML2, SL5, SU, AL5(+2), AD, MD
+SD, CR2(+3), MR4(+2), CR5(+1), ML1, AU, AR5, AD, CU, CL5, SU, SR2(+1)
+previous solution is 75 - 21 moves
+
+Mon Jun 13 12:44:56 PDT 2005
+A344150501124M
+C233345050212S
+AR5, SL5, SU, ML5(+1), SL4(+2), AL3(+1), AD, CR5(+1), MD, SR5, CU, AR5
+previous solution is 12 - 0 moves
+
+Mon Jun 13 12:44:56 PDT 2005
+A524505503124M
+C233340011412S
+AR2, AR5, CR3, CL2, CR4, AD, CR4(+1), CR2, SL1(+1), CU, SU, ML5(+2), MD, SL5
+CL5
+previous solution is 15 - 0 moves
+
+Mon Jun 13 12:44:58 PDT 2005
+A024550201154M
+C253343013412S
+AR2, AD, CR4(+1), AR3(+1), CR4(+1), SL3(+1), AU, CU, SU, CL2(+1), ML5(+3), CD
+SL2, MD, MR4(+1), ML3(+1)
+previous solution is 16 - 0 moves
+
+Mon Jun 13 12:44:59 PDT 2005
+A043553521124M
+C254340013210S
+AR3, AD, CR4(+1), AU, AR3, AD, CR3(+1), CL1, CR2, SL3(+1), CU, ML5(+1), MD
+SL5(+2), SU, SR5, CL3(+1)
+previous solution is 17 - 0 moves
+
+Mon Jun 13 12:45:04 PDT 2005
+A024110105134M
+C242345053352S
+AR2, SL3, SR2, AD, CR3(+1), AR5(+1), AU, AR3, CU, SU, ML1(+2), AD, AL5, AU
+MD, SD, SL5(+1), ML4(+1), MU, CR1(+2), CD, MR1(+1)
+previous solution is 22 - 0 moves
+
+Mon Jun 13 12:45:43 PDT 2005
+A532510000144M
+C223345513412S
+CR2, CU, AR2(+1), AD, AL2, CD, CR5, AR4, AR4(+1), AR2, SL1(+1), AU, CU, SU
+ML1(+2), AD, MD, AL5(+1), MR2, AU, SD, SL5, ML5
+previous solution is 23 - 0 moves
+
+Mon Jun 13 12:57:24 PDT 2005
+A232100425214M
+C450034551133S
+SL5, SR3, SU, ML2(+1), ML2, MD, SD, SL4(+1), ML5(+1), CR5(+2), MU, AR2(+1)
+AR4, MD, SU, MR4
+previous solution is 16 - 0 moves
+
+Mon Jun 13 12:57:25 PDT 2005
+A432100345212M
+C255034051143S
+SL5, SR1, SU, ML4(+1), MD, SD, SL3(+1), ML5(+1), CR4(+2), CU, SU, MR4, SL3
+AR2(+1), SR3(+2), SD, AR3(+1)
+previous solution is 17 - 0 moves
+
+Mon Jun 13 12:57:25 PDT 2005
+A242110425210M
+C455433030135S
+CR4, CU, CR1, CD, CR3, CR3, CU, ML2(+1), CD, MD, SL3(+2), CL3(+2), SL5(+1)
+SU, AR2(+1), AR4, AD, CU, ML3(+1), SR4(+1)
+previous solution is 20 - 0 moves
+
+Mon Jun 13 12:57:26 PDT 2005
+A335100421410M
+C452422055133S
+CR4, CR5, CR3, CU, ML1(+1), SL5, SL2, MD, CL1, ML1, MU, CL1(+1), SU, CL5(+1)
+CR1, ML5(+2), AR4(+3), MR2(+3), ML3(+3), AD, CD, CR2, MR4(+1)
+previous solution is 23 - 0 moves
+
+Mon Jun 13 12:57:31 PDT 2005
+A234100205254M
+C451334051132S
+SL5, SL3, SL4, CR3(+1), CL1, CR5, CR3, SR3, SL1, SR5, CU, ML2(+1), CD, MD
+CL1(+1), ML3(+2), CL5(+2), CU, MU, SU, SL4(+1), ML2(+2), AR1(+3), CD, MD
+MR4(+1), MU, CR4, SR2(+2), SD, AR2(+1)
+previous solution is 31 - 0 moves
+
+Mon Jun 13 13:01:22 PDT 2005
+A334100125524M
+C425524001133S
+CR2, ML2, MD, ML1, ML1, ML5, CR2(+1), CU, CL1, CR5, CR2, MU, MR5, MD, MR3, CD
+SL1(+2), ML1(+2), CL5(+2), CL2, SL5(+1), ML5(+1), SU, SL3, CU, MU, AR1(+3)
+CD, CR4, CU, MD, MR2, SD, SR4(+1), MU, AR1(+2), AD, MR1(+1)
+previous solution is 38 - 0 moves
+
+Mon Jun 13 13:08:28 PDT 2005
+A505131202502M
+C023443451413S
+CR3, SL5, SL4, CU, SU, AR3(+2), AR1, CR5(+2), CR2, SR5(+1), ML2(+2), ML2, CD
+SD, CL4(+1), SL3(+1)
+previous solution is 16 - 0 moves
+
+Mon Jun 13 13:08:28 PDT 2005
+A005131102502M
+C523443251443S
+CR3, SL5, SL4, CU, SU, AR3(+2), AR1, CR5(+2), CR2, SR5(+1), ML2(+2), ML3(+1)
+CL2(+1), MR1(+1), CD, CL2, SD, SL3(+1)
+previous solution is 18 - 0 moves
+
+Mon Jun 13 13:08:28 PDT 2005
+A005111102502M
+C523443453423S
+CR3, CR5, SL2, CR3(+1), CU, SU, ML2(+2), CD, CL3, CL4, CU, ML5(+1), SL2, MD
+MR5, SL5(+1), CD, SD, CL2(+1), ML5(+2), CU, MU, SU, AR1(+3), MR1(+3), AR1(+1)
+MR1(+1), CD, SD, CR4(+1), SR3
+previous solution is 31 - 0 moves
+
+Mon Jun 13 13:10:23 PDT 2005
+A305101102502M
+C524543341423S
+SL2, SU, SL2, SD, SL5, CR4(+1), CU, SU, SR5(+1), SR2, CR5, ML2(+2), MD, ML4
+SL2(+1), CD, CL5(+1), CL2, MU, SL5(+1), ML3(+1), CU, AR1(+3), CD, MD, SD
+CR3(+1), SR3(+1), MR4, MU, AR1(+1), MR1(+1)
+previous solution is 32 - 0 moves
+
+Mon Jun 13 13:10:43 PDT 2005
+A055111102002M
+C523443253443S
+CR4, SL5, CU, CR1, CD, CR4(+1), SR3(+1), CU, SU, ML2(+2), MD, ML4, SL2(+1)
+MU, CL5(+2), SL5(+2), CD, MD, ML2(+1), MR5(+1), SD, ML5(+2), CU, MU, SU
+AR1(+3), MR1(+3), CR1(+2), MR1(+1), AD, SD, SR3(+1), AR2(+1)
+previous solution is 33 - 0 moves
+
+Mon Jun 13 13:13:49 PDT 2005
+A005111102502M
+C543443453223S
+CR3, CR5, CR2, SL3(+1), CU, SR3, SU, ML2(+2), MD, ML4, SL2(+1), MU, CL5(+2)
+CD, CR5, SL5(+1), MD, SD, CL4(+2), MU, SR5, MD, MR3(+1), MU, SU, ML5(+1), MD
+SD, SL5(+2), CU, MU, SU, AR1(+3), SR1(+3), AR1(+1), SR1(+1), CD, MD, CR4(+1)
+MR3
+previous solution is 40 - 0 moves
+
+Mon Jun 13 13:27:42 PDT 2005
+A515505142333M
+C120044223041S
+CR1, ML3, MD, SL3(+1), ML4(+1), CR4(+1), SL2, MU, AR5(+1), MR1(+1)
+previous solution is 10 - 0 moves
+
+Mon Jun 13 13:27:42 PDT 2005
+A515515402334M
+C042242033011S
+ML3, SL1, SU, SL4(+1), ML5(+1), AR5(+1), MD, CR4(+1), CR3, MR2, CU, CR3, SD
+CL4
+previous solution is 14 - 0 moves
+
+Mon Jun 13 13:27:43 PDT 2005
+A412313425535M
+C025024013014S
+CR2, CU, AR3(+1), AR1, AR5, AD, SL3(+1), AU, SU, ML4(+2), AD, AL4, MD, SL3
+CR4(+1)
+previous solution is 15 - 0 moves
+
+Mon Jun 13 13:27:44 PDT 2005
+A345110422303M
+C022041355514S
+CR2, ML3, SL5, CU, MD, ML4(+1), MR1, SU, SL5, MU, AR4(+3), AD, AL1, SD
+CR4(+1), SR3(+1)
+previous solution is 16 - 0 moves
+
+Mon Jun 13 13:27:44 PDT 2005
+A312513422513M
+C025044315004S
+CR2, CU, AR2(+1), CR4(+1), AD, CD, AR5(+1), AU, AR3, ML1(+1), AD, MD, SL4(+3)
+SU, AL4(+2), MU, ML4
+previous solution is 17 - 0 moves
+
+Mon Jun 13 13:27:46 PDT 2005
+A510512422353M
+C352044310014S
+ML3, ML2, MD, MR4, SL1(+1), SU, ML1, SL2, SL5, SD, CR4(+1), CL3(+1), SR3
+ML4(+1), CU, AR1(+1), MU, CR4(+2), AD, AR4
+previous solution is 20 - 0 moves
+
+Mon Jun 13 13:27:47 PDT 2005
+A514510122233M
+C052044013354S
+SL3, SU, SL2, SR3, ML2(+1), SL2(+1), ML5(+1), MD, CR4(+1), CU, MU, SL5(+2)
+AR1(+1), AD, SD, SR4(+1), SU, AR4, MR1(+2), MD, CR1(+1)
+previous solution is 21 - 0 moves
+
+Mon Jun 13 13:27:53 PDT 2005
+A511515422333M
+C322044010054S
+ML3, ML2, MR3, ML2, ML5, MD, CR4(+1), ML3, CU, MU, AR1(+1), AR4(+1), CR2(+1)
+AD, CD, CR4, MD, MR4, MR5(+1), SL4(+3), CU, MU, CL5(+1), ML4
+previous solution is 24 - 0 moves
+
+Mon Jun 13 13:28:54 PDT 2005
+A515510202532M
+C024344013314S
+SL3, SR1, SU, SL2, SL5, SD, CR4(+1), CU, SU, SR5(+1), SR2, CR5, ML2(+2)
+CL5(+1), ML2, SD, SL3, SL1, SU, SL5(+2), AR1(+1), AD, MD, SD, SR4(+1), SU
+AR4, CR2(+1)
+previous solution is 28 - 0 moves
+
+Mon Jun 13 14:08:36 PDT 2005
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0, 1, 26, 27
+4, 1, 26, 27
+previous solution is 1 - 0 moves
+
+Mon Jun 13 14:08:36 PDT 2005
+A020000000200M
+C002000000020S
+AR2, SL2, AD, SU, CR2(+1), ML2(+1), AU, AD, AU, AD, AU, AD, AU, AD, AU, AD
+AU, AD
+previous solution is 18 - 0 moves
+
+Mon Jun 13 14:26:50 PDT 2005
+A204441010233M
+C531034521525S
+AR4, SL2, AD, SU, ML2(+1), MD, ML4, CR5(+2), SD, AR5(+3), MU, SL4(+1), CU
+AL5
+previous solution is 14 - 0 moves
+
+Mon Jun 13 14:26:51 PDT 2005
+A004021314504M
+C531334521225S
+ML4, SL2, MD, SL2(+1), ML3(+1), ML3, CR3(+1), SL5(+2), CU, MU, SU, AR2(+3)
+CR1(+1), MR3(+2), CD, AR1, SD, SR5(+1)
+previous solution is 18 - 0 moves
+
+Mon Jun 13 14:26:51 PDT 2005
+A054241012054M
+C531334301225S
+SL2, SU, SL2, SL4, SD, SL3, CR3(+1), CR3, CU, SU, AR4(+1), SR2, SR5(+2), SL2
+SL1, SR4, AR5(+1), ML2(+2), ML1, ML1(+1), SD, SL2, SL3, AD, AL4(+1)
+previous solution is 25 - 0 moves
+
+Mon Jun 13 14:27:00 PDT 2005
+A224043020533M
+C511134541025S
+AR2, SL2, AD, AR1, AU, AL2, AD, CR1(+1), AR1(+1), CR1(+1), AR4(+1), AU, CU
+CR5(+1), AR3(+1), SU, ML2(+3), CL3(+1), AD, AL5, MR3(+1), AU, MD, ML5, SD
+SL4(+1)
+previous solution is 26 - 0 moves
+
+Mon Jun 13 14:27:00 PDT 2005
+A204441311503M
+C531034520225S
+AR4, SL2, AD, AL1, AU, AL2, AR4, AR5, SU, SL1(+1), AL1(+1), SL4(+1), AL4(+1)
+AD, SD, CR3(+2), AU, CU, CR5, CL1, SU, SR5(+1), SL1(+1), AR5(+2), ML3(+3)
+CL1(+2), CD, SL1(+1), MD, AL3
+previous solution is 30 - 0 moves
+
+Mon Jun 13 14:27:57 PDT 2005
+A304441020535M
+C531024511223S
+AR4, AL3, AR4, AR5, SL2, SU, SL2(+1), AL4(+1), AD, AL3, SL4, SL3, SD, CR1(+2)
+AR2(+1), AU, AR5, AD, AL1, AU, SU, SR4, CU, CR5(+2), SR5(+2), ML2(+3), AD
+AR3, AL5, AU, ML1(+1), CD, CL4, SD, SL5
+previous solution is 35 - 0 moves
+
+Mon Jun 13 14:29:13 PDT 2005
+A204441011533M
+C531034520225S
+AR4, SL2, AD, AL1, AU, AL2, AR4, AR5, SU, SL1(+1), AL1(+1), SL4(+1), AL4(+1)
+AD, SD, CR3(+2), AU, CU, SU, SR5(+1), SL1, AR5(+2), AL1(+1), SR3, AR3, CR5
+ML1(+3), AL1(+2), CD, CL4, SD, MR3, SL5, MD, SU, AL1(+1), ML5
+previous solution is 37 - 0 moves
+
+Mon Jun 13 14:30:19 PDT 2005
+A244440020533M
+C531031511225S
+AR4, SL2, AD, AL1, AU, AL2, AR4, AR5, SU, SL2(+1), AL4(+1), AD, SL4, SD
+AL1(+1), CR3(+2), AU, CU, CR5, CL2, SU, AR5(+2), CR3(+1), AD, AL1, AU
+SR5(+1), ML2(+3), CD, CL5, AD, MD, SD, SL1(+3), AL5(+3), CU, AR5(+1), SU
+ML1(+1)
+previous solution is 39 - 0 moves
+
+Mon Jun 13 14:52:07 PDT 2005
+A302351522504M
+C131144450230S
+AR5, CR1, SL5, AD, AL3, CR4(+1), AR4(+1), SU, ML5(+1), SL1(+1)
+previous solution is 10 - 0 moves
+
+Mon Jun 13 14:52:07 PDT 2005
+A002132522504M
+C431314455130S
+SL5, SU, ML5(+1), MD, SL3, SL2, SD, CR3(+1), CU, SU, AR5(+2), SR2(+1), SD
+CR2
+previous solution is 14 - 0 moves
+
+Mon Jun 13 14:52:08 PDT 2005
+A002052532504M
+C434114123135S
+AR5, AR5, ML5(+1), AD, SL3(+1), AU, MD, AL5, AD, SL4(+2), CR4(+2), SR1, MU
+AR1(+1), SU, SR2
+previous solution is 16 - 0 moves
+
+Mon Jun 13 14:52:09 PDT 2005
+A002552322504M
+C431314413150S
+AR5, AD, AL3, CR3(+1), AR4(+1), CR1, CR5(+1), SL3(+1), SL1, SU, SR4, CU
+ML2(+2), SL3(+2), ML2(+1), CD, CL4(+1)
+previous solution is 17 - 0 moves
+
+Mon Jun 13 14:52:11 PDT 2005
+A502132322504M
+C431311450450S
+SL5, SU, SL3, SD, SL3, CR3(+1), CU, SU, AR3(+2), SR2(+2), AR2(+1), AR4
+CR5(+1), ML2(+2), AL3(+2), SD, ML2(+1), AD, CL3
+previous solution is 19 - 0 moves
+
+Mon Jun 13 17:45:18 PDT 2005
+A554344221335M
+C311400512200S
+CR4, CL3, CU, AR3(+1), CR4(+1), CD, ML3, MD, SL5(+1), MU, ML4, AR2(+1)
+previous solution is 12 - 0 moves
+
+Mon Jun 13 17:45:18 PDT 2005
+A533341220544M
+C201514513200S
+AR3, AD, AL2, AU, AR4, AR5, AD, SL3(+1), AL5(+1), SU, SL4, SL3, SD, AL2(+1)
+CR1(+2), AU, AR3, AD, SR1(+2), SU, AU, AR5(+1), AL2, AR4, AD, AL3, AU, CU
+CR5(+2), SR4(+2), ML2(+3), CD, CL4, SL2(+2), ML1(+1), SD, AL2
+previous solution is 37 - 0 moves
+
+Mon Jun 13 17:47:53 PDT 2005
+A523043220545M
+C301111542403S
+AR3, AD, AR1, AR1, AU, AR5, AD, SL4(+1), SR3(+1), SL2(+1), SU, AU, AL4(+1)
+AD, AL1, AU, AL2, AD, SL4, SD, SL3(+1), CR1(+2), SR1(+2), AR4(+2), CR1(+1)
+SR4(+2), AR3(+1), AL2(+1), AU, SU, CU, CR4(+2), ML2(+3), MD, CL2(+2), CD, AL2
+ML1(+1), SL3(+1)
+previous solution is 39 - 0 moves
+
+Mon Jun 13 17:50:10 PDT 2005
+A533340220545M
+C341111502204S
+AR3, AD, AR1, AR1, AU, AR5, AL2, AD, AR4, SL2(+1), AL2(+1), AU, SU, SL4(+1)
+SL3, SD, AL4, AD, AL3(+1), CR1(+2), AR1(+2), SR1(+2), SU, AU, AR5(+1), AL2
+CU, CR5(+2), SR4(+2), AD, AR4, AU, ML2(+3), AL2(+3), AD, AL1, AU, SL2(+2), SD
+CL2(+1), MD, ML1(+1)
+previous solution is 42 - 0 moves
+
+Mon Jun 13 17:55:05 PDT 2005
+A551312340300M
+C344121254052S
+ML3, ML3, MD, SL5, SL4(+1), SU, AR3(+1), AR2, AD, SD, CR5(+3), AU, CL1(+1)
+SU, SR3(+1)
+previous solution is 15 - 0 moves
+
+Mon Jun 13 17:55:06 PDT 2005
+A550331340211M
+C404023251452S
+SL5, SU, ML1, ML1, ML3(+1), SL5(+1), AR3(+1), AD, MD, SD, SR3(+1), CR5(+3)
+AU, AR3, CU, CL1(+1)
+previous solution is 16 - 0 moves
+
+Mon Jun 13 17:55:06 PDT 2005
+A150332320115M
+C544023214054S
+SL4, SL1, SR4, SU, ML1(+1), SL1(+1), ML2(+1), ML3, SL2, SL5(+1), AR3(+1), AD
+MD, SD, CR3(+3), CU, MR2, MU, SR3(+1), AR2(+1)
+previous solution is 20 - 0 moves
+
+Mon Jun 13 17:55:27 PDT 2005
+A552331300214M
+C240513414052S
+SL4, SL1, SU, SR2, SR1, ML2(+1), SL3(+1), SL1, SD, MD, ML5(+1), MR1, MU, ML2
+AR3(+1), AD, MD, CR4(+3), AU, AR3, SU, MR3
+previous solution is 22 - 0 moves
+
+Mon Jun 13 17:57:22 PDT 2005
+A550221300214M
+C144133254053S
+SL5, SL3, SL1, CR1, CR3(+1), SR4(+1), CR5(+1), CU, ML2(+1), MD, CD, CL3(+2)
+ML3(+2), SL4(+2), SU, CU, MR4, MU, ML5(+2), AR2(+2), AD, MD, MR3(+1), AR2(+1)
+SR3(+1)
+previous solution is 25 - 0 moves
+
+Mon Jun 13 18:00:24 PDT 2005
+A550331350241M
+C441023221054S
+ML5, ML3, MD, ML4, MU, AR3(+1), AD, AL1, AU, MR3(+1), MD, AR5, MU, AL5(+1)
+MD, ML4, AD, CR1(+2), MR2(+2), CU, AU, AR5(+1), AR2, AD, MR5(+1), CR5, CD
+CR1, SL2(+3), AU, AL3, ML3(+2), SU, SL1(+1), CL2
+previous solution is 35 - 0 moves
+
+Mon Jun 13 19:15:08 PDT 2005
+A550331340340M
+C441522211052S
+ML3, MD, ML1, ML5, ML1, MU, AR3(+1), AR4, AL5(+1), MD, MR2, ML4, AD, CR1(+2)
+MR2(+2), MU, CU, AU, AR4(+2), AD, AR1, AU, CR4(+1), MR3(+2), AL3(+1), AR4(+2)
+AD, MD, CD, CR2(+2), SL1(+3), CL2(+3), AL2(+3), AU, ML2(+2), CU, SL2
+previous solution is 37 - 0 moves
+
+Mon Jun 13 20:50:07 PDT 2005
+A550331340310M
+C444222211055S
+ML3, MD, ML1, ML1, MU, ML3, MD, ML4, MU, AR3(+1), MR3(+1), MD, AR4, AD
+AL4(+1), AU, ML4, AD, CR2(+2), MR2(+2), CU, AU, AR4(+1), AD, AR1, AU, CR4, MU
+MR3(+2), AR1(+1), AD, MD, CL3, CD, CR5(+2), SL1(+3), CL2(+3), AL2(+3), AU
+ML2(+2), CU, SL2
+previous solution is 42 - 0 moves
+
+Tue Jun 14 01:58:03 PDT 2005
+A550332340315M
+C444111202052S
+ML3, MD, MR2, MU, ML4, ML3, MD, ML4, MU, AR3(+1), MR3(+1), MD, AR4, AD
+MR5(+1), ML2, AU, AL3, AD, AR5(+1), MR2(+1), SL2(+2), MU, ML4, SU, SL3(+1)
+AL2, AU, AL5(+2), SD, MD, ML4(+1), MU, SL4, AD, MD, CR1(+3), SR1(+3), AR1(+3)
+AU, CR2(+1), MU, MR3(+1), SR1
+previous solution is 44 - 0 moves
+
+Tue Jun 14 09:48:43 PDT 2005
+A504124101524M
+C315242050333S
+SL5, SL5, CR4(+1), CU, SU, AR4(+2), CR1(+1), CD, SR2, SR1(+1), AD, ML2
+ML4(+1)
+previous solution is 13 - 0 moves
+
+Tue Jun 14 09:48:44 PDT 2005
+A544112102524M
+C315203034035S
+ML2, MD, ML3, SL4, SL5(+1), SL1, ML5, CR2(+2), MU, SU, CL3, CU, AR1(+3)
+CR1(+3), MD, MR3, SR2(+2), AR1(+2), AD, CR1(+1)
+previous solution is 20 - 0 moves
+
+Tue Jun 14 09:48:45 PDT 2005
+A534110102524M
+C315242050433S
+SL5, SL5, ML2, ML2, MD, ML4, ML3(+1), CR1(+1), CU, MU, SU, AR1(+3), CR1(+2)
+SD, MD, MR2(+1), SR2(+1), SU, AR1(+2), AD, CR1(+1), MR2
+previous solution is 22 - 0 moves
+
+Tue Jun 14 09:48:48 PDT 2005
+A535114402524M
+C311242030035S
+ML2, MD, ML3, MU, ML5, MD, CR4(+1), CU, MU, AR4(+2), MR5(+2), CD, CR3, CR3
+MD, SL3(+2), CU, CL4, CD, ML2(+2), SR3, SU, SL4
+previous solution is 23 - 0 moves
+
+Tue Jun 14 09:48:50 PDT 2005
+A530110102554M
+C312242450433S
+SL5, SR3, SU, SL2, SD, SL4, SL2, CR4(+1), CU, CR5, SR5, SR3, SU, ML2(+2), MD
+CD, SD, SL4(+2), SL2, CL4(+1), CL3(+1), CU, ML4, MU, ML3, SU, AR1(+3)
+CR1(+3), AD, MD, MR4(+1), SD, SR2(+1), SU, AR2, CR1(+1)
+previous solution is 36 - 0 moves
+
+Tue Jun 14 09:49:00 PDT 2005
+A530110202554M
+C311242450433S
+SL5, SR3, SU, SL2, SD, SL4, SU, SL1, SD, CR4(+1), CU, SU, SR5(+1), CR5(+1)
+ML2(+2), MD, SD, CD, CL4(+2), CU, CL1, CD, CL1, SL4(+1), SL3(+1), SU, ML4, MU
+ML3, CU, AR1(+3), MR1(+2), MR2, AD, CD, CR2(+1), SD, SR4(+2), CU, AR2
+previous solution is 40 - 0 moves
+
+Tue Jun 14 09:49:11 PDT 2005
+A030110202534M
+C311242455453S
+SL5, SU, SR3, SL2, SD, SL4, SU, SL3, SD, CR4(+1), SR5(+1), CR4(+1), SU, SR3
+CU, ML2(+2), MD, CD, SD, SL4(+2), SU, SL1, SD, CL4(+1), CU, CL3, ML4, ML1(+1)
+MU, SL3, SU, AR1(+3), CR1(+2), CR2, AD, MD, MR2(+1), SD, SR4(+2), MU, AR2
+previous solution is 41 - 0 moves
+
+Tue Jun 14 09:49:19 PDT 2005
+A530110202554M
+C011242453433S
+SL5, SR3, SU, SL2, SD, SL4, SU, SL1, SD, CR4(+1), CU, SU, SR5(+1), CR5(+1)
+ML2(+2), MD, SD, CD, CL4(+2), CU, CL1, CD, ML4, ML1(+1), CL1(+1), CR5(+1)
+SL4(+1), SU, SL3, MU, CU, CL5(+2), AR1(+3), CR1(+3), CR2, AD, MD, MR2(+1), MU
+AR2, SD, SR4(+1)
+previous solution is 42 - 0 moves
+
+Tue Jun 14 09:50:04 PDT 2005
+A530110202554M
+C043242453113S
+CR3, CR5, CU, CR4, CD, SL1(+1), CL1(+1), CU, SU, ML2(+2), MD, CD, SD, SL4(+2)
+SU, SL3, CL4(+1), CU, CL1, ML4, SD, SR5(+1), CD, SL3(+2), CU, CR1, CL3, CD
+MU, ML3, CR5(+1), CU, SU, CL5(+2), AR1(+3), CR1(+3), CR2, AD, MD, MR4(+1), SD
+SR2(+1), SU, AR2
+previous solution is 44 - 0 moves
+
+Tue Jun 14 09:51:09 PDT 2005
+A030110202154M
+C543242453513S
+CR3, CR5, CU, CR4, CD, SL1(+1), SU, CU, CL1(+1), ML2(+2), MD, CD, SD, SL4(+2)
+SU, SL3, CL4(+1), CU, CL1, ML4, SD, SR5(+1), CD, SL3(+2), CR5(+1), MU, ML3
+MD, MR5(+1), CL4(+1), ML5(+2), MU, CU, CL3, SU, AR1(+3), CR1(+2), CR2, AD, SD
+MD, MR4(+2), SR2(+1), SU, AR2
+previous solution is 45 - 0 moves
+
+Tue Jun 14 09:52:29 PDT 2005
+A342251012050M
+C421515340343S
+AR5, AL2, AD, CR5(+1), AR3(+1), AU, CU, SL3, SU, ML5(+3), CD, MR1, SD, SL3
+previous solution is 14 - 0 moves
+
+Tue Jun 14 09:52:30 PDT 2005
+A542231012040M
+C425515340313S
+CR2, CU, AR2(+1), AD, CR3, CD, AR3(+1), AU, SL3, SU, CU, CR4(+2), ML2(+2)
+CL1(+2), ML1(+2), MD, CL1(+1), SD, SL3
+previous solution is 19 - 0 moves
+
+Tue Jun 14 09:52:31 PDT 2005
+A542235011240M
+C405521340313S
+SL3, SR1, SU, ML2(+1), SL1(+1), ML1(+1), ML3, MD, ML4, MU, AR2(+1), AD, MD
+SD, SL5, CR2(+3), MR3(+3), MU, SR1(+1), SU, AR3(+1), CR1
+previous solution is 22 - 0 moves
+
+Tue Jun 14 09:52:36 PDT 2005
+A332201012053M
+C424555341410S
+CR2, CU, AR2(+1), AD, CR2, CD, AR4(+1), AR1, SL4(+1), AL4(+2), AR3(+1)
+CR4(+2), CU, AU, SU, SR3(+1), ML2(+2), ML1, ML1(+1), CD, CL3, SD, SL5(+1)
+previous solution is 23 - 0 moves
+
+Tue Jun 14 09:52:37 PDT 2005
+A322201012453M
+C404513345510S
+AR2, AR2, AD, AR1, AR5, SL4(+1), AU, SU, SR3(+1), ML2(+2), MD, AD, AL5(+1)
+AR1, AL4, ML5, SD, SL4, SL4(+1), CR3(+3), AR3(+3), AU, CU, MR3, SR3
+previous solution is 25 - 0 moves
+
+Tue Jun 14 09:52:40 PDT 2005
+A322201012454M
+C404513335510S
+AR2, AR2, AD, AR1, AR3, AU, AR4, AD, SL1(+1), SU, AU, ML2(+2), MD, AD
+AL3(+1), SD, SL5(+2), AL4(+1), AR1(+1), ML4(+2), CR3(+3), AU, AR1, SR5(+1)
+MR3(+1), MU, SL3
+previous solution is 27 - 0 moves
+
+Tue Jun 14 09:52:52 PDT 2005
+A341501012244M
+C405213335520S
+SL2, SU, ML2(+1), SD, SL3, SU, ML5(+1), ML3, MD, SD, SL5, CR2(+2), CR1
+MR3(+2), SR3(+2), CU, MU, SU, SL4(+2), CL3(+1), AR1(+2), AD, SD, CD, CR3(+2)
+SR3(+2), SU, AR3(+1)
+previous solution is 28 - 0 moves
+
+Tue Jun 14 09:52:53 PDT 2005
+A022531011554M
+C444223335010S
+AR2, AR3, AR5, AL1, AL1, AR4, AD, SL1(+1), AL3(+1), AU, AL3, AD, SL3, SL4(+1)
+SU, AL4, SD, CR2(+2), AR2(+2), SR3(+2), SU, SR4, AU, CU, CR5(+1), AR5(+1)
+ML1(+3), AL1(+2), CD, MD, SD, SL3(+2), SU, AL1(+1), ML3, CL3
+previous solution is 36 - 0 moves
+
+Tue Jun 14 09:53:00 PDT 2005
+A322541011554M
+C044223335010S
+AR2, AD, AR2, AR5, AU, AL1, AR4, AD, SL1(+1), AL3(+1), AU, AR1, AL5, AD, SL3
+SL4(+1), AU, AL3, AD, CR2(+2), AR2(+2), SR3(+2), SU, SR4, AU, CU, CR5(+1)
+AR5(+1), ML1(+3), AL1(+2), CD, MD, SD, SL3(+2), SU, AL1(+1), ML3, CL3
+previous solution is 38 - 0 moves
+
+Tue Jun 14 09:53:12 PDT 2005
+A322541011534M
+C044223535010S
+AR2, AD, AR2, AR5, AU, AL1, AR4, AD, SL1(+1), AL3(+1), AU, AR1, AL5, AD, SL3
+SL4(+1), AU, AL3, AD, CR2(+2), AR2(+2), SR3(+2), SU, SR4, CR3(+1), CU, CR3
+AU, AR5, ML1(+3), CL1(+2), SD, SL5, AD, AL3(+1), SU, ML1(+2), CR4, CD, CL5
+previous solution is 40 - 0 moves
+
+Tue Jun 14 09:53:21 PDT 2005
+A322041011534M
+C044223535015S
+AR2, AD, AR2, AR5, AU, AL1, AR4, AD, SL1(+1), AL3(+1), AU, AR1, AL4, AL2, SL3
+SU, SR1, SL4, SL3(+1), SD, AD, CR2(+2), SR2(+2), AR3(+2), AU, AR4, CR3(+1)
+CU, CR3, SU, SR5, ML1(+3), AD, AL5, AU, CL1(+2), SL1(+3), MD, ML3, CR4, CD
+CL5
+previous solution is 42 - 0 moves
+
+Tue Jun 14 09:53:33 PDT 2005
+A322041011434M
+C554223530015S
+AR2, AD, AR2, AU, AL3, AR4, AD, AR3, AU, AR4, AD, SL1(+1), AL3(+1), AU, AR1
+AL4, AL2, AD, SL3, SL5(+1), CR2(+2), AU, SR2(+1), AD, AR3(+2), AU, AR4
+CR3(+1), CU, SU, SR4(+1), SD, CR3, SU, ML1(+3), AD, AL5, AU, CL1(+2), SL1(+3)
+MD, ML3, CR4, CD, CL5
+previous solution is 45 - 0 moves
+
+Tue Jun 14 09:53:42 PDT 2005
+A322041011434M
+C554203532015S
+AR2, AD, AR2, AU, AL3, AR4, AD, AR3, AU, AR4, AD, SL1(+1), AL2(+1), AU, AL4
+AL2, SL2, SU, SL4, SL3(+1), SD, AD, CR2(+2), SU, SR4, SD, AR3(+2), AU, AR4
+CR3(+1), CU, SU, SR4(+1), SD, CR3, SU, ML1(+3), AD, AL5, AU, CL1(+2), SL1(+3)
+MD, ML3, CR4, CD, CL5
+previous solution is 47 - 0 moves
+
+Tue Jun 14 09:53:55 PDT 2005
+A322141001434M
+C534205532015S
+AR2, AD, AR2, AU, AL3, AR4, AD, AR3, AU, AR4, AD, SL1(+1), AL2(+1), AU, AL4
+AL1, AD, SL3, SL4(+1), AU, AL3, AD, CR2(+2), AU, AR4, AD, SR3(+2), SU, SR4
+CR3(+1), CU, AU, AR4(+1), AD, CR3, AU, ML1(+3), ML4, MR1, AL4(+1), AD, AL3
+AR5, AU, CD, CL5, SD, SL5
+previous solution is 48 - 0 moves
+
+Tue Jun 14 09:55:11 PDT 2005
+A322140001434M
+C534205532115S
+AR2, AD, AR2, AU, AL3, AR4, AD, AR3, AU, AR4, AD, SL1(+1), AL1(+1), AU, SL2
+SU, AL4(+1), AL2, SL4, SL3(+1), SD, AD, CR2(+2), SU, SR4, SD, AR3(+2), AU
+AR4, CR3(+1), CU, SU, SR4(+1), SD, CR3, SU, ML1(+3), ML4, AD, AL5, AU, CD
+CL5, CU, MR4(+3), MD, SD, SR1, SL5, ML5
+previous solution is 50 - 0 moves
+
+Tue Jun 14 10:08:52 PDT 2005
+A323340001554M
+C534201212415S
+AR2, AD, AR2, AU, AL3, AR4, AR5, AL1, AD, AL1, AU, AR4, AD, SL1(+1), AL2(+1)
+AL1, SL2, SU, SL4, AU, AL3(+1), AL2, SL3(+1), SD, AD, CR2(+2), SU, SR4, CU
+CR5(+1), CL1, CD, CL1, CU, CR4, AR2, AU, AR5(+1), SR5(+1), ML1(+3), MD, AD
+AL1(+1), SD, CD, CL2(+3), CU, SL2(+2), ML1(+2), MU, AL1(+1)
+previous solution is 51 - 0 moves
+
+Tue Jun 14 10:12:34 PDT 2005
+A444520040211M
+C135335325120S
+CR1, CU, SL2, SL1, SU, ML4(+1), SL5(+1), ML4(+1), AR2(+3), CD, CR5, CU, SD
+MD, MR3(+1), MU, SR3, AL4, AD, AR5
+previous solution is 20 - 0 moves
+
+Tue Jun 14 10:12:35 PDT 2005
+A444520030311M
+C325415325120S
+CR2, CU, SL2, SU, SL3, ML3, ML5(+1), SL4(+1), AR2(+3), MD, ML3, MR5, SD, CD
+CR3(+2), CU, SR3(+1), MU, AL4, AD, AR5
+previous solution is 21 - 0 moves
+
+Tue Jun 14 10:12:39 PDT 2005
+A444520040312M
+C115335315220S
+CR1, CR3, CR5, CU, ML4(+1), SL2, SU, SL5(+2), CL4(+2), ML4(+2), AR2(+3), MD
+ML1, MR5, CD, CR3(+1), CU, MU, SD, SR3, AL4, AD, AR5
+previous solution is 23 - 0 moves
+
+Tue Jun 14 10:12:44 PDT 2005
+A444520240311M
+C125335325100S
+CR1, CR3, CR5, CR1, CU, CR1, CD, ML1, MD, SL1(+2), CL2(+1), CL3, CU, CL4, MU
+ML4, SU, SL5(+1), ML4(+1), AR2(+3), CD, CR5, CU, SD, SR3, MR2(+2), AL4, AD
+AR5
+previous solution is 29 - 0 moves
+
+Tue Jun 14 10:12:51 PDT 2005
+A444520043313M
+C125105225130S
+ML3, MD, ML2, ML5, MU, CR2, CU, CR2(+1), MR4(+1), CR3(+1), CR3, CD, MD, MR3
+SL1(+2), CL2(+2), CL5, CU, ML2(+1), MU, SU, SL5(+1), ML4(+2), AR2(+3), MD
+ML1, MR5, SD, CD, CR2(+2), CU, SR2(+1), MU, AL4, AD, AR5
+previous solution is 36 - 0 moves
+
+Tue Jun 14 10:15:42 PDT 2005
+A044520044311M
+C325315225130S
+ML4, ML5, CR2, CU, CR2(+1), CR4, MD, MR5, MR1, MU, CR1(+1), MR1(+1), MD, CD
+SL1(+2), CL2(+1), CL5, CU, MU, ML4, SU, SL5(+1), ML4(+2), AR2(+3), AD, AR2
+AU, SD, MR4(+2), MD, MR3, ML5, CD, CR2(+2), MU, SL3, SR5
+previous solution is 37 - 0 moves
+
+Tue Jun 14 10:15:54 PDT 2005
+A044020044311M
+C325315225135S
+ML1, ML4, MD, ML5, CR3(+1), MR5(+1), MR1, MU, CR5, CU, CR1(+1), MR1(+1), MD
+CD, SL1(+2), ML2(+2), ML5, MU, MR2, MD, CL2(+1), CL3(+1), SL5(+2), SU
+ML3(+1), MU, CU, AR2(+3), AD, AR2, AU, MD, MR5, CD, SD, SR2(+2), MU, CL3, CR5
+previous solution is 39 - 0 moves
+
+Tue Jun 14 10:16:38 PDT 2005
+A544020044311M
+C325315220135S
+ML1, ML4, MD, ML5, CR3(+1), CU, MU, MR4(+1), MD, MR3, MU, MR1, MD, CR4, CD
+CR3, SL1(+2), ML2(+2), ML5, MU, MR2, MD, CL2(+1), CL3(+1), SL5(+2), SU
+ML3(+1), MU, CU, AR2(+3), AD, AR2, AU, MD, MR5, CD, SD, SR2(+2), MU, CL3, CR5
+previous solution is 41 - 0 moves
+
+Tue Jun 14 10:17:56 PDT 2005
+A545020044311M
+C324315220135S
+ML1, ML4, ML5, CR2, CU, CR2(+1), CR4, CD, CR1, CU, MR2, MR4, MR1(+1), CR1(+1)
+CD, MD, SL1(+2), CL2(+2), CU, CL5, CR2, CD, ML2(+1), ML3(+1), CL2(+1), CU, MU
+SL2, SU, SL5(+2), AR2(+3), SD, SR5, AD, MD, CD, CR2(+3), CU, AL3(+1), MR2(+1)
+SU, AR5
+previous solution is 42 - 0 moves
+
+Tue Jun 14 10:18:15 PDT 2005
+A252341401251M
+C341503025034S
+ML1, ML2, ML1, MD, ML5, MU, AR4(+1), MD, MR5, MU, AR5(+1), AR1, AL2, AD, AL2
+ML4, AU, AL5(+1), AD, MD, ML3(+1), CR1(+2), MU, MR3, MD, AR5(+2), AU, AL4
+CR5(+1), CU, MU, MR5(+2), MR1, MD, AR5(+1), AD, CD, SL2(+3), AU, AL4, SU, CL3
+AD, MU, ML4(+1), SL1(+1)
+previous solution is 46 - 0 moves
+
+Tue Jun 14 10:18:23 PDT 2005
+A252331401251M
+C441503025034S
+ML1, ML2, ML1, MD, ML5, ML1, MU, AR3(+1), ML2, MR3(+1), AD, AR5, AU, MR5(+1)
+MR1, ML2, MD, ML2, MU, AL3(+1), ML5(+1), AD, AL4, MD, CR1(+2), AU, AR3, AD
+CR5(+1), CU, MU, MR3, AU, AR5(+2), AR1, AD, MR5(+1), MD, CD, SL2(+3), SU, AU
+AL4(+1), CL3, SL1(+1), AD, MU, ML4
+previous solution is 48 - 0 moves
+
+Tue Jun 14 10:19:18 PDT 2005
+A242333400251M
+C451511025034S
+ML1, ML2, MD, ML2, MU, ML3, ML2, AR3(+1), ML2, MR3(+1), AD, AR5, AU, MR5(+1)
+AD, AL5, AL1, MR1, ML2, MD, ML2, ML5(+1), AU, AL2, AD, CR1(+2), AU, AR3, AD
+MR5(+2), MU, CR1(+1), CU, AU, AR5(+2), AR1, AD, CR5(+1), CD, MD, SL2(+3), CU
+AU, AL4(+1), AD, CL4, ML1(+2), MU, SL1(+1)
+previous solution is 49 - 0 moves
+
+Tue Jun 14 10:20:09 PDT 2005
+A244333200251M
+C451511025034S
+ML1, ML2, MD, ML2, MU, ML3, MD, ML4, MU, AR3(+1), MR3(+1), AD, AR5, AU
+MR5(+1), AD, AL5, AL1, MR1, ML2, MD, ML2, ML5(+1), AU, AL2, AD, CR1(+2), AU
+AR3, AD, MR5(+2), MU, CR1(+1), CU, AU, AR5(+2), AR1, AL2, AD, CR5(+1), CD, MD
+SL2(+3), AU, MU, CU, CL3(+2), AL2(+1), AD, ML2, SL1(+1)
+previous solution is 51 - 0 moves
+
+Tue Jun 14 10:22:16 PDT 2005
+A344303202251M
+C451511025034S
+ML1, ML2, MD, ML2, MR3, MU, ML2, MD, ML5, ML1, MU, AR3(+1), AD, AR1, MD
+MR5(+1), MU, AU, AR5(+1), AR1, AL2, AD, MD, ML5, AL2, AL5(+1), MU, ML3, MD
+CR1(+2), MU, MR3, MD, AR1(+2), AU, CR5(+1), CU, MU, MR5(+2), MD, AR5(+1), AR1
+AL2, AD, CD, SL2(+3), AU, CU, MU, ML3(+2), AL2(+1), AD, CL2, SL1(+1)
+previous solution is 54 - 0 moves
+
+Tue Jun 14 10:27:55 PDT 2005
+A451101403354M
+C242512025033S
+ML3, MD, ML2, MU, MR4, ML3, MD, ML5, MR1, ML2, ML2, CR2(+1), CU, CR1, CD, CR1
+MR2, MR5(+1), MU, CU, CR5(+1), CD, MD, CL2(+1), CU, ML5, MR1, MU, CL5(+1), CD
+ML4, CU, AR1(+2), MR1(+2), MD, AD, AR1(+1), CD, CR5(+2), CR3, AU, MR5, MU
+AR5(+1), AD, MD, SL2(+3), AU, AL4, AD, SU, CU, CL4(+1), ML2(+1), SL1(+1)
+previous solution is 55 - 0 moves
+
+Tue Jun 14 11:34:41 PDT 2005
+A532325124234M
+C345110000145S
+ML4, MD, MR1, MU, ML2, MD, ML5, MU, AR3(+1), AD, MR2, AU, AR4(+1), AD, AR1
+AU, AL2, AR4, AD, MR4, MD, MR1, MU, ML2, MR3, MD, SL1(+2), AU, AL2, MU
+ML2(+1), MD, ML5, MR1, AL2, AD, SL5(+2), AL4(+2), AU, MR1, ML3(+1), AD
+CR1(+3), MU, MR5, AR1(+2), AU, AR1(+1), AD, SR1(+1), SU, SR1(+1), MD, CL3, CU
+CR5
+previous solution is 56 - 0 moves
+
+Tue Jun 14 12:26:04 PDT 2005
+A322320020454M
+C431515405131S
+AR2, AD, AR1, AU, AR2, AD, AL4, AU, AR3, AD, AR5, AR1, AU, AL2, AD, AR3, SL1
+SL1(+1), SU, SL2, SD, AL1, AL5(+1), AR1, SR3, SL1, SL5(+1), SU, SL3, SD, AL3
+CR1(+2), SU, SR3, AU, AR2(+1), AD, CR5(+1), CU, AU, AR4(+1), SR5(+2), ML2(+3)
+CD, CL5, CL1, CR4, CU, SD, AD, AR1(+1), AL5(+1), AU, MR4, MD, ML5(+1), SL4
+previous solution is 57 - 0 moves
+
+Tue Jun 14 12:30:16 PDT 2005
+A322320025434M
+C431515500141S
+AR2, AD, AR1, AU, AR2, AD, AL4, AU, AR3, AR5, AD, AR1, AU, AL2, AR3, AD, SL1
+SL1(+1), SU, SL2, SD, AL1, AL5(+1), AR1, AU, SU, SL3(+1), AL2(+1), AD, SL3
+SD, CR1(+2), CU, AU, AR2(+1), CR5(+1), SU, SR3, SR4(+2), CD, SL2, SR3, CU
+AR4(+1), ML2(+3), SD, AD, AR1(+1), AL5(+1), AU, SL5, CL2(+2), CD, CL4
+CR5(+1), CU, MR4, MD, ML5
+previous solution is 59 - 0 moves
+
+Tue Jun 14 12:55:09 PDT 2005
+A240331201055M
+C551102324344S
+SL3, SL2, SU, SL3, SD, SL1, SL1, SU, AR3(+1), SL2, SR3(+1), SD, AD, AR4(+1)
+AU, SU, SR5(+1), AD, SD, SL2(+1), SU, AU, AL3(+1), AD, AL1, AL1, SD, SL5(+1)
+AU, AL2, AD, CR1(+2), CR1, SU, AU, AR3(+1), AD, CR4(+1), CU, SR3, SR5(+1), CD
+SD, SL2(+1), AR3(+2), AU, SU, CU, CL3(+1), CR5(+2), SL3, SR5(+1), ML1(+3)
+CL2(+3), AL3(+2), AR1, MD, SD, SL3(+1), ML2(+1)
+previous solution is 60 - 0 moves
+
+Tue Jun 14 13:08:37 PDT 2005
+A244331001055M
+C551102224334S
+SL3, SL2, SU, SL3, SD, SL1, SL1, SU, AR3(+1), SL2, SR3(+1), SD, AD, AR4(+1)
+AU, SU, SR5(+1), AD, SD, SL2(+1), SU, AU, AL3(+1), AD, AL1, AL1, SD, SL5(+1)
+AU, AL2, AD, CR1(+2), CR1, SU, AU, AR3(+1), AD, CR4(+1), CU, SR3, SR5(+1), CD
+SD, SL2(+1), AR3(+2), AU, SU, CU, CL3(+1), CR5(+2), SL3, SR5(+1), ML1(+3), MD
+AD, SD, CD, CL2(+3), SL2(+3), SU, CU, AL2(+1), ML2(+1)
+previous solution is 63 - 0 moves
+
+Tue Jun 14 16:50:11 PDT 2005
+A200534334510M
+C532412410152S
+ML4, ML5, CR4, CR1, CU, AR4(+2), CD, MR3(+1), MD, CR5(+1), SL4(+2), SU, ML2
+CL4
+previous solution is 14 - 0 moves
+
+Tue Jun 14 16:50:14 PDT 2005
+A502534314510M
+C235411020243S
+ML4, ML5, CR4, CR1, CU, AR4(+2), AD, CD, MR3, MD, CR4(+2), SL2(+1), SU, SL3
+CU, CL4(+1)
+previous solution is 16 - 0 moves
+
+Tue Jun 14 16:50:16 PDT 2005
+A234534334211M
+C505211000524S
+SL2, SU, SL3, ML4, ML3(+1), ML3, MD, SD, SL5, CR2(+2), CR1, CR1, MU, SU
+AR4(+2), MR3(+2), MD, SR3(+1)
+previous solution is 18 - 0 moves
+
+Tue Jun 14 16:50:19 PDT 2005
+A214504204213M
+C535430011532S
+ML4, MD, CR4, CR5(+1), CL1(+1), ML5(+1), MU, ML2, AR1(+1), AD, CR3, MD
+MR3(+1), MR5, ML1, MR2(+1), AR3, AR5, SL1(+3), SU, CU, CL4(+1), CD, AU
+AL2(+1), MU, ML4(+2), AD, SL2
+previous solution is 29 - 0 moves
+
+Tue Jun 14 16:50:22 PDT 2005
+A254530334214M
+C532001011452S
+ML4, MD, ML1, MU, ML3, MD, ML3, CR2(+1), CU, CL2, MU, AR3(+2), AR3, AD
+CR3(+1), CD, CR5(+1), MR3, MD, MR4(+1), AR2(+2), SL1(+3), AL1(+3), MU, CU
+CL3(+1), CD, ML3, SL1(+2), SU, AL1(+1)
+previous solution is 31 - 0 moves
+
+Tue Jun 14 16:50:31 PDT 2005
+A254530324214M
+C532101001453S
+ML4, MD, MR3, MU, ML2, ML2, ML3, MD, ML3, CR2(+1), MR1(+1), MU, CU, AR3(+2)
+CR4(+2), CD, AD, MD, MR4(+2), MU, CR3, MD, AR5(+1), SL1(+3), AU, MU, CU
+CL3(+2), CD, AL2(+1), AD, ML3, SL1(+2), SU, AL1(+1)
+previous solution is 35 - 0 moves
+
+Tue Jun 14 16:50:36 PDT 2005
+A254534324214M
+C532101001053S
+ML4, MD, MR3, MU, ML2, ML2, ML3, MD, ML3, CR2(+1), MR1(+1), MU, CU, AR3(+2)
+CR4(+2), CD, CR3, CU, CL2, MR4(+1), MD, MR3, CD, AD, AR5(+1), SL1(+3), AU, CU
+MU, ML3(+2), MD, AL2(+1), AD, CL3, SL1(+2), SU, AL1(+1)
+previous solution is 37 - 0 moves
+
+Tue Jun 14 16:50:37 PDT 2005
+A354110004214M
+C532501322453S
+ML4, MD, ML5, MU, ML3, MD, CR2(+1), CU, CR1, MR2, MU, MR1(+1), CR4(+1), CD
+MD, MR4(+1), MU, CR3, MD, SL2(+2), CL2(+2), CU, ML5(+1), MU, MR1, SU, SL4(+2)
+ML3(+1), CL5(+1), AR1(+3), CR1(+2), CD, AD, AR1(+1), SD, MD, MR3(+3), MU, AU
+CR1, SR3(+1)
+previous solution is 41 - 0 moves
+
+Tue Jun 14 16:51:40 PDT 2005
+A134252353000M
+C451124530124S
+AR1, AD, ML5, ML2, SL2, SL1, SL4, CR5(+2), CU, AR5(+1)
+previous solution is 10 - 0 moves
+
+Tue Jun 14 16:51:40 PDT 2005
+A034252353001M
+C451314502124S
+ML5, MD, SL2, SL4(+1), ML3(+1), CR5(+2), MU, MR3, AR5, AR3(+1), AL2(+1)
+previous solution is 11 - 0 moves
+
+Tue Jun 14 16:51:40 PDT 2005
+A033252553021M
+C454024131104S
+ML5, AR5, AR3(+1), AD, MD, MR1(+1), SL3(+2), ML1(+2), AL2(+2), MU, SL5(+1)
+CR4(+2), AR1(+1), CU, SR4
+previous solution is 15 - 0 moves
+
+Tue Jun 14 16:51:43 PDT 2005
+A434232355101M
+C001024531524S
+ML5, ML3, ML4, SL2, SL3, SU, SL3, SL3, AR2(+2), AR2, MD, SD, SR4, CR5(+2), CU
+MR5(+1)
+previous solution is 16 - 0 moves
+
+Tue Jun 14 16:51:45 PDT 2005
+A024253253404M
+C455020131131S
+AR2, AR2, AD, ML5, MD, MR1, SL1, SL3(+1), SL5(+1), ML5(+1), CR2(+3), MU, SU
+SR3(+1), SD, CR1(+1), MR3, AU, AR2(+1)
+previous solution is 19 - 0 moves
+
+Tue Jun 14 16:51:46 PDT 2005
+A231242310005M
+C554034531124S
+SL2, SL3, SL3, SU, SL3, SR2, AR4(+1), AL1(+1), AD, SD, CR3(+2), AR3(+2), AR1
+SR3(+1), SR1(+1), SU, AU, CR3, CU, ML3(+3), MD, AL2(+1), AD, CL2, SL3
+previous solution is 25 - 0 moves
+
+Tue Jun 14 16:51:49 PDT 2005
+A231242310003M
+C554034551124S
+SL5, SL3, SU, SL3, AR4(+1), SR1, SD, AL3, AD, CR3(+2), CU, AR5(+1), AR1, CL3
+CD, CR5(+1), CR1(+1), CU, AU, SR5, SU, ML3(+3), MD, AL2(+1), AD, SL2, CL3
+previous solution is 27 - 0 moves
+
+Tue Jun 14 16:51:49 PDT 2005
+A231542310004M
+C514014533522S
+SL2, SL3, SU, SR4, SD, SL3, SU, SL5, AR4(+1), AL1(+1), AL2, AD, CR1(+1), CU
+CR1, CD, SD, AR1, AR1(+2), CR3(+2), AR3(+1), AU, SR5(+1), SU, CU, ML3(+3), MD
+AL2(+1), AD, CL2, SL3
+previous solution is 31 - 0 moves
+
+Tue Jun 14 16:51:52 PDT 2005
+A231512310004M
+C514044533522S
+SL2, SL3, SU, SR4, SD, SL3, SU, SL5, SL1, SL2, SD, CR1(+1), CU, SU, AR1(+2)
+AD, SD, CR1, CL2, AU, SR4, SR3, CD, CR4, AD, AR5(+2), AU, CR3(+1), CU, SU
+ML3(+3), MD, CL2(+1), CD, SL2, AL3
+previous solution is 36 - 0 moves
+
+Tue Jun 14 16:51:59 PDT 2005
+A231512310404M
+C514045533022S
+SL2, SL3, SU, SR4, SD, SL3, SU, SL5, SL1, SL2, SD, CR1(+1), CU, SU, AR1(+2)
+AD, SD, CR1, CL2, AU, SR4, SR3, CD, CR4, CR3(+1), CU, AL2, AD, AR4, AU
+AR4(+1), SU, ML3(+3), MD, CL2(+1), CD, SL2, AL3
+previous solution is 38 - 0 moves
+
+Tue Jun 14 16:52:03 PDT 2005
+A431502011034M
+C514025533422S
+SL2, SL3, SU, SR1, SL5, SL1, SD, SR2, SU, SL4, SD, CR1(+1), CU, SU, AR1(+2)
+AD, CD, SD, SR2(+2), SR3, CR2(+1), CR3(+1), CR2, AR2, AR4(+1), SR2(+2), SU
+AU, CU, ML1(+3), AD, AR2, AL5, AU, CD, CL5, ML2(+1), SD, SL5
+previous solution is 39 - 0 moves
+
+Tue Jun 14 16:52:09 PDT 2005
+A431502011434M
+C514025533022S
+SL2, SL3, SU, SR1, SL5, SL1, SD, SR2, SU, SL4, SD, CR1(+1), CU, SU, AR1(+2)
+AD, CD, SD, SR2(+2), SR3, CR2(+1), CR3(+1), CR2, SU, AR2, AU, AR4(+1), AD
+SR4, AU, CU, ML1(+3), AD, AR2, AL5, AU, CD, CL5, ML2(+1), SD, SL5
+previous solution is 41 - 0 moves
+
+Tue Jun 14 16:52:11 PDT 2005
+A431501211034M
+C524025533402S
+CR2, CU, CR1, CD, CR2, CR3, CU, CR3, CD, SL3(+1), SU, SL5, SL1, SD, SR2, CL3
+CL4(+1), SL2(+1), CR2, CU, CL4, SU, AR1(+2), AD, SD, CD, CR2(+2), CR3
+SR2(+1), SR3(+1), CU, CR3, AR2, AR4(+1), SR2(+1), SU, AU, ML1(+3), CL2(+2)
+AL1(+1), AL1(+1), CD, ML2, SD, SL5(+1)
+previous solution is 45 - 0 moves
+
+Tue Jun 14 16:52:12 PDT 2005
+A431501211434M
+C524025533002S
+CR2, CU, CR1, CD, CR2, CR3, CU, CR3, CD, SL3(+1), SU, SL5, SL1, SD, SR2, CL3
+CL4(+1), SL2(+1), CR2, CU, CL4, SU, AR1(+2), AD, SD, CD, CR2(+2), CR3
+SR2(+1), SR3(+1), CU, AR2, AU, AR4(+1), AD, CR3, SR2(+1), SU, AU, ML1(+3)
+CL2(+2), AL1(+1), AL1(+1), CD, ML2, SD, SL5(+1)
+previous solution is 47 - 0 moves
+
+Tue Jun 14 16:53:17 PDT 2005
+A135502322444M
+C351340215100S
+AR1, AD, CR3(+1), CR5, CL1, CU, CR4, AR3, AR5, AR1, AU, ML2(+2), CL2(+2)
+AL2(+2), MD, ML4, MU, MR4(+2), MD, AD, CR4, CD, SL1(+2), SU, MU, ML3(+1), CU
+CL2(+1), CL2(+1), MD, SL3
+previous solution is 31 - 0 moves
+
+Tue Jun 14 16:53:45 PDT 2005
+A040522124543M
+C303013215154S
+ML4, ML5, MD, CR3, CR5(+1), MR1, MR5(+1), CU, CR3, CD, SL1(+2), SU, MU, CU
+CL2(+2), ML5(+2), MD, MR1, SL5(+1), SD, CD, CL3(+2), CU, ML3(+1), MU, SU
+AR2(+3), MR2(+3), AR1(+1), CD, CR3, SD, SR2(+1)
+previous solution is 33 - 0 moves
+
+Tue Jun 14 16:53:47 PDT 2005
+A040522134542M
+C333010215154S
+ML4, ML5, MD, CR3, CR5(+1), CL1, MR1, MR5(+1), MU, CR4, MD, SL1(+2), SU, CU
+CL3(+1), MU, ML5(+2), MD, MR1, SL5(+1), SD, CD, CL3(+2), CU, ML3(+1), MU, SU
+AR2(+3), MR2(+3), MD, SD, SR2(+1), CR2(+1), AR1(+1)
+previous solution is 34 - 0 moves
+
+Tue Jun 14 16:53:59 PDT 2005
+A040222144545M
+C333010215153S
+ML4, MD, CR3, CU, CR2, CD, CR5(+1), ML1, MR3(+1), SL1(+2), MU, ML4, MD
+CL2(+2), CU, MU, ML2(+1), CD, MR4, MD, CU, SL1(+1), SU, SL2(+1), SD, CD, ML1
+ML3(+2), MU, SL3, SU, AR2(+2), AR2, AD, SR2(+1), MR2(+1), SR1(+1)
+previous solution is 37 - 0 moves
+
+Tue Jun 14 16:54:16 PDT 2005
+A040520134241M
+C333015225154S
+ML1, ML2, MD, CR3, CU, CR2, CD, CR5(+1), CU, ML2, MR4, CD, SL1(+2), ML2(+2)
+MU, SU, CU, CL5(+2), CD, CR1, SL5(+1), SD, MD, ML3(+2), MU, CL3(+1), CU, SU
+AR2(+3), CD, CR5, CU, MR1(+3), AR4(+2), AD, AL5, SD, SR2(+1)
+previous solution is 38 - 0 moves
+
+Tue Jun 14 16:54:41 PDT 2005
+A120521133331M
+C504044540522S
+AR2, AD, ML3, MD, SL5(+1), SU, ML4, CR5(+2), MU, AR4
+previous solution is 10 - 0 moves
+
+Tue Jun 14 16:54:42 PDT 2005
+A323524141303M
+C514040510522S
+AR2, AD, SL2, SU, ML4(+1), ML1, SL4(+1), SD, CR5(+2), AU, AR4
+previous solution is 11 - 0 moves
+
+Tue Jun 14 16:54:42 PDT 2005
+A333224131501M
+C514000554224S
+AR3, AD, AL1, SL2, SU, ML1, ML3(+1), ML1, SL4(+1), SD, CR5(+2), AU, AR4
+previous solution is 13 - 0 moves
+
+Tue Jun 14 16:54:43 PDT 2005
+A323544131301M
+C515020420524S
+AR2, AR4, AD, SL2, SL4, SU, ML3, ML5(+1), ML3, MD, CR1(+1), MR4(+2), CU, CR4
+previous solution is 14 - 0 moves
+
+Tue Jun 14 16:54:44 PDT 2005
+A213534131321M
+C525040020544S
+AR3, AD, CR4(+1), ML3, ML1, MD, AR5(+2), CR4(+2), SL2(+3), AU, AL4, AD, SU
+CU, CL4(+1), MU, ML1(+1), MD, SL1
+previous solution is 19 - 0 moves
+
+Tue Jun 14 16:54:57 PDT 2005
+A321524231351M
+C514040020534S
+AR2, AR1, AD, CR4(+1), CR5, AU, AR2, AR3, AR1, AD, ML1, MD, SL2(+3), AU, AL2
+CU, MU, ML4(+2), MD, AD, CL4, SU, SR1, SL2
+previous solution is 24 - 0 moves
+
+Tue Jun 14 16:55:17 PDT 2005
+A325524231311M
+C514040020534S
+ML3, ML1, ML5, AR2, AR2(+1), AR3, AR1, MD, CR4(+1), CR5, CL2, CR3, AD
+MR5(+1), SL2(+3), AU, AL2, AD, MU, CU, CL4(+1), CD, ML4, SU, SR1, SL2
+previous solution is 26 - 0 moves
+
+Tue Jun 14 16:55:18 PDT 2005
+A321544031351M
+C514020220534S
+ML3, ML1, ML5, AR4(+1), AL3(+1), AD, CR1(+1), MD, AR2(+2), AR5, AL2, AR4
+CR2(+1), MR5(+1), ML2, MR3, CR5, SL2(+3), AL2(+3), CU, CL4, SL2(+1), AU, SR2
+CD, MU, ML4(+1)
+previous solution is 27 - 0 moves
+
+Tue Jun 14 16:55:22 PDT 2005
+A321524234351M
+C514010020534S
+ML4, ML5, AR2, AR2(+1), AL3(+1), AD, CR1(+1), CU, AU, AR2(+2), AR4, CR2(+1)
+CR5(+1), CD, AD, MD, MR5(+1), SL2(+3), AU, AL2, AD, MU, ML4, MD, SL1(+2), SU
+SR2, CU, CL4(+1)
+previous solution is 29 - 0 moves
+
+Tue Jun 14 16:55:24 PDT 2005
+A331124231255M
+C513040020544S
+CR3, CU, CR2, CR3, CD, CR4, CU, ML2(+1), CL3(+1), CR1, CD, MD, ML4(+1), MU
+ML3, CL4, CU, CL3(+1), AR1(+2), CR1(+2), AD, MR2(+1), CR3(+1), CR1, CD, MD
+AR5(+2), MR4(+2), SL2(+3), AU, AL4, AD, CU, CL2, CD, SU, SR1, SL2, MU
+ML4(+1)
+previous solution is 40 - 0 moves
+
+Tue Jun 14 16:55:36 PDT 2005
+A513340101544M
+C045233212205S
+AR3, AL1, AD, AR3, AU, AR5, AL1, AD, AL1, AU, AR4, AD, SL2(+1), AL2(+1)
+SL1(+1), AL5(+1), AU, AL1, AD, SL5, CR2(+2), CU, SU, AR3, AU, CR5(+1), CL1
+SR5(+2), AR4(+2), AD, SD, CL4, CD, CR5(+2), CU, AU, SU, ML1(+3), CL4(+3), MD
+ML2, SD, AD, AL3(+2), AU, CR1(+1), SL3(+1)
+previous solution is 47 - 0 moves
+
+Tue Jun 14 16:56:34 PDT 2005
+A323340001544M
+C535204212115S
+AR2, AD, AR2, AU, AL3, AR4, AR5, AL1, AD, AL1, AU, AR4, AD, SL1(+1), AL2(+1)
+AL1, AL5, AU, SL2, SU, SL4, SL3(+1), SD, AD, CR2(+2), SU, SR4, CU, AU
+AR5(+2), AD, AR1, CR5(+1), CD, SD, SR5(+2), SU, AU, CU, ML1(+3), MD, AD
+AL4(+1), AU, CD, CL2(+1), SD, SL4(+2), CU, ML2
+previous solution is 50 - 0 moves
+
+Tue Jun 14 16:56:48 PDT 2005
+A323340001544M
+C535201212415S
+AR2, AD, AR2, AU, AL3, AR4, AR5, AL1, AD, AL1, AU, AR4, AD, SL1(+1), AL2(+1)
+AL1, AL5, AU, SL2, SU, SL4, SL3(+1), SD, AD, CR2(+2), SU, SR4, CU, AU
+AR5(+2), AD, AR1, CR5(+1), CD, SD, SR5(+2), SU, AU, CU, ML1(+3), MD, CD, AD
+AL1(+2), SD, SL2(+3), CL1(+3), CU, AL1(+1), SU, ML2
+previous solution is 51 - 0 moves
+
+Tue Jun 14 17:09:49 PDT 2005
+A511005323403M
+C134520244251S
+CR1, CU, AR5(+1), AD, CR5, SL1, SL2, SU, ML3(+1), MD, ML2, SL3
+previous solution is 12 - 0 moves
+
+Tue Jun 14 17:09:49 PDT 2005
+A515025353403M
+C034210244211S
+ML5, SL4, SU, SL5(+1), AR5(+1), ML5(+2), MD, AD, SD, CR2(+2), CR2(+1), MU
+MR5, SU, SR3(+1)
+previous solution is 15 - 0 moves
+
+Tue Jun 14 17:09:49 PDT 2005
+A542011323553M
+C034520114204S
+SL4, SL1, SR2, SU, ML3(+1), MD, SD, SL5(+1), SU, SR1, SD, SL3, SU, AR2(+1)
+AD, ML5, SD, CR2(+3), CU, AU, AR3(+1), CR1, CD, SR2(+1), MR1(+2), SU, SR1
+previous solution is 27 - 0 moves
+
+Tue Jun 14 17:09:52 PDT 2005
+A542015323113M
+C034520044251S
+SL1, SL2, SU, ML3(+1), MD, ML5, MU, MR1, MD, ML3, MU, AR2(+1), SL2, SL5(+2)
+SD, AD, MD, CR2(+3), SU, SR5, SD, AU, CR5(+1), CU, CL5, MU, MR3(+2), MD
+AR3(+1)
+previous solution is 29 - 0 moves
+
+Tue Jun 14 17:10:05 PDT 2005
+A542015123133M
+C034520044251S
+SL1, SL2, SU, ML3(+1), MD, ML5, MU, MR1, MD, ML3, MU, AR2(+1), SL2, SL5(+2)
+SD, AD, MD, CR2(+3), MR4(+2), MU, ML1, MD, SU, SR5, SD, AR5(+3), AU, AL5, CU
+CR1(+1)
+previous solution is 30 - 0 moves
+
+Tue Jun 14 17:10:11 PDT 2005
+A541220201533M
+C424431510305S
+CR2, CR3, SL3, SU, SL1, SD, SL1, SL4(+1), SU, CL4, CU, AR2(+2), CR2(+2)
+SR5(+2), SL1, SR3, AR5(+1), AL1, AD, AL1, AU, AR3, CR5, ML1(+3), AL2(+2), SD
+SL5, MD, CD, CL1(+1), ML1(+2), MU, CL1(+1)
+previous solution is 33 - 0 moves
+
+Tue Jun 14 17:10:12 PDT 2005
+A541230201533M
+C434421510205S
+CR4, CU, CL1, CD, CR2, CU, CR5, CL1, CR3, CD, SL2(+1), SU, SL1, SD, CL2
+CL1(+1), SL4(+1), CL4(+1), CU, SU, AR3(+2), CR5(+2), CL1, CR3, SR5(+1), SL1
+SD, SL1, SU, SR3, AR5, ML1(+3), CL2(+3), CD, SL2(+2), MD, AD, AL1(+1)
+ML1(+2), MU, AL1(+1)
+previous solution is 41 - 0 moves
+
+Tue Jun 14 17:10:33 PDT 2005
+A541230201533M
+C234441510205S
+CR4, CU, CL1, CD, CL2, CR4, CU, CR5, CL1, CR3, CD, SL2(+1), SU, SL1, SD, CL2
+CL1(+1), SL4(+1), CL4(+1), CU, SU, AR3(+2), CR5(+2), CL1, CR3, SR5(+1), SL1
+SD, SL1, SU, SR3, AR5, ML1(+3), CL2(+3), CD, SL2(+2), MD, AD, AL1(+1)
+ML1(+2), MU, AL1(+1)
+previous solution is 42 - 0 moves
+
+Tue Jun 14 17:10:41 PDT 2005
+A541130001533M
+C232441520245S
+CR4, CU, CL1, CD, CL2, CR4, CU, CR5, CL1, CR3, CD, SL2(+1), SL2, CL2, CL4(+1)
+CL2, CU, SL4, SU, AR3(+2), CR5(+2), CL1, CR3, SR5(+1), SD, SL2, SU, SR3, AR5
+ML1(+3), AD, AL2, MD, SD, SL4(+2), SL3, SR5, ML1(+2), MU, AL1(+1), SU, CD
+CL5
+previous solution is 43 - 0 moves
+
+Tue Jun 14 17:11:24 PDT 2005
+A541100001533M
+C232441523245S
+CR4, CU, CL1, CD, CL2, CR4, CU, CR5, CD, SL3(+1), CL4(+1), CL2, CL2, CU, SL4
+SL3, SU, AR1(+2), CD, CR4, CU, SR1(+1), AR5(+2), AL1, AR3, SR5(+1), SD, SL2
+SU, SR3, CR5, ML1(+3), AD, AL5, AU, CD, CL2, MD, SD, SL4(+2), SL3, SR5
+ML1(+2), MU, CL1(+1)
+previous solution is 45 - 0 moves
+
+Tue Jun 14 17:11:57 PDT 2005
+A541000011533M
+C232441523245S
+CR4, CU, CL1, CD, CL2, CR4, CU, CR5, CD, SL3(+1), CL4(+1), CL2, CL2, CU, SL4
+SL3, SU, AR1(+2), AD, AL2, AR4, AU, AR5, AL1, CD, CR4, CU, SR1, SR5(+2)
+SL1(+1), AR3, SR3, CR5, ML1(+3), AD, AL5, AU, CL1(+1), CD, MD, SD, SL4(+2)
+SL3, SR5, ML1(+2), MU, CL1(+1)
+previous solution is 47 - 0 moves
+
+Tue Jun 14 17:15:19 PDT 2005
+A035241012245M
+C102434105533S
+CR4, CU, AR4(+1), AR1, CD, CR5, CR3, CU, AD, AR1, ML2(+1), MD, CD, SL4(+3)
+SU, CL4(+2), ML3(+2), AU, MR1(+1)
+previous solution is 19 - 0 moves
+
+Tue Jun 14 17:15:20 PDT 2005
+A415103022545M
+C302414105233S
+CR4, CL3, CU, AR1(+1), AD, AR4, CD, CR2, CR5(+1), CR3, SL2(+1), SU, CU
+ML2(+2), CL2(+2), CD, MD, ML1(+1), MU, CL1, SL3(+1)
+previous solution is 21 - 0 moves
+
+Tue Jun 14 17:15:23 PDT 2005
+A025243011145M
+C202434105533S
+AR2, AR2, AD, AR5, AU, AL1, AD, AR3, AU, CR4, CR5, CR3, CU, ML1(+2), AL1(+1)
+CD, ML1(+1), MD, AD, AL1(+1), SL4(+3), SU, CL4(+2), AU, ML1
+previous solution is 25 - 0 moves
+
+Tue Jun 14 17:15:26 PDT 2005
+A045243312145M
+C502432101503S
+CR4, CU, AR4(+1), AD, AR5, AL1, CD, CR5(+1), CU, AR3, AU, ML2(+2), ML4
+AL2(+1), MR4(+2), AD, AR3, CD, MD, SL1(+3), CU, MU, AU, AL3(+2), ML3(+2), AD
+CL3, SL2(+1)
+previous solution is 28 - 0 moves
+
+Tue Jun 14 17:15:34 PDT 2005
+A045243312145M
+C522430101503S
+CR4, CU, AR4(+1), AD, AR5, AL1, CD, CR5(+1), CU, AR3, AU, ML2(+2), ML4
+AL2(+1), MR4(+2), AD, AR3, CD, MD, SL1(+3), CU, MU, AU, AL3(+2), ML3(+2), MD
+CL3(+1), SL3(+1), SR1(+1)
+previous solution is 29 - 0 moves
+
+Tue Jun 14 17:15:35 PDT 2005
+A045543312102M
+C502432101543S
+CR4, CU, AR4(+1), AD, CD, CR5(+1), CU, CR2, AR5, AU, ML2(+2), ML1, MD
+CL2(+1), CD, AD, AL3(+2), AR4(+2), CL3(+1), MR3(+1), CR5, SL1(+3), AU, CU, MU
+ML3(+2), AL3(+2), MD, CL3, SL2(+1)
+previous solution is 30 - 0 moves
+
+Tue Jun 14 17:15:38 PDT 2005
+A043343242545M
+C505132101102S
+AR3, AD, AR1, AU, AR4, AD, AR1, AU, ML4(+1), MD, ML3, ML1, AD, AL5(+1)
+CR3(+2), CU, MU, MR2(+1), AU, AR5(+2), CR4(+2), AD, AR2, CD, MD, SL1(+2)
+AL1(+2), CL2(+3), AU, AL2, SU, SL3(+1)
+previous solution is 32 - 0 moves
+
+Tue Jun 14 17:15:47 PDT 2005
+A043345242045M
+C535132101102S
+AR3, AD, AR1, AU, AR4, AD, AR1, AU, ML4(+1), MD, ML3, ML1, AD, AL5(+1)
+CR3(+2), CU, AU, AR4(+1), MU, MR2(+1), CR4(+2), CD, AD, AR1, AR2(+1), MD
+SL1(+2), AL1(+2), CU, CL5, SL2(+2), AU, AL2
+previous solution is 33 - 0 moves
+
+Tue Jun 14 17:15:48 PDT 2005
+A443313242545M
+C505132100102S
+AR3, AD, AR1, AU, AR1, AR5, AD, AR2, AU, ML4(+1), MD, ML5, AL4, AD, AL3, AL1
+CR3(+2), AU, AR4, CU, MU, MR5(+2), CR4(+2), MD, MR2, CD, SL1(+2), SU, CU
+CL2(+2), MU, ML3(+3), MD, AD, AL1, SL3(+1)
+previous solution is 36 - 0 moves
+
+Tue Jun 14 17:16:12 PDT 2005
+A503313242145M
+C445132120500S
+AR3, AD, AR1, AU, AR1, AD, AR5, AU, ML4(+1), AD, AL2, AL5, MD, ML3, ML1
+CR3(+2), AR5(+2), AU, MU, MR4, CU, CR4(+2), MD, ML3, MU, MR5(+2), AD, ML2(+1)
+MD, CD, SL2(+3), CL2(+3), CU, AL1(+2), AU, ML2(+1), SL1
+previous solution is 37 - 0 moves
+
+Tue Jun 14 17:16:17 PDT 2005
+A440520215242M
+C051433301153S
+CR4, CU, CR5, CL1, CR2, CR2, ML2(+1), MD, ML1, MU, CL2, CL1(+1), CD, MD
+ML3(+1), MR5(+1), CR3(+1), SL1(+2), CL1(+2), CU, CL1, SU, MU, ML5(+2), MD
+ML1, MU, SL5(+1), CL4(+2), AR2(+3), AR2, AD, MD, CD, CR3(+1), CU, MR3
+SR2(+1)
+previous solution is 38 - 0 moves
+
+Tue Jun 14 17:16:21 PDT 2005
+A440520215242M
+C031435301153S
+CR4, CU, CR5, CL1, CR2, CR2, ML2(+1), MD, ML1, MU, CL2, CL1(+1), CD, MD
+ML3(+1), MR5(+1), CR3(+1), SL1(+2), CL1(+2), CU, CL1, CD, CL3, ML1(+1)
+SL4(+2), SL1, ML4(+1), CU, CL4, MU, SU, AR2(+3), CD, CR5, AD, AR5(+1), CU
+AL5, MR2(+1), SD, SR3(+1)
+previous solution is 41 - 0 moves
+
+Tue Jun 14 17:16:32 PDT 2005
+A440520215252M
+C031435301143S
+CR4, CU, CR5, CL1, CR2, CR2, ML2(+1), MD, ML1, MU, CL2, CL1(+1), CD, CL3, CU
+CR5(+1), MR2(+1), MD, CD, SL1(+2), ML1(+2), MU, ML1, SU, CU, CL5(+2), CD, CL1
+CU, SL5(+1), ML4(+2), AR2(+3), MR2(+3), AR5(+1), AD, AL5, AU, CR5(+3), CD
+CL5, MD, SR2(+1)
+previous solution is 42 - 0 moves
+
+Tue Jun 14 17:16:35 PDT 2005
+A440520215242M
+C331405301153S
+CR4, CU, CR5, CL1, CR2, CR2, ML2(+1), MD, ML1, MU, CL2, CL1(+1), CD, ML5, MD
+ML1, MU, MR2, MD, MR5(+1), CR3(+1), SL1(+2), CL1(+2), CU, CL1, SU, MU
+ML5(+2), MD, ML1, MU, SL5(+1), CL4(+2), AR2(+3), CR2(+3), CD, MR2(+2), SD
+SL3, SR5, SU, AL4, AD, AR5
+previous solution is 44 - 0 moves
+
+Tue Jun 14 17:16:54 PDT 2005
+A430520315242M
+C341405201153S
+CR4, CU, CR5, CL1, CR2, CR2, ML2(+1), MD, ML1, MU, CL2, CL1(+1), CD, ML5, MD
+ML1, MU, MR2, MD, MR5(+1), CR3(+1), SL1(+2), CL1(+2), CU, CL1, CD, ML1(+1)
+SL4(+2), SL1, SU, CL4, CL3, CU, MU, ML5, AR2(+3), AD, AR2, CD, CR5, CU, MD
+ML3, MR5, SR3(+1)
+previous solution is 45 - 0 moves
+
+Tue Jun 14 17:17:03 PDT 2005
+A430520315242M
+C342405101153S
+CR4, CU, CR5, CL1, CR2, CR2, ML2(+1), MD, ML1, MU, CL2, CL1(+1), CD, ML5, MD
+ML3, MR2, MU, MR2, MD, MR5(+1), CR3(+1), SL1(+2), CL1(+2), CU, CL1, CD
+ML1(+1), SL4(+2), SL3, SR2, SU, CL4, CL3, CU, MU, ML5, AR2(+3), CD, CR5, CU
+MD, ML3, MR5, AD, AR1(+1), SR3(+1)
+previous solution is 47 - 0 moves
+
+Tue Jun 14 17:20:01 PDT 2005
+A330520215142M
+C453304101254S
+CR3, CU, CR2, CD, CL4, CR3, CU, CR5, CL1, CD, CR4, SL2(+1), SL1, SU, CL2, CU
+CL1(+1), CD, SL5, SD, CL5(+1), CU, SU, CR2(+1), CD, SR5, SD, CR5(+1), CU, SU
+SR2(+1), ML1(+2), MD, ML1, MU, SL1(+1), CL1(+2), CD, SL5(+1), SL3, ML5, MD
+CL5(+1), CU, MU, AR2(+3), AR2, AD, CD, SD, SR4(+1), SU, CR4, MR2(+1)
+previous solution is 54 - 0 moves
+
+Tue Jun 14 17:20:30 PDT 2005
+A430520215242M
+C353304101154S
+CR3, CU, CR2, CL4, CD, CR3, CU, CR5, CL1, CR2, CR2, ML2(+1), MD, ML1, MU, CL2
+CL1(+1), CD, ML5, MD, CL5(+1), CU, MU, CR2(+1), CD, MR5, ML1, MD, CR5(+1), CU
+MR4, CD, SL1(+2), ML1(+2), MU, ML1, SU, CU, CL5(+2), CD, SL5(+1), MD, ML5(+1)
+MU, CL3, CU, AR2(+3), AR2, AD, MD, CD, CR4(+1), CU, MR4, SR2(+1)
+previous solution is 55 - 0 moves
+
+Tue Jun 14 17:22:30 PDT 2005
+A025143101043M
+C213454253502S
+CR4, CU, AR4(+1), SL5, CD, CR5(+1), CU, SU, AR4(+2), AD, SR3(+1), AU, ML1(+3)
+AL3(+2), AR1, SL3(+3), CD, CL4, MD, ML2
+previous solution is 20 - 0 moves
+
+Tue Jun 14 17:22:32 PDT 2005
+A033142101043M
+C215455253402S
+CR5, SL5, AR3, AR1, AD, AR4(+2), AU, SU, CU, CR4(+2), AD, SR3(+1), AU
+ML1(+3), AL4(+1), AL1, AR2, CL4(+2), CR1(+1), MD, ML2, SD, SL5(+1)
+previous solution is 23 - 0 moves
+
+Tue Jun 14 17:22:35 PDT 2005
+A025143101043M
+C213454223505S
+CR3, CL2, CU, AR4(+1), AD, AR5, SL3(+1), SU, AU, CR4, CR4(+2), CD, AD, SR3
+AU, CU, ML1(+3), AL3(+1), AR1, SL3(+3), MD, ML2, CD, CL4(+1)
+previous solution is 24 - 0 moves
+
+Tue Jun 14 17:23:02 PDT 2005
+A425103101043M
+C242451323505S
+CR5, CR5, SL3(+1), SU, CL2, CU, SL5(+1), AR2, AR1(+1), AD, CD, SD, SR5(+2)
+CU, SL5, AR5(+1), AU, SU, SR4(+2), AD, CR3(+1), AU, ML1(+3), ML3, MR1
+CL3(+3), CD, SL3(+2), AD, AL3
+previous solution is 30 - 0 moves
+
+Tue Jun 14 17:23:15 PDT 2005
+A415103101043M
+C242452323505S
+CR5, CR5, SL3(+1), SU, CL5, CU, CL4, AR1(+1), CD, CR2, CU, AR1(+1), AD, SD
+CD, CR5(+2), CU, AR5(+1), SU, AL5, AU, AR4(+2), AD, CD, SR3, AU, CU, ML1(+3)
+AL3(+2), AR1, SL3(+3), CD, CL3, MD, ML2(+1)
+previous solution is 35 - 0 moves
+
+Tue Jun 14 17:23:40 PDT 2005
+A305013015133M
+C024225244415S
+SL4, SU, SR3, CR2, CR2, CR4, CU, CR3, ML1(+2), SD, SL4, SU, SL5, SD, SR2, SR4
+SU, CL1(+2), CL5, CD, CR2, CU, ML5(+2), CL3(+1), MD, MR2, MU, SL5(+1)
+AR3(+3), CR5(+3), CD, CL2, CU, MD, MR2, AD, SR3
+previous solution is 37 - 0 moves
+
+Tue Jun 14 17:26:18 PDT 2005
+A305113305142M
+C020325244415S
+SL4, SU, SR1, SR2, SD, SL4, SU, SL5, CR2, CU, CR1(+1), SR5(+1), SR1, SD, SR1
+SU, CR5, CR2(+1), ML1(+2), CD, CL4, CU, CL5, CD, CR2, MD, SL1, SR2, MU, SD
+SL4, SL3(+1), SU, CU, ML5(+2), AR3(+3), CD, CR2, AD, SR3, MR3
+previous solution is 41 - 0 moves
+
+Tue Jun 14 17:29:44 PDT 2005
+A335110305142M
+C020325244415S
+SL4, SU, SR1, SR2, SD, SL4, SU, SL5, CR2, CU, CR1(+1), SR5(+1), SR1, SD, SR1
+SU, CR5, CR2(+1), ML1(+2), CD, CL4, CU, CL5, CR1, MD, SL1, SR2, MU, SD, SL4
+SU, ML5(+2), MR1(+1), CL3, ML3, SL5, AR1(+3), MR3(+2), MD, SR3(+1), CD, CR5
+CU, AL3, AD, AR5
+previous solution is 46 - 0 moves
+
+Tue Jun 14 17:31:58 PDT 2005
+A540110224345M
+C251332300154S
+ML3, ML2, MD, ML3, MU, ML1, MD, ML1, CR3(+1), ML2, MR3(+1), CU, CR1, CR4, CD
+CR1, CU, CL2, CD, MR5(+1), MU, CR4, MD, SL1(+2), SU, MU, CU, CL2(+2), CD, CL3
+CU, CL1, CD, CL1, ML2(+1), MD, ML5(+1), MU, CU, SL2, SL5(+2), AR1(+3)
+SR1(+3), MR2(+3), MD, AD, SR2, CD, CR2(+1), CU, AR2
+previous solution is 51 - 0 moves
+
+Tue Jun 14 18:19:43 PDT 2005
+A540110224345M
+C251332500134S
+ML3, ML2, MD, ML3, MU, ML1, MD, ML1, CR3(+1), CU, MU, MR1(+1), CR4(+1), CD
+CR1, CU, CL2, CD, CR4, MR4, MD, MR1, MU, ML2, MD, MR3, SL1(+2), SU, MU, CU
+CL2(+2), CD, CL3, CU, CL1, CD, CL1, ML2(+1), MD, ML5(+1), MU, CU, SL2
+SL5(+2), AR1(+3), MR1(+2), MR2, AD, CD, CR2(+1), CU, AR2, SD, SR5(+1)
+previous solution is 54 - 0 moves
+
+Tue Jun 14 18:28:10 PDT 2005
+A540110224235M
+C251333500144S
+ML4, MD, MR1, MU, ML2, MD, ML3, MU, ML1, MD, ML1, CR3(+1), CU, MU, MR1(+1)
+CR4(+1), CD, CR1, CU, CL2, CR3, MR4, MD, MR1, MU, ML2, MD, MR4, CD, SL1(+2)
+SU, CU, MU, ML2(+2), MD, ML3, CL2(+1), CD, CL3(+1), ML1(+1), CL2(+1), CU, SL2
+SD, SL5(+1), SU, MU, AR1(+3), MD, CD, CR5(+1), SD, SR3(+1), SU, AR2(+1), MR3
+previous solution is 56 - 0 moves
+
+Tue Jun 14 19:19:47 PDT 2005
+A541502324343M
+C252131001054S
+ML4, ML5, ML1, MD, ML2, CR2(+1), CR1, MR3(+1), MU, CU, CR4(+1), CD, MD
+MR5(+1), CU, MU, ML2(+1), MD, CL5, CD, ML5(+1), CL2(+1), CU, MU, AR1(+2), AD
+AR1, CD, CR3(+1), CU, AU, AR4(+1), AD, MD, MR3, MR5(+1), AU, MU, ML2(+1)
+CR3(+2), MD, AD, AL3(+1), MR4, CD, AR5(+1), SL1(+3), AU, CU, MU, ML3(+2), MD
+AL2(+1), AL2, CL3, SL3(+1), SR1
+previous solution is 57 - 0 moves
+
+Tue Jun 14 19:44:40 PDT 2005
+A551502324344M
+C242131001053S
+ML4, ML5, ML1, MD, ML2, CR2(+1), CR1, MR3(+1), MU, CU, CR4(+1), CD, MD
+MR5(+1), CU, MU, ML2(+1), MD, CL5, CL1, MU, ML5(+1), CD, CL2, CU, AR1(+2), AD
+AR1, CD, CR3(+1), CU, AU, AR4(+1), AD, MD, MR3, MR5(+1), AU, MU, ML2(+1)
+CR3(+2), AD, AR3, CD, MD, ML3, MR5(+1), SL1(+3), CU, MU, AU, AL2(+2), AL2
+ML3(+1), MD, CL3, SL3(+1), SR1
+previous solution is 58 - 0 moves
+
+Tue Jun 14 19:49:34 PDT 2005
+A442522325343M
+C351101001054S
+ML3, MD, ML1, MU, ML5, MD, ML3, MU, AR2(+1), AR2, MR2, MR5(+1), MD, AD
+AR5(+1), AU, MU, AL2(+1), AD, ML5, MD, AL5(+1), AU, ML3, AD, CR1(+2), MR1(+2)
+CU, AU, AR2(+1), CR5(+1), CD, AD, MR5(+2), CU, MU, ML2(+1), AU, AR3(+2), AD
+MD, CL5, CD, CR5(+2), MR1, MU, MR3, MD, SL1(+3), SU, CU, CL3(+1), CD, AU, MU
+ML3(+2), AL2(+2), AD, SL2(+1)
+previous solution is 59 - 0 moves
+
+Tue Jun 14 20:01:55 PDT 2005
+A241102224334M
+C554331001055S
+ML3, ML2, MD, ML3, MU, ML1, ML1, ML2, MD, CR3(+1), MR3(+1), MU, CU, CR4(+1)
+CD, MD, MR5(+1), CU, MU, ML2(+1), MD, CD, CL3(+1), ML5(+1), MU, CU, CL1
+CL2(+1), AR1(+2), AR1, MD, CD, CR3(+1), CU, AR4(+1), AD, MR3, MR5(+1), AU, MU
+ML2(+1), CR3(+2), CD, MD, AD, AL3(+1), AR5(+2), ML3, MR5(+1), SL1(+3), SU, CU
+MU, AU, AL2(+3), ML2(+3), MD, AD, CL2(+1), SL2(+1)
+previous solution is 60 - 0 moves
+
+Tue Jun 14 20:12:57 PDT 2005
+A551102224335M
+C244331001054S
+ML3, ML2, MD, ML3, MU, ML1, ML1, MD, CR3(+1), ML2, MR3(+1), MU, CU, CR4(+1)
+CD, MD, MR5(+1), CU, MU, ML2(+1), MD, CD, CL3(+1), CU, CL1, CL1, MU, ML5(+1)
+CD, CL2, CU, AR1(+2), AR1, MD, CD, CR3(+1), CU, AR4(+1), AD, MR3, MR5(+1), AU
+MU, ML2(+1), CR3(+2), MD, AD, AL3(+1), MR4, CD, AR5(+1), SL1(+3), SU, AU, CU
+MU, ML2(+3), AL2(+3), AD, CL2(+2), MD, SL2
+previous solution is 62 - 0 moves
+
+Tue Jun 14 20:25:59 PDT 2005
+A551102224334M
+C244331001055S
+ML3, ML2, MD, ML3, MU, ML1, ML1, MD, CR3(+1), ML2, MR3(+1), MU, CU, CR4(+1)
+CD, MD, MR5(+1), CU, MU, ML2(+1), MD, CD, CL3(+1), CU, CL1, CL1, MU, ML5(+1)
+CD, CL2, CU, AR1(+2), AR1, MD, CD, CR3(+1), CU, AR4(+1), AD, MR3, MR5(+1), AU
+MU, ML2(+1), CR3(+2), CD, MD, AD, AL3(+1), AR5(+2), ML3, MR5(+1), SL1(+3), SU
+CU, MU, AU, AL2(+3), ML2(+3), MD, AD, CL2(+1), SL2(+1)
+previous solution is 63 - 0 moves
+
+Wed Jun 15 15:34:12 PDT 2005
+A305441032211M
+C544215200335S
+AR4, AD, CR5(+1), AR2(+1), CU, ML1, ML1, ML2, MD, SL5(+2), AU, ML2
+previous solution is 12 - 0 moves
+
+Wed Jun 15 15:34:14 PDT 2005
+A054441005211M
+C245210233335S
+ML1, MD, SL3(+1), ML3(+1), SL5(+1), SL2, ML5, CR2(+2), CU, AR4(+1), CR1(+1)
+CD, AR1, SR2(+1), MR2(+2), MU, SR2(+1)
+previous solution is 17 - 0 moves
+
+Wed Jun 15 15:34:15 PDT 2005
+A355441002211M
+C544210230335S
+AR4, SL3, SU, ML1, ML2(+1), SL5(+2), ML5(+2), MD, SD, CR2(+2), MR1(+2), MU
+AR1(+1), AD, MR1, SR2(+2), SU, CR2(+1)
+previous solution is 18 - 0 moves
+
+Wed Jun 15 15:34:15 PDT 2005
+A305441002241M
+C541213230535S
+AR4, AD, AR1, AR5, ML1, MD, SL3(+2), SU, SL5, SD, ML3(+1), AL2(+1), ML5(+2)
+AU, CR2(+2), MR3(+2), CR2(+1), MU, SR3
+previous solution is 19 - 0 moves
+
+Wed Jun 15 15:34:16 PDT 2005
+A355441002213M
+C544110220335S
+AR4, SL3, SU, SR1, ML2(+1), MD, SL2, MU, ML5(+2), SL5(+2), SD, MD, AL3, AD
+CR1(+3), AR1(+3), SR2(+3), SU, MR2(+2), AU, CU, CR1(+1), CD, AR1
+previous solution is 24 - 0 moves
+
+Wed Jun 15 15:34:36 PDT 2005
+A355441202213M
+C544110020335S
+AR4, SL3, SU, SR1, ML2(+1), MD, SL2, MU, ML5(+2), SL5(+2), SD, MD, AL3, AD
+CR1(+3), AR1(+3), AU, CU, CR1(+1), MU, SU, SR2(+3), SD, MR2(+2), CD, AR1
+previous solution is 26 - 0 moves
+
+Wed Jun 15 15:34:39 PDT 2005
+A355241002213M
+C544110240335S
+SL3, SU, SR1, SL2, SR3, ML1(+1), ML2, SD, SL4, SU, ML5(+1), AR4(+1), AL3(+1)
+AD, SL5(+1), SD, MD, CR1(+3), AR1(+3), SR2(+3), SU, MR2(+2), AU, CU, CR1(+1)
+CD, AR1
+previous solution is 27 - 0 moves
+
+Wed Jun 15 15:34:40 PDT 2005
+A355241202214M
+C544110030335S
+SL3, SU, SR1, ML2(+1), SD, SL3, SU, MR1, ML2, ML5(+1), AR4(+1), AL3(+1), AD
+SL5(+1), SD, MD, CR1(+3), AR1(+3), AU, CU, CR1(+1), MU, SU, SR2(+3), SD
+MR2(+2), CD, AR1
+previous solution is 28 - 0 moves
+
+Wed Jun 15 15:34:48 PDT 2005
+A352241102255M
+C544100031334S
+SL3, SL1, SU, SL4, SL2, AR4(+1), AD, AR3, AR4, AU, ML2(+1), AL2(+1), ML4(+1)
+AL5(+2), AD, ML3(+1), MD, SD, CR1(+3), MU, MR4, CU, SU, AU, AR1(+3), SR1(+3)
+SD, AD, CR1(+1), MR1(+1)
+previous solution is 30 - 0 moves
+
+Wed Jun 15 15:35:01 PDT 2005
+A352241002235M
+C544100131354S
+SL3, SL1, SU, SL4, SL2, AR4(+1), AD, AR3, AR4, AU, ML2(+1), AL2(+1), ML4(+1)
+AL5(+2), AD, ML3(+1), MD, SD, CR1(+3), MU, MR4, MR1, MD, AR3(+3), AL1, AU
+CR3(+1), CL1, SR3(+2), SU, SL1(+1)
+previous solution is 31 - 0 moves
+
+Wed Jun 15 15:35:06 PDT 2005
+A350241101255M
+C544100232334S
+SL3, SU, SL1, SL4, SD, SL1, SU, AR4(+1), AD, SD, SR3(+1), SR3, SU, ML2(+1)
+ML1, SD, SL3, MD, ML4(+2), SL4(+2), AR3, AL5(+2), CR1(+3), AU, AR4, AR1, AD
+SR3(+3), MR2(+2), MU, CR2(+1), SU, SL1(+1)
+previous solution is 33 - 0 moves
+
+Wed Jun 15 15:35:17 PDT 2005
+A350221201455M
+C424100145333S
+CR2, CU, CR2, CD, SL3, SU, SL1, SD, SR3, SL4, SL4(+1), CU, CL3, SU, AR2(+2)
+CR2(+2), AD, AR4, AU, CR4(+1), AL5(+1), AR2(+1), AR5(+1), SR2, SR5(+2)
+ML1(+3), SL2(+3), SL1, AL2(+2), CL2(+3), AD, ML2, SD, CR1
+previous solution is 34 - 0 moves
+
+Wed Jun 15 15:35:35 PDT 2005
+A350221201055M
+C424104145333S
+CR2, CU, CR2, CD, SL3, SU, SL1, SD, SR3, SL4, SL4(+1), CU, CL3, SU, AR2(+2)
+CR2(+2), AD, AR4, SD, SR5(+1), CD, CR3(+2), CU, SR3, SU, AR3, AU, ML1(+3)
+SL2(+3), SL1, AL2(+2), CD, CL4, AD, ML2
+previous solution is 35 - 0 moves
+
+Wed Jun 15 15:36:21 PDT 2005
+A253402225143M
+C341510014350S
+SL4, AR4, AD, AR1, AR5(+1), SU, SR3, AU, ML1(+2), SL2(+2), AL2(+2), ML4(+2)
+MD, ML3, SL5(+1), SD, CR1(+2), CU, SU, MU, MR5(+3), ML4(+1), AD, SR2(+2)
+CR2(+2), SD, MR2
+previous solution is 27 - 0 moves
+
+Wed Jun 15 15:36:23 PDT 2005
+A253303225140M
+C341510014254S
+AR3, SL4, SL1, SU, SL5(+1), SD, AL2, AD, CR1(+2), AU, AR3, AD, SR1(+2)
+AR4(+1), AL1, CR4(+2), CU, SR5(+1), SU, AR4, AU, ML1(+2), AL2(+3), AD, CL2
+SL3(+2), SD, ML3(+1)
+previous solution is 28 - 0 moves
+
+Wed Jun 15 15:36:24 PDT 2005
+A255303225144M
+C341510014230S
+SL4, SL1, SU, SL5, AR3(+1), AR5, AR1, AL2, AL5(+1), AD, SL2, SD, CR1(+2), SU
+SR3, CU, AU, AR5(+2), AR1, AL2, AR4, CR5(+1), CR1, SR5, ML2(+3), AL2(+3)
+ML3(+1), AD, CL3(+1), CD, SL3, MR2(+1)
+previous solution is 32 - 0 moves
+
+Wed Jun 15 15:36:45 PDT 2005
+A255303205144M
+C341510014232S
+SL4, SL1, SU, SL5, AR3(+1), AR5, AD, AL1, AU, AL5(+1), AD, SL2, SD, CR1(+2)
+SU, SR3, SD, AR1(+2), CR4(+2), CL1, CR3, AR4, AR2(+1), AU, CU, ML1(+2), SU
+SR5, AL2(+3), AD, CL3(+2), CD, ML3(+1), SL2
+previous solution is 34 - 0 moves
+
+Wed Jun 15 15:36:49 PDT 2005
+A255303424224M
+C341510015130S
+ML4, MD, ML1, MU, ML5, AR3(+1), AD, AR5, AL1, AU, AL5(+1), AD, ML2, MD
+CR1(+2), CU, CR3, CD, MR1(+1), AR5(+2), AL1, AR3, MR5(+1), ML1, MU, MR4, MD
+SL1(+2), AU, AL4, AD, SU, MU, ML4(+1), SL3(+1)
+previous solution is 35 - 0 moves
+
+Wed Jun 15 15:37:10 PDT 2005
+A455303421224M
+C341520015130S
+ML2, MD, ML1, MU, ML2, ML5, AR3(+1), AD, AR5, AL1, AU, AL5(+1), AD, MD, MR2
+ML3(+1), CR1(+2), MR2(+2), AR5(+2), AL1, AR3, CU, CR3, MU, MR2(+1), MR4, MD
+CD, SL1(+2), AU, AL4, AD, SU, MU, ML4(+1), SL3(+1)
+previous solution is 36 - 0 moves
+
+Wed Jun 15 15:37:23 PDT 2005
+A455303121224M
+C344520015130S
+ML2, MD, ML1, MU, ML2, ML5, AR3(+1), AD, MD, MR5(+1), ML1, MR3, AR5, AL1, AU
+AR4, AD, SL1(+2), AU, AL2, AL1, AD, ML5(+2), SL1(+1), AL4(+2), SL4(+2)
+CR2(+3), AU, AR3, AD, CU, SU, SR3(+1), MU, MR1(+2), MD, CR1(+1)
+previous solution is 37 - 0 moves
+
+Wed Jun 15 15:37:32 PDT 2005
+A435305121224M
+C344520015130S
+ML2, MD, ML1, MU, ML2, ML5, AR3(+1), AD, MD, MR5(+1), ML1, MR3, AR5, AL1, AU
+AR4, AD, SL1(+2), AU, AL2, AL2, AD, ML5(+2), ML3, SL5(+1), AL4(+1), CR2(+3)
+MU, MR5, CU, SU, AU, AR1(+3), AD, SR1(+2), MD, CL4, CR5
+previous solution is 38 - 0 moves
+
+Wed Jun 15 15:37:33 PDT 2005
+A451303521224M
+C344520015130S
+ML2, MD, ML1, MU, ML1, MD, ML5, MU, ML1, AR3(+1), AD, MD, MR5(+1), ML1, MR3
+AR5, AL1, AU, AR4, AD, SL1(+2), AU, AL2, AL1, AD, ML5(+2), SL1(+1), AL4(+2)
+SL4(+2), CR2(+3), AU, AR3, CU, CL4, CR5(+1), CD, AD, SU, SR5, MU, ML1, MR3
+previous solution is 42 - 0 moves
+
+Wed Jun 15 15:37:52 PDT 2005
+A451304521224M
+C334520015130S
+ML2, MD, ML1, MU, ML1, MD, ML5, MU, ML1, AR3(+1), AD, MD, MR5(+1), ML1, MR3
+AR5, AL1, AU, AR4, AD, SL1(+2), AU, AL2, AL2, AD, ML5(+2), ML3, SL5(+1)
+AL4(+1), CR2(+3), AU, MU, MR5(+1), SL3, SU, SR4(+1), CU, AR2(+3), AL4(+3), MD
+SD, AR4(+1), CL4, CR5(+1)
+previous solution is 44 - 0 moves
+
+Wed Jun 15 15:38:08 PDT 2005
+A351304521224M
+C434520015130S
+ML2, MD, ML1, MU, ML1, MD, ML5, MU, ML1, AR3(+1), AD, MD, MR5(+1), ML1, MR3
+AR5, AL1, AU, AR4, AD, SL1(+2), AU, AL2, AL2, AD, ML5(+2), MU, ML3, MD
+SL5(+1), AL4(+1), CR2(+3), CU, MU, MR4(+1), SU, AU, AR2(+3), AR2, MD, CL3(+1)
+CR5(+1), CD, AL4, SL3, SR5(+1)
+previous solution is 46 - 0 moves
+
+Wed Jun 15 15:39:31 PDT 2005
+A051334511224M
+C434020025135S
+ML2, MD, ML1, ML2, MU, ML3, MD, ML3, MU, AR3(+1), AD, AR5, AR1, AL2, MR1, MD
+MR5(+1), MU, ML1, MR4, MD, AR3, SL1(+2), ML2(+2), MU, SU, AU, AL1(+1)
+SL3(+2), AL3(+2), SD, SL4, ML5(+1), MD, AD, CR2(+3), MU, MR4, SU, SR5(+1), SD
+MD, AR5(+3), AU, AL5, CL3, CU, CR4
+previous solution is 48 - 0 moves
+
+Wed Jun 15 15:40:06 PDT 2005
+A051334521224M
+C434120005135S
+ML2, MD, ML1, MU, ML2, ML3, MD, ML1, MU, ML1, AR3(+1), AD, MD, MR5(+1), MR1
+MU, ML2, MR4, MD, AR5, AU, AR2, AD, SL1(+2), SU, AU, AL1(+1), MU, ML2(+2)
+SL3(+2), AL3(+2), SD, SL4, ML5(+1), MD, AD, CR2(+3), MU, MR4, SU, SR5(+1), SD
+MD, AR5(+3), AU, AL5, CL3, CU, CR4
+previous solution is 49 - 0 moves
+
+Wed Jun 15 15:41:15 PDT 2005
+A051334521225M
+C434120005134S
+ML2, MD, ML1, MU, ML2, ML3, MD, ML1, MU, ML1, AR3(+1), AD, AR5, AR1, AU, AL2
+AD, MD, MR5(+1), MU, AR4, MR2, MD, SL1(+2), SU, MU, ML1(+1), AU, AL2(+2)
+SL3(+2), AL3(+1), ML5(+2), SD, SL4, AD, MD, CR2(+3), CU, SU, SR4(+1), AU
+AR2(+2), AR2, CR5(+2), SD, MU, MR5, MD, AL4, CL5
+previous solution is 50 - 0 moves
+
+Wed Jun 15 15:52:30 PDT 2005
+A051334522225M
+C434110005134S
+ML2, MD, ML1, MU, ML2, ML3, MD, ML1, MU, ML1, AR3(+1), AD, AR5, AR1, AU, AL2
+AD, MD, MR5(+1), MU, AR4, MR2, MD, SL1(+2), SU, MU, ML2(+1), AU, AL2(+1)
+SL3(+2), AL3(+2), AL1, SD, SL4, ML5(+1), MD, AD, CR1(+3), AR5(+1), AR1, AU
+MU, MR4, SU, SR5(+1), CU, CR5(+3), MD, SD, AL4, CL5
+previous solution is 51 - 0 moves
+
+Wed Jun 15 16:00:26 PDT 2005
+A240335521225M
+C434100105134S
+ML2, MD, ML1, MU, ML2, ML3, MD, ML4, MU, AR3(+1), AD, AR5, AR1, AU, AL2, AD
+AR4, MR3, MD, MR5, MU, MR2, MD, SL1(+2), SU, MU, ML1(+1), AU, AL2(+2)
+SL3(+2), ML3(+2), SD, AD, AL4(+1), AU, ML2(+1), MD, SL3, AD, CR1(+3), AU, AL2
+AR5, AD, SU, MU, MR5(+1), MD, CU, CL2(+1), SR5, CR5
+previous solution is 52 - 0 moves
+
+Wed Jun 15 16:01:56 PDT 2005
+A532325121145M
+C345100004234S
+SL4, SU, SR1, SL2, SD, SL5, SU, AR3(+1), AD, SR2, SD, AR4(+1), AU, AR1, AL2
+AD, AR3, AU, SR4, SU, SR1, SL2, SD, SR4, SU, ML1(+2), SL2(+2), SD, AL1(+1)
+AD, AL5(+1), AR1, MD, ML5(+2), SL4(+2), SU, MU, AL3, MD, SD, CR1(+3), AU, AR5
+CU, SU, SR2(+1), MU, MR1(+3), CR4(+3), AD, MD, CL5, SR1(+1)
+previous solution is 53 - 0 moves
+
+Wed Jun 15 16:07:15 PDT 2005
+A542325021145M
+C335100104234S
+SL4, SU, SR1, SL2, SD, SL5, SU, AR3(+1), AD, SR2, SD, AR4(+1), AU, AR1, AL2
+AD, AR3, AU, SR4, SU, SR1, SL2, SD, SR4, SU, ML1(+2), SL2(+2), SD, AL1(+1)
+AD, AL5(+1), AR1, MD, ML5(+2), MU, AL3, MR2, MD, ML3, SL5, CR1(+3), CU, MU
+MR2(+1), MD, CD, AU, AR5, AD, SR1(+3), SU, CL3, CU, CR5, MR1(+1)
+previous solution is 55 - 0 moves
+
+Wed Jun 15 16:12:53 PDT 2005
+A542325024245M
+C335100101134S
+ML4, MD, MR1, MU, ML2, MD, ML5, MU, AR3(+1), AD, MR2, MR4, MD, MR1, MU, ML2
+AU, AR4(+1), AD, AR1, AU, MD, MR4, AL2, AD, AR3, SL1(+2), AL1(+1), MU, ML2
+ML2, MD, SL5(+2), SU, AL5(+1), AR1, AL3, SR2, SD, SL3, ML5, CR1(+3), CU, SU
+SR2(+1), SD, CD, AU, AR5, AD, MR1(+3), MU, CL3, CU, CR5, SR1(+1)
+previous solution is 56 - 0 moves
+
+Wed Jun 15 16:15:13 PDT 2005
+A133422123443M
+C450100205155S
+AR4, AD, AR5, AR1, AU, ML3(+1), MD, AL2, MU, ML4(+1), MD, AD, AL5(+1), AU, MU
+AR2(+1), MD, MR5, AD, AR5(+1), MU, MR3, MD, SL1(+2), MU, ML3, AU, AL2(+1)
+ML4(+1), MD, AD, AL5(+1), AU, MU, AR2(+1), SU, SL2, SL3(+2), SD, MD, MR5, AD
+ML5(+2), AU, AL3, AL1, AD, CR1(+3), MU, SU, AU, AR2(+2), MR2(+2), MD, CR2(+1)
+SR2(+1), AR1(+1)
+previous solution is 57 - 0 moves
+
+Wed Jun 15 16:15:44 PDT 2005
+A133422223443M
+C450100105155S
+AR4, AD, AR5, AR1, AU, ML3(+1), MD, AL2, MU, ML4(+1), MD, AD, AL5(+1), AU, MU
+AR2(+1), MD, MR5, AD, AR5(+1), MU, MR3, MD, SL1(+2), MU, ML3, AU, AL2(+1)
+ML4(+1), MD, AD, AL5(+1), AU, MU, AR2(+1), SU, SL2, SL3(+2), SD, MD, MR5, AD
+ML5(+2), AU, AL3, AL1, AD, CR1(+3), CU, MU, SU, AU, AR2(+3), MR2(+3), MD, AD
+SR2(+1), CR2(+1)
+previous solution is 58 - 0 moves
+
+Wed Jun 15 16:17:48 PDT 2005
+A343523225254M
+C450100101143S
+AR3, AD, AR1, AU, AR5, AD, AR3, AU, ML2(+1), ML2, AL2, AL5(+1), AD, MD
+ML5(+1), AU, MU, MR2(+1), MD, AR5, MU, MR5(+1), AD, AR3, MD, SL1(+2), AL1(+2)
+SU, MU, ML2(+1), SL5(+1), SD, MD, AL5(+2), AU, SU, AR2(+1), MU, ML3(+2), MD
+AD, AL1, SR5, SD, SL5(+2), AU, AL3, AD, CR1(+3), CU, SU, AU, AR3(+2), AD
+SR3(+1), MU, MR2(+2), MD, CR2(+1)
+previous solution is 59 - 0 moves
+
+Wed Jun 15 17:10:28 PDT 2005
+A443423201155M
+C550102133042S
+AR3, AR2, AD, AR3, AU, AR1, AR1, AD, AR2, SL3(+1), AL3(+1), AU, SU, SL4(+1)
+SD, AD, AL5(+1), AU, SU, AR2(+1), AD, SD, SR3(+1), SU, AU, AR5(+1), SR1, SR1
+SD, SR2, SU, ML1(+2), AD, SD, SL3(+1), SU, ML1, ML4(+1), MD, AL3, AL5(+1), AU
+MU, AR2(+1), SL3(+2), SD, AD, MD, MR3(+1), AR3(+1), AL5(+2), ML5(+2), CR1(+3)
+MR2(+3), AR3(+3), AL1, MU, SR2(+1), CU, CR2(+1)
+previous solution is 60 - 0 moves
+
+Wed Jun 15 17:18:36 PDT 2005
+A433422201145M
+C550100133452S
+AR3, AR2, AD, AR3, AU, AR1, AR1, AD, AR2, SL3(+1), AL3(+1), AU, SU, SL4(+1)
+SD, AD, AL5(+1), AU, SU, AR2(+1), AD, SD, SR3(+1), AR5(+1), SU, SR1, SD
+SR2(+1), SU, AU, ML1(+2), AD, SD, SL3(+1), SU, ML1, ML4(+1), MD, AL3, AL5(+1)
+AU, MU, AR2(+1), SL3(+2), SD, AD, MD, MR3(+1), AR3(+1), AL5(+2), ML5(+2)
+CR1(+3), CU, AU, SU, MU, MR2(+3), AR2(+3), AD, SR2(+2), MD, CR2
+previous solution is 62 - 0 moves
+
+Wed Jun 15 17:30:16 PDT 2005
+A433422201155M
+C550100133442S
+AR3, AR2, AD, AR3, AU, AR1, AR1, AD, AR2, SL3(+1), AL3(+1), AU, SU, SL4(+1)
+SD, AD, AL5(+1), AU, SU, AR2(+1), AD, SD, SR3(+1), SU, AU, AR5(+1), SR1, SR1
+SD, SR2, SU, ML1(+2), AD, SD, SL3(+1), SU, ML1, ML4(+1), MD, AL3, AL5(+1), AU
+MU, AR2(+1), SL3(+2), SD, AD, MD, MR3(+1), AR3(+1), AL5(+2), ML5(+2), CR1(+3)
+CU, AU, SU, MU, MR2(+3), AR2(+3), AD, SR2(+2), MD, CR2
+previous solution is 63 - 0 moves
+
