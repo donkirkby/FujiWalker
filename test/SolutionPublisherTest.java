@@ -25,7 +25,7 @@ public class SolutionPublisherTest extends MockOutputTest {
 		// SETUP
 		String board[] = 
 			{ "00200000002000",
-			  "00020000000200" };
+			  "00020030000200" };
 		ArrayList coins = BoardFactory.createBoard(board);
 		BoardState state = new BoardState(coins);
 		ArrayList solution = new ArrayList();
@@ -42,7 +42,11 @@ public class SolutionPublisherTest extends MockOutputTest {
 		solution.add(state);
 		state = state.setPriestPosition(2, 20);
 		solution.add(state);
-		for (int i = 0; i < 6; i++)
+		state = state.setPriestPosition(1, 13);
+		solution.add(state);
+		state = state.setPriestPosition(1, 15);
+		solution.add(state);
+		for (int i = 0; i < 5; i++)
 		{
 			state = state.setPriestPosition(0, 4);
 			solution.add(state);
@@ -69,11 +73,11 @@ public class SolutionPublisherTest extends MockOutputTest {
 					boardDescription);
 			boardDescription = outputReader.readLine();
 			assertEquals(
-					"C002000000020S",
+					"C002003000020S",
 					boardDescription);
 			String move = outputReader.readLine();
 			assertEquals(
-					"AR2, SL2, AD, SU, CR2(+1), ML2(+1), AU, AD, AU, AD, AU, AD, AU, AD, AU, AD",
+					"AR2, SL2, AD, SU, CR2(+1), ML2(+1), CR3, CR, AU, AD, AU, AD, AU, AD, AU, AD",
 					move);
 			move = outputReader.readLine();
 			assertEquals(
@@ -133,11 +137,8 @@ public class SolutionPublisherTest extends MockOutputTest {
 			assertEquals(
 					"C131144450230S",
 					boardDescription);
-			String move = outputReader.readLine();
-/*			assertEquals(
-					"AR5, AD, AL3, CR1, CR4(+1), AR4(+1), SL5, SU, ML5(+1), SL1(+1)",
-					move);
-	*/		String message = outputReader.readLine();
+			outputReader.readLine();
+			String message = outputReader.readLine();
 			assertTrue(
 					message.startsWith("previous solution is "));
 			assertEquals(
@@ -150,6 +151,5 @@ public class SolutionPublisherTest extends MockOutputTest {
 		{
 			outputReader.close();
 		}
-
 	}
 }

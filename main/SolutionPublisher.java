@@ -89,15 +89,18 @@ public class SolutionPublisher extends SolutionWriter {
 								((Integer)coins.get(currPos)).intValue();
 							jumps = -move/2 - steps;
 						}
-						moveText.write(
-								direction
-								+ new Integer(steps).toString());
-						if (jumps > 0)
+						moveText.write(direction);
+						if (prevPos < 12 || 15 < prevPos)
 						{
-							moveText.write(
-									"(+"
-									+ new Integer(jumps).toString()
-									+ ")");
+							// Didn't start on peak, so write distance.
+							moveText.write(new Integer(steps).toString());
+							if (jumps > 0)
+							{
+								moveText.write(
+										"(+"
+										+ new Integer(jumps).toString()
+										+ ")");
+							}
 						}
 					}
 				}

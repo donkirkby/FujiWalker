@@ -48,7 +48,6 @@ public class SideStepperTest extends TestCase
 	
 	public void testOccupied()
 	{
-		/* before the priests move onto the board, they can't step sideways. */
 		String board[] = 
 			{ "00000000000000",
 			  "00000000000000" };

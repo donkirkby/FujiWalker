@@ -61,7 +61,7 @@ public class ForwardStepperTest extends TestCase
 	public void testPeak()
 	{
 		/* Once a priest is on the peak (four central spaces), he cannot
-		 * leave.
+		 * leave. However, he can move to the other side of the peak.
 		 */ 
 		String board[] = 
 		{ "05520335211430",
@@ -69,13 +69,17 @@ public class ForwardStepperTest extends TestCase
 		ArrayList coins = BoardFactory.createBoard(board);
 		BoardState state = new BoardState(coins);
 		state = state.setPriestPosition(3, 14);
-		BoardState goal = state.setPriestPosition(3, 4);
+		BoardState badGoal = state.setPriestPosition(3, 4);
+		BoardState goodGoal = state.setPriestPosition(3, 12);
 		ForwardStepper stepper = new ForwardStepper();
 		ArrayList newStates = stepper.getPossibleStates(state);
 		
 		assertFalse(
 			"Should not be able to leave peak.", 
-			newStates.contains(goal));
+			newStates.contains(badGoal));
+		assertTrue(
+			"Should be able to move on peak.", 
+			newStates.contains(goodGoal));
 	}
 	
 	public void testOccupied()

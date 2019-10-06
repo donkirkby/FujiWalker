@@ -27,31 +27,43 @@ public class ForwardStepper implements IStepper
 			// If the priest is already on the peak, stay there.
 			int lowerLimit = 12, upperLimit = 15;
 			int priestPosition = currentState.getPriestPosition(priestNum); 
-			if (priestPosition < lowerLimit || upperLimit < priestPosition)
+			if (lowerLimit <= priestPosition && priestPosition <= upperLimit)
 			{
+				// Any move is allowed within the peak.
+				int target =
+						priestPosition / 2 == 6
+						? priestPosition + 2
+						: priestPosition - 2;
+				if ( ! currentState.isOccupied(target)) {
+					newStates.add(currentState.setPriestPosition(
+							priestNum,
+							target));
+				}
+			}
+			else {
 				lowerLimit = 2;
 				upperLimit = 25;
-			}
-			int step = -2;
-			while (step <= 2)
-			{
-				int target = priestPosition + step;
-				int numSteps = 0;
-				while (lowerLimit <= target && target <= upperLimit)
+				int step = -2;
+				while (step <= 2)
 				{
-					if (!currentState.isOccupied(target))
+					int target = priestPosition + step;
+					int numSteps = 0;
+					while (lowerLimit <= target && target <= upperLimit)
 					{
-						numSteps++;
-						if (numSteps == currentState.getValue(target))
+						if (!currentState.isOccupied(target))
 						{
-							newStates.add(currentState.setPriestPosition(
-								priestNum,
-								target));
+							numSteps++;
+							if (numSteps == currentState.getValue(target))
+							{
+								newStates.add(currentState.setPriestPosition(
+									priestNum,
+									target));
+							}
 						}
+						target += step;
 					}
-					target += step;
+					step += 4; // check the other direction.
 				}
-				step += 4; // check the other direction.
 			}
 		}
 		return newStates;
