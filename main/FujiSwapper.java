@@ -4,7 +4,6 @@
  */
 package main;
 
-import java.util.ArrayList;
 import java.util.Date;
 
 /** Searches for longest solution by slightly shuffling a board, picking
@@ -17,15 +16,11 @@ import java.util.Date;
  *
  */
 public class FujiSwapper {
+	private static final boolean USE_DOMINOES = false;
 
 	public static void main(String[] args) {
-		
-		ArrayList coins = new ArrayList();
-		
-		ArrayList bestBoardInShortBatch = null;
-		ArrayList bestBoardInLongBatch = null;
-		SearchBatch longBatch = new SearchBatch();
-		SearchBatch shortBatch = new SearchBatch();
+		SearchBatch longBatch = createBatch();
+		SearchBatch shortBatch = createBatch();
 		while (true)
 		{
 			longBatch.runBatch();
@@ -35,7 +30,7 @@ public class FujiSwapper {
 				System.out.println(new Date());
 				showProgress(longBatch, "long batch");
 				showProgress(shortBatch, "short batch");
-				shortBatch = new SearchBatch();
+				shortBatch = createBatch();
 			}
 			shortBatch.runBatch();
 			if (shortBatch.getLongestSolutionInSeries() > 
@@ -46,9 +41,16 @@ public class FujiSwapper {
 				showProgress(longBatch, "long batch");
 				showProgress(shortBatch, "short batch");
 				longBatch = shortBatch;
-				shortBatch = new SearchBatch();
+				shortBatch = createBatch();
 			}
 		}
+	}
+	
+	private static SearchBatch createBatch() {
+		if (USE_DOMINOES) {
+			return new DominoSearchBatch();
+		}
+		return new SearchBatch();
 	}
 	
 	private static void showProgress(SearchBatch batch, String batchName){

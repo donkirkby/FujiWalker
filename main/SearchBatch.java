@@ -13,7 +13,7 @@ import java.util.Random;
  */
 public class SearchBatch {
 	
-	private Random m_generator = new Random();
+	protected Random m_generator = new Random();
 	private final BoardTracker m_tracker = new BoardTracker();
 	private final SolutionWriter m_writer = new SolutionPublisher();
 	private final SolutionOptimizer m_optimizer =
@@ -25,7 +25,7 @@ public class SearchBatch {
 	
 	public SearchBatch(){
 		ArrayList coins = new ArrayList();
-		String coinValues = "0054545454323232321010101000";
+		String coinValues = getDefaultCoins();
 		for (int i = 0; i < coinValues.length(); i++)
 		{
 			coins.add(new Integer(coinValues.charAt(i)-'0'));
@@ -37,6 +37,10 @@ public class SearchBatch {
 		m_bestBoardInBatch = coins;
 		m_longestSolutionInSeries = 1;
 		m_batchesWithoutProgress = 0;
+	}
+	
+	protected String getDefaultCoins(){
+		return "0054545454323232321010101000";
 	}
 	
 	public int getLongestSolutionInSeries(){
@@ -107,7 +111,7 @@ public class SearchBatch {
 	/**
 	 * @param board
 	 */
-	private void swapCoins(ArrayList board) {
+	protected void swapCoins(ArrayList board) {
 		int suit = m_generator.nextInt(4);
 		int coin1 = m_generator.nextInt(6);
 		int coin2 = (coin1 + m_generator.nextInt(5) + 1) % 6;
